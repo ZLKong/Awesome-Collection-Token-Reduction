@@ -25,7 +25,7 @@ Last update on 2024/10/22
 * [CVPR 2023] Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers [[Paper](https://arxiv.org/pdf/2304.10716)][[Code](https://github.com/megvii-research/TPS-CVPR2023)]
 * [ICLR 2023] Token Merging: Your ViT But Faster [[Paper](https://arxiv.org/pdf/2210.09461)][[Code](https://github.com/facebookresearch/ToMe)]
 * [IJCAI 2023] Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention [[Paper](https://arxiv.org/pdf/2209.13802)][[Code](https://github.com/Cydia2018/AS-ViT)]
-* [TIP] https://github.com/zbwxp/Dynamic-Token-Pruning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10183862)] 
+* [TIP] Efficient Vision Transformer via Token Merger [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10183862)] 
 
 #### 2022
 * [ECCV 2022] SPViT: Enabling Faster Vision Transformers via Latency-aware Soft Token Pruning [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710618.pdf)][[Code](https://github.com/PeiyanFlying/SPViT)] 
