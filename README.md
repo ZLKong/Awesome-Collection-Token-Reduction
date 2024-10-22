@@ -17,15 +17,20 @@ Last update on 2024/10/22
 * [ECCV 2024] PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation [[Paper](https://arxiv.org/abs/2403.09192)][[Code](https://github.com/THU-MIG/PYRA?tab=readme-ov-file)]
 
 #### 2023
-* [arXiv 2023] PPT: Token Pruning and Pooling for Efficient Vision Transformers [[Paper](https://arxiv.org/pdf/2310.01812)][[Code](https://github.com/xjwu1024/PPT)] 
-* [ICCV 2023] DiffRate: Differentiable Compression Rate for Efficient Vision Transformers [[Paper](https://arxiv.org/abs/2305.17997)][[Code](https://github.com/OpenGVLab/DiffRate)] 
+* [arXiv 2023] PPT: Token Pruning and Pooling for Efficient Vision Transformers [[Paper](https://arxiv.org/pdf/2310.01812)][[Code](https://github.com/xjwu1024/PPT)]
+* [ICCV 2023] Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_Dynamic_Token_Pruning_in_Plain_Vision_Transformers_for_Semantic_Segmentation_ICCV_2023_paper.pdf)][[Code](https://github.com/zbwxp/Dynamic-Token-Pruning)]
+* [ICCV 2023] DiffRate: Differentiable Compression Rate for Efficient Vision Transformers [[Paper](https://arxiv.org/abs/2305.17997)][[Code](https://github.com/OpenGVLab/DiffRate)]
+* [ICCV 2023] TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dou_TORE_Token_Reduction_for_Efficient_Human_Mesh_Recovery_with_Transformer_ICCV_2023_paper.pdf)][[Code](https://github.com/Frank-ZY-Dou/TORE)] 
+* [ICCV 2023 Workshop] Which Tokens to Use? Investigating Token Reduction in Vision Transformers [[Paper](https://arxiv.org/abs/2308.04657)][[Code](https://github.com/JoakimHaurum/TokenReduction)] 
 * [CVPR 2023] Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers [[Paper](https://arxiv.org/pdf/2304.10716)][[Code](https://github.com/megvii-research/TPS-CVPR2023)]
 * [ICLR 2023] Token Merging: Your ViT But Faster [[Paper](https://arxiv.org/pdf/2210.09461)][[Code](https://github.com/facebookresearch/ToMe)]
 * [IJCAI 2023] Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention [[Paper](https://arxiv.org/pdf/2209.13802)][[Code](https://github.com/Cydia2018/AS-ViT)]
+* [TIP] https://github.com/zbwxp/Dynamic-Token-Pruning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10183862)] 
 
 #### 2022
 * [ECCV 2022] SPViT: Enabling Faster Vision Transformers via Latency-aware Soft Token Pruning [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710618.pdf)][[Code](https://github.com/PeiyanFlying/SPViT)] 
 * [ECCV 2022] ATS: Adaptive Token Sampling For Efficient Vision Transformers [[Paper](https://arxiv.org/abs/2111.15667)][[Code](https://github.com/adaptivetokensampling/ATS)]
+* [ECCV 2022] PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation [[Paper](https://arxiv.org/pdf/2209.08194)][[Code](https://github.com/HowieMa/PPT)]
 * [CVPR 2022] Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space [[Paper](https://arxiv.org/pdf/2201.00814)][[Code](https://github.com/Arnav0400/ViT-Slim)]
 * [CVPR 2022] Patch Slimming for Efficient Vision Transformers [[Paper](https://arxiv.org/abs/2106.02852)]
 * [CVPR 2022] A-ViT: Adaptive Tokens for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2112.07658)][[Code](https://github.com/NVlabs/A-ViT)]
@@ -48,7 +53,7 @@ Last update on 2024/10/22
 * [ACL 2023] Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions [[Paper](https://aclanthology.org/2023.acl-long.562.pdf)]
 * [ACL 2023] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models [[Paper](https://arxiv.org/pdf/2310.05736)][[Code](https://github.com/microsoft/LLMLingua)]  
 * [ACL 2023] UTC-IE: A Unified Token-pair Classification Architecture for Information Extraction [[Paper](https://aclanthology.org/2023.acl-long.226.pdf)] 
-* [ACL 2023] Revisiting Token Dropping Strategy in Efficient BERT Pretraining [[Paper](https://aclanthology.org/2023.acl-long.579.pdf)] 
+* [ACL 2023] Revisiting Token Dropping Strategy in Efficient BERT Pretraining [[Paper](https://aclanthology.org/2023.acl-long.579.pdf)]
 #### 2022
 * [ACL 2022] Pyramid-BERT: Reducing Complexity via Successive Core-set based Token Selection [[Paper](https://aclanthology.org/2022.acl-long.602.pdf)]
 * [ACL 2022] AdapLeR: Speeding up Inference by Adaptive Length Reduction [[Paper](https://aclanthology.org/2022.acl-long.1.pdf)][[Code](https://github.com/amodaresi/AdapLeR)]   
@@ -57,6 +62,7 @@ Last update on 2024/10/22
 
 ## 🎬 Vision-Language Model 
 #### 2024
+* [arXiv 2024] TokenPacker: Efficient Visual Projector for Multimodal LLM [[Paper](https://arxiv.org/pdf/2407.02392)][[Code](https://github.com/CircleRadon/TokenPacker)]
 * [arXiv 2024] Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs [[Paper](https://arxiv.org/pdf/2409.10994)]
 * [arXiv 2024] TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings [[Paper](https://arxiv.org/pdf/2409.09564)]
 * [arXiv 2024] mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding [[Paper](https://arxiv.org/abs/2409.03420)][[Code](https://github.com/X-PLUG/mPLUG-DocOwl)]
@@ -71,6 +77,7 @@ Last update on 2024/10/22
 * [arXiv 2024] CATP: Cross-Attention Token Pruning for Accuracy Preserved Multimodal Model Inference [[Paper](https://arxiv.org/pdf/2404.08567)]
 * [arXiv 2024] MobileVLM V2: Faster and Stronger Baseline for Vision Language Model [[Paper](https://arxiv.org/abs/2402.03766.pdf)][[Code](https://github.com/Meituan-AutoML/MobileVLM)]
 * [arXiv 2024] LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[Paper](https://arxiv.org/abs/2403.15388.pdf)][[Code](https://github.com/42Shawn/LLaVA-PruMerge)]
+* [ECCV 2024] IVTP: Instruction-guided Visual Token Pruning for Large Vision-Language Models [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02577.pdf)]
 * [ECCV 2024] An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Acceleration for VLLM Inference [[Paper](https://arxiv.org/pdf/2403.06764)][[Code](https://github.com/pkunlp-icler/FastV)]
 * [ICML 2024] CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers [[Paper](https://arxiv.org/pdf/2305.17455v4)][[Code](https://github.com/sdc17/CrossGET)]
 * [ECCV 2024] LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models [[Paper](https://arxiv.org/abs/2311.17043)][[Code](https://github.com/dvlab-research/LLaMA-VID/tree/main)]
