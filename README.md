@@ -11,8 +11,8 @@ Last update on 2024/10/22
 ## 🌁 Vision 
 #### 2024
 * [arXiv 2024] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2408.17062)] 
-* [arXiv 2024] Accelerating Transformers with Spectrum-Preserving Token Merging [[Paper](https://arxiv.org/pdf/2405.16148)]
 * [arXiv 2024] Dynamic and Compressive Adaptation of Transformers From Images to Videos [[Paper](https://arxiv.org/pdf/2408.06840)]
+* [NeurIPS 2024] Accelerating Transformers with Spectrum-Preserving Token Merging [[Paper](https://arxiv.org/pdf/2405.16148)]
 * [ECCV 2024] Agglomerative Token Clustering [[Paper](https://arxiv.org/pdf/2409.11923)][[Code](https://github.com/JoakimHaurum/ATC)] 
 * [ECCV 2024] Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning [[Paper](https://arxiv.org/pdf/2408.06798)][[Code](https://github.com/JieShibo/ToCom)]
 * [ECCV 2024] LookupViT: Compressing visual information to a limited number of tokens [[Paper](https://arxiv.org/pdf/2407.12753)]
@@ -49,23 +49,30 @@ Last update on 2024/10/22
 
 
 ## 📝 Language 
+#### 2024
+* [arXiv 2024] LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference [[Paper](https://arxiv.org/pdf/2407.14057)] 
+
 #### 2023
 * [EMNLP 2023] Optimizing Retrieval-augmented Reader Models via Token Elimination [[Paper](https://arxiv.org/pdf/2310.13682)][[Code](https://github.com/IntelLabs/token_elimination)]
 * [EMNLP 2023] Context Compression for Auto-regressive Transformers with Sentinel Tokens [[Paper](https://arxiv.org/pdf/2310.08152)][[Code](https://github.com/DRSY/KV_Compression)] 
 * [EMNLP 2023] Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing [[Paper](https://aclanthology.org/2023.emnlp-main.976.pdf)][[Code](https://github.com/yeachan-kr/lot)]  
 * [EMNLP 2023] TLM: Token-Level Masking for Transformers [[Paper](https://arxiv.org/pdf/2310.18738)][[Code](https://github.com/Young1993/tlm)]  
 * [EMNLP 2023] Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance? [[Paper](https://aclanthology.org/2023.emnlp-main.563.pdf)]  
+* [NeurIPS 2023] Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers [[Paper](https://arxiv.org/pdf/2305.15805)]
 * [ACL 2023] Going Beyond Sentence Embeddings: A Token-Level Matching Algorithm for Calculating Semantic Textual Similarity [[Paper](https://aclanthology.org/2023.acl-short.49.pdf)]
 * [ACL 2023] Efficient Transformers with Dynamic Token Pooling [[Paper](https://aclanthology.org/2023.acl-long.353.pdf)]
 * [ACL 2023] Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions [[Paper](https://aclanthology.org/2023.acl-long.562.pdf)]
 * [ACL 2023] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models [[Paper](https://arxiv.org/pdf/2310.05736)][[Code](https://github.com/microsoft/LLMLingua)]  
 * [ACL 2023] UTC-IE: A Unified Token-pair Classification Architecture for Information Extraction [[Paper](https://aclanthology.org/2023.acl-long.226.pdf)] 
 * [ACL 2023] Revisiting Token Dropping Strategy in Efficient BERT Pretraining [[Paper](https://aclanthology.org/2023.acl-long.579.pdf)]
+
 #### 2022
 * [ACL 2022] Pyramid-BERT: Reducing Complexity via Successive Core-set based Token Selection [[Paper](https://aclanthology.org/2022.acl-long.602.pdf)]
 * [ACL 2022] AdapLeR: Speeding up Inference by Adaptive Length Reduction [[Paper](https://aclanthology.org/2022.acl-long.1.pdf)][[Code](https://github.com/amodaresi/AdapLeR)]   
 * [KDD 2022] Learned Token Pruning for Transformers [[Paper](https://arxiv.org/pdf/2107.00910)][[Code](https://github.com/kssteven418/LTP)]    
 
+#### 2021
+* [NeurIPS 2021] Magic Pyramid: Accelerating Inference with Early Exiting and Token Pruning [[Paper](https://arxiv.org/pdf/2111.00230)]
 
 ## 🎬 Vision-Language Model 
 #### 2024
