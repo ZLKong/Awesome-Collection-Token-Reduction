@@ -10,11 +10,17 @@ Last update on 2024/10/22
 
 ## 🌁 Vision 
 #### 2024
+* [arXiv 2024] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2408.17062)] 
+* [arXiv 2024] Accelerating Transformers with Spectrum-Preserving Token Merging [[Paper](https://arxiv.org/pdf/2405.16148)]
 * [arXiv 2024] Dynamic and Compressive Adaptation of Transformers From Images to Videos [[Paper](https://arxiv.org/pdf/2408.06840)]
 * [ECCV 2024] Agglomerative Token Clustering [[Paper](https://arxiv.org/pdf/2409.11923)][[Code](https://github.com/JoakimHaurum/ATC)] 
 * [ECCV 2024] Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning [[Paper](https://arxiv.org/pdf/2408.06798)][[Code](https://github.com/JieShibo/ToCom)]
 * [ECCV 2024] LookupViT: Compressing visual information to a limited number of tokens [[Paper](https://arxiv.org/pdf/2407.12753)]
 * [ECCV 2024] PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation [[Paper](https://arxiv.org/abs/2403.09192)][[Code](https://github.com/THU-MIG/PYRA?tab=readme-ov-file)]
+* [CVPR 2024] vid-TLDR: Training Free Token Merging for Light-weight Video Transformer [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Choi_vid-TLDR_Training_Free_Token_Merging_for_Light-weight_Video_Transformer_CVPR_2024_paper.pdf)][[Code](https://github.com/mlvlab/vid-TLDR)]  
+* [CVPR 2024] Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)][[Code](https://jha-lab.github.io/zerotprune/)] 
+* [ICLR 2024] Synergistic Patch Pruning for Vision Transformer: Unifying Intra- & Inter-Layer Patch Importance [[Paper](https://openreview.net/pdf?id=COO51g41Q4)] 
+* [WACV 2024] Revisiting Token Pruning for Object Detection and Instance Segmentation [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Revisiting_Token_Pruning_for_Object_Detection_and_Instance_Segmentation_WACV_2024_paper.pdf)][[Code](https://github.com/uzh-rpg/svit/)] 
 
 #### 2023
 * [arXiv 2023] PPT: Token Pruning and Pooling for Efficient Vision Transformers [[Paper](https://arxiv.org/pdf/2310.01812)][[Code](https://github.com/xjwu1024/PPT)]
@@ -38,6 +44,7 @@ Last update on 2024/10/22
 * [AAAI 2022] Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer [[Paper](https://arxiv.org/abs/2108.01390)][[Code](https://github.com/YifanXu74/Evo-ViT)]
 
 #### 2021
+* [NeurIPS 2021] IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers [[Paper](https://arxiv.org/pdf/2106.12620)] 
 * [NeurIPS 2021] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification [[Paper](https://arxiv.org/abs/2106.02034)][[Code](https://github.com/raoyongming/DynamicViT)]
 
 
@@ -62,16 +69,14 @@ Last update on 2024/10/22
 
 ## 🎬 Vision-Language Model 
 #### 2024
+* [arXiv 2024] VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation [[Paper](https://arxiv.org/pdf/2409.08464)]
 * [arXiv 2024] TokenPacker: Efficient Visual Projector for Multimodal LLM [[Paper](https://arxiv.org/pdf/2407.02392)][[Code](https://github.com/CircleRadon/TokenPacker)]
 * [arXiv 2024] Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs [[Paper](https://arxiv.org/pdf/2409.10994)]
-* [arXiv 2024] TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings [[Paper](https://arxiv.org/pdf/2409.09564)]
-* [arXiv 2024] mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding [[Paper](https://arxiv.org/abs/2409.03420)][[Code](https://github.com/X-PLUG/mPLUG-DocOwl)]
+* [arXiv 2024] mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding [[Paper](https://arxiv.org/pdf/2409.03420)][[Code](https://github.com/X-PLUG/mPLUG-DocOwl)]
 * [arXiv 2024] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval [[Paper](https://arxiv.org/pdf/2409.01156)][[Code](https://github.com/X-PLUG/mPLUG-DocOwl)]
 * [arXiv 2024] Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information [[Paper](https://arxiv.org/pdf/2409.01179)]
 * [arXiv 2024] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments [[Paper](https://arxiv.org/pdf/2408.10945)][[Code](https://github.com/hasanar1f/HiRED)]
 * [arXiv 2024] Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding [[Paper](https://arxiv.org/pdf/2407.14439)][[Code](https://github.com/JiuTian-VL/TokenCorrCompressor)]
-* [arXiv 2024] HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.08706)]
-* [arXiv 2024] TokenPacker: Efficient Visual Projector for Multimodal LLM [[Paper](https://arxiv.org/abs/2407.02392.pdf)][[Code](https://github.com/CircleRadon/TokenPacker)]
 * [arXiv 2024] VoCo-LLaMA: Towards Vision Compression with Large Language Models [[Paper](https://arxiv.org/pdf/2406.12275)][[Code](https://github.com/Yxxxb/VoCo-LLaMA)]
 * [arXiv 2024] DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2405.20985)][[Code](https://github.com/yaolinli/DeCo)]
 * [arXiv 2024] CATP: Cross-Attention Token Pruning for Accuracy Preserved Multimodal Model Inference [[Paper](https://arxiv.org/pdf/2404.08567)]
@@ -83,15 +88,15 @@ Last update on 2024/10/22
 * [ECCV 2024] LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models [[Paper](https://arxiv.org/abs/2311.17043)][[Code](https://github.com/dvlab-research/LLaMA-VID/tree/main)]
 * [CVPR 2024] Honeybee: Locality-enhanced Projector for Multimodal LLM [[Paper](https://arxiv.org/abs/2312.06742)][[Code](https://github.com/khanrc/honeybee?tab=readme-ov-file)]
 #### 2023
-* [arXiv 2023] Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [[Paper](https://arxiv.org/pdf/2308.12966v2)][[Code](https://github.com/QwenLM/Qwen-VL)]
-* [arXiv 2023] BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[Paper](https://arxiv.org/abs/2301.12597)][[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 * [ACL 2023] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models [[Paper](https://aclanthology.org/2023.acl-long.721.pdf)][[Code](https://github.com/csarron/PuMer)]  
 
 ## 🐍 State Space Models 
 * [EMNLP 2024] Rethinking Token Reduction for State Space Models [[Paper](https://arxiv.org/pdf/2410.14725)][[Code](https://github.com/wuyushuwys/ToR_SSM)]
 * [NeurIPS 2024] Exploring Token Pruning in Vision State Space Models [[Paper](https://arxiv.org/pdf/2409.18962)]
+* [ECCV 2024 Workshop] Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion [[Paper](https://arxiv.org/pdf/2409.09808)][[Code](https://github.com/AIoT-MLSys-Lab/Famba-V)]
 
 
-## 📱 Hardware Co-design 
+## 📱 Hardware Co-design
+* [DATE 2024] ViT-ToGo : Vision Transformer Accelerator with Grouped Token Pruning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10546804)]
 * [HPCA 2023] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10071047)]
 * [HPCA 2021] SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning [[Paper](https://arxiv.org/pdf/2012.09852)][[Code](https://github.com/mit-han-lab/spatten)]
