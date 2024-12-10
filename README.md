@@ -6,7 +6,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## 🔥 News
-Last update on 2024/10/22
+Last update on 2024/12/09
 
 ## 🌁 Vision 
 #### 2024
@@ -89,6 +89,7 @@ Last update on 2024/10/22
 * [arXiv] CATP: Cross-Attention Token Pruning for Accuracy Preserved Multimodal Model Inference [[Paper](https://arxiv.org/pdf/2404.08567)]
 * [arXiv] MobileVLM V2: Faster and Stronger Baseline for Vision Language Model [[Paper](https://arxiv.org/abs/2402.03766.pdf)][[Code](https://github.com/Meituan-AutoML/MobileVLM)]
 * [arXiv] LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[Paper](https://arxiv.org/abs/2403.15388.pdf)][[Code](https://github.com/42Shawn/LLaVA-PruMerge)]
+* [**NeurIPS'24**] Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis [[Paper](https://arxiv.org/abs/2411.07132)][[Code](https://github.com/hutaiHang/ToMe)]
 * [**ECCV'24**] IVTP: Instruction-guided Visual Token Pruning for Large Vision-Language Models [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02577.pdf)]
 * [**ECCV'24**] An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Acceleration for VLLM Inference [[Paper](https://arxiv.org/pdf/2403.06764)][[Code](https://github.com/pkunlp-icler/FastV)]
 * [**ICML'24**] CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers [[Paper](https://arxiv.org/pdf/2305.17455v4)][[Code](https://github.com/sdc17/CrossGET)]
