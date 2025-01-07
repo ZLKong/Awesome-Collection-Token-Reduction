@@ -6,7 +6,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## 🔥 News
-Last update on 2024/12/09
+Last update on 2025/01/07
 
 ## 🌁 Vision 
 #### 2024
