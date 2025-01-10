@@ -79,6 +79,7 @@ Last update on 2025/01/09
 ## 🎬 Vision-Language Model 
 #### 2024
 * [OpenReview] LVP: Language-guide Visual Projector for Efficient Multimodal LLM [[Paper](https://openreview.net/pdf?id=PxBzxO02Ef)]
+* [arXiv] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models  [[Paper](https://arxiv.org/abs/2501.01986)][[Code](https://github.com/thu-nics/FrameFusion)]
 * [arXiv] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2410.04417)][[Code](https://github.com/gumpest/sparsevlms)]
 * [arXiv] AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning [[Paper](https://arxiv.org/pdf/2412.03248)][[Code](https://github.com/LaVi-Lab/AIM)]
 * [arXiv] VisionZip: Longer is Better but Not Necessary in Vision Language Models [[Paper](https://arxiv.org/pdf/2412.04467)][[Code](https://github.com/dvlab-research/VisionZip)]
