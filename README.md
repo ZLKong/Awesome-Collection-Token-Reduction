@@ -6,11 +6,12 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## 🔥 News
-Last update on 2025/01/07
+Last update on 2025/01/09
 
 ## 🌁 Vision 
 #### 2024
-* [arXiv] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2408.17062)] [[Code]()]
+* [arXiv] Token Pruning for Caching Better: 9 Times Acceleration on Stable Diffusion for Free [[Paper](https://arxiv.org/pdf/2501.00375)] 
+* [arXiv] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2408.17062)] 
 * [arXiv] Dynamic and Compressive Adaptation of Transformers From Images to Videos [[Paper](https://arxiv.org/pdf/2408.06840)]
 * [**NeurIPS'24**] Accelerating Transformers with Spectrum-Preserving Token Merging [[Paper](https://arxiv.org/pdf/2405.16148)]
 * [**ECCV'24**] Agglomerative Token Clustering [[Paper](https://arxiv.org/pdf/2409.11923)][[Code](https://github.com/JoakimHaurum/ATC)] 
