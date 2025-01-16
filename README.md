@@ -80,6 +80,7 @@ Last update on 2025/01/15
 #### 2025
 * [arXiv] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration [[Paper](https://arxiv.org/pdf/2501.05179)][[Code](https://github.com/xuyang-liu16/GlobalCom2)]
 #### 2024
+* [arXiv] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration  [[Paper](https://arxiv.org/pdf/2411.17686)][[Code](https://github.com/kawhiiiileo/FiCoCo)]
 * [OpenReview] LVP: Language-guide Visual Projector for Efficient Multimodal LLM [[Paper](https://openreview.net/pdf?id=PxBzxO02Ef)]
 * [arXiv] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models  [[Paper](https://arxiv.org/abs/2501.01986)][[Code](https://github.com/thu-nics/FrameFusion)]
 * [arXiv] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2410.04417)][[Code](https://github.com/gumpest/sparsevlms)]
