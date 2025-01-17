@@ -6,10 +6,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## 🔥 News
-Last update on 2025/01/15
+Last update on 2025/01/16
 
 ## 🌁 Vision 
 #### 2024
+* [arXiv] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)] 
 * [arXiv] Token Pruning for Caching Better: 9 Times Acceleration on Stable Diffusion for Free [[Paper](https://arxiv.org/pdf/2501.00375)] 
 * [arXiv] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2408.17062)] 
 * [arXiv] Dynamic and Compressive Adaptation of Transformers From Images to Videos [[Paper](https://arxiv.org/pdf/2408.06840)]
