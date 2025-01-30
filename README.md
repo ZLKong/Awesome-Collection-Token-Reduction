@@ -79,6 +79,7 @@ Last update on 2025/01/16
 
 ## 🎬 Vision-Language Model 
 #### 2025
+* [arXiv] Dynamic Token Reduction during Generation for Vision Language Models [[Paper](https://arxiv.org/pdf/2501.14204)]
 * [arXiv] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration [[Paper](https://arxiv.org/pdf/2501.05179)][[Code](https://github.com/xuyang-liu16/GlobalCom2)]
 #### 2024
 * [arXiv] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration  [[Paper](https://arxiv.org/pdf/2411.17686)][[Code](https://github.com/kawhiiiileo/FiCoCo)]
