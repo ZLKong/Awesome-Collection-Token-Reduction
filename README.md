@@ -11,7 +11,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [📱 Hardware Co-design](#hardware)
   
 ## 🔥 News
-Last update on 2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025
+2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025
 
 ## 🌁 Vision 
 <a id="vision"></a>
