@@ -11,7 +11,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [📱 Hardware Co-design](#hardware)
   
 ## 🔥 News
-2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025
+[2025/03/24] Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025, EMNLP 2024
 
 ## 🌁 Vision 
 <a id="vision"></a>
@@ -75,6 +75,8 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)][[Code](https://github.com/jkallini/mrt5)]
 
 #### 2024
+* [**EMNLP'24**] Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters [[Paper](https://arxiv.org/pdf/2406.12335 )][[Code](https://github.com/guozhiyu/vatp )]
+* [**EMNLP'24**] Memory-Efficient Fine-Tuning of Transformers via Token Selection [[Paper](https://arxiv.org/pdf/2501.18824)][[Code](https://github.com/facebookresearch/tokentune)]
 * [arXiv] LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference [[Paper](https://arxiv.org/pdf/2407.14057)] 
 
 #### 2023
@@ -122,6 +124,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [arXiv] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration [[Paper](https://arxiv.org/pdf/2501.05179)][[Code](https://github.com/xuyang-liu16/GlobalCom2)]
   
 #### 2024
+* [**EMNLP'24**] TinyChart: Efficient Chart Understanding with Program-of-Thoughts Learning and Visual Token Merging [[Paper](https://arxiv.org/abs/2404.16635)][[Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)]
 * [**NeurIPS'24**] Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis [[Paper](https://arxiv.org/abs/2411.07132)][[Code](https://github.com/hutaiHang/ToMe)]
 * [**ECCV'24**] IVTP: Instruction-guided Visual Token Pruning for Large Vision-Language Models [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02577.pdf)]
 * [**ECCV'24**] An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Acceleration for VLLM Inference [[Paper](https://arxiv.org/pdf/2403.06764)][[Code](https://github.com/pkunlp-icler/FastV)]
