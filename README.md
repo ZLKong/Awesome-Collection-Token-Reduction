@@ -6,11 +6,22 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## 🔥 News
-Last update on 2025/01/16
+Last update on 2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025
+
 
 ## 🌁 Vision 
+#### 2025
+* [**CVPR'25**] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)]
+* [**CVPR'25**] Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration
+* [**CVPR'25**] MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization
+* [**CVPR'25**] Rethinking Token Reduction with Parameter-Efficient Fine-Tuning in ViT for Pixel-Level Tasks
+* [**CVPR'25**] CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution [[Paper](https://arxiv.org/abs/2503.06896)]
+* [**CVPR'25**] VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification [[Paper](https://arxiv.org/abs/2501.06553)][[Code](https://github.com/mengchuang123/VASparse-github)]
+* [**CVPR'25**] Faster Parameter-Efficient Tuning with Token Redundancy Reduction
+* [**ICLR'25**] Mutual Effort for Efficiency: A Similarity-based Token Pruning for Vision Transformers in Self-Supervised Learning [[Paper](https://openreview.net/pdf?id=GTcEe5fayC)]
+* [**WACV'25**] Pruning One More Token is Enough: Leveraging Latency-Workload Non-Linearities for Vision Transformers on the Edge  [[Paper](https://arxiv.org/abs/2407.05941)]
+
 #### 2024
-* [arXiv] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)] 
 * [arXiv] Token Pruning for Caching Better: 9 Times Acceleration on Stable Diffusion for Free [[Paper](https://arxiv.org/pdf/2501.00375)] 
 * [arXiv] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2408.17062)] 
 * [arXiv] Dynamic and Compressive Adaptation of Transformers From Images to Videos [[Paper](https://arxiv.org/pdf/2408.06840)]
@@ -52,6 +63,9 @@ Last update on 2025/01/16
 
 
 ## 📝 Language 
+#### 2025
+* [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)][[Code](https://github.com/jkallini/mrt5)]
+
 #### 2024
 * [arXiv] LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference [[Paper](https://arxiv.org/pdf/2407.14057)] 
 
@@ -79,8 +93,23 @@ Last update on 2025/01/16
 
 ## 🎬 Vision-Language Model 
 #### 2025
+* [**CVPR'25**] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models
+* [**CVPR'25**] DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models [[Paper](https://arxiv.org/abs/2503.02175)][[Code](https://github.com/vbdi/divprune)]
+* [**CVPR'25**] SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding [[Paper](https://arxiv.org/abs/2412.09604)]
+* [**CVPR'25**] PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models [[Paper](https://arxiv.org/abs/2412.09613)]
+* [**CVPR'25**] TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model
+* [**CVPR'25**] Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction [[Paper](https://arxiv.org/abs/2412.00556)]
+* [**CVPR'25**] ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models [[Paper](https://arxiv.org/abs/2412.00447)][[Code](https://yxxxb.github.io/ATP-LLaVA-page/)]
+* [**CVPR'25**] DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models [[Paper](https://arxiv.org/abs/2411.15024)]
+* [**ICLR'25**] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token [[Paper](https://arxiv.org/abs/2501.03895)][[Code](https://github.com/ictnlp/LLaVA-Mini)]
+* [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)][[Code](https://github.com/jkallini/mrt5)]
+* [**ICLR'25**] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval [[Paper](https://arxiv.org/abs/2409.01156)][[Code](https://github.com/LunarShen/TempMe)]
+* [**ICLR'25**] Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters [[Paper](https://openreview.net/pdf?id=6VhDQP7WGX)]
+* [**WACV'25**] VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation [[Paper](https://arxiv.org/pdf/2409.08464)]
+* [**WACV'25**] Patch Ranking: Token Pruning as Ranking Prediction for Efficient CLIP [[Paper](https://arxiv.org/html/2409.14607v1)]
 * [arXiv] Dynamic Token Reduction during Generation for Vision Language Models [[Paper](https://arxiv.org/pdf/2501.14204)]
 * [arXiv] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration [[Paper](https://arxiv.org/pdf/2501.05179)][[Code](https://github.com/xuyang-liu16/GlobalCom2)]
+  
 #### 2024
 * [arXiv] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration  [[Paper](https://arxiv.org/pdf/2411.17686)][[Code](https://github.com/kawhiiiileo/FiCoCo)]
 * [OpenReview] LVP: Language-guide Visual Projector for Efficient Multimodal LLM [[Paper](https://openreview.net/pdf?id=PxBzxO02Ef)]
@@ -88,7 +117,6 @@ Last update on 2025/01/16
 * [arXiv] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2410.04417)][[Code](https://github.com/gumpest/sparsevlms)]
 * [arXiv] AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning [[Paper](https://arxiv.org/pdf/2412.03248)][[Code](https://github.com/LaVi-Lab/AIM)]
 * [arXiv] VisionZip: Longer is Better but Not Necessary in Vision Language Models [[Paper](https://arxiv.org/pdf/2412.04467)][[Code](https://github.com/dvlab-research/VisionZip)]
-* [arXiv] VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation [[Paper](https://arxiv.org/pdf/2409.08464)]
 * [arXiv] TokenPacker: Efficient Visual Projector for Multimodal LLM [[Paper](https://arxiv.org/pdf/2407.02392)][[Code](https://github.com/CircleRadon/TokenPacker)]
 * [arXiv] Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs [[Paper](https://arxiv.org/pdf/2409.10994)]
 * [arXiv] mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding [[Paper](https://arxiv.org/pdf/2409.03420)][[Code](https://github.com/X-PLUG/mPLUG-DocOwl)]
