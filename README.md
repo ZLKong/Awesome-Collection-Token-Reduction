@@ -4,12 +4,17 @@ This repository contains a list of recent papers on token reduction (token pruni
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
-
+## Table of Contents
+- [🌁 Vision](#vision)
+- [📝 Language](#language)
+- [🎬 Vision-Language Model](#vision-language-model)
+- [📱 Hardware Co-design](#hardware)
+  
 ## 🔥 News
 Last update on 2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025
 
-
 ## 🌁 Vision 
+<a id="vision"></a>
 #### 2025
 * [**CVPR'25**] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)]
 * [**CVPR'25**] Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration
@@ -63,6 +68,7 @@ Last update on 2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025
 
 
 ## 📝 Language 
+<a id="language"></a>
 #### 2025
 * [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)][[Code](https://github.com/jkallini/mrt5)]
 
@@ -92,6 +98,7 @@ Last update on 2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025
 * [**NeurIPS'21**] Magic Pyramid: Accelerating Inference with Early Exiting and Token Pruning [[Paper](https://arxiv.org/pdf/2111.00230)]
 
 ## 🎬 Vision-Language Model 
+<a id="vision-language-model"></a>
 #### 2025
 * [**CVPR'25**] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models
 * [**CVPR'25**] DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models [[Paper](https://arxiv.org/abs/2503.02175)][[Code](https://github.com/vbdi/divprune)]
@@ -145,6 +152,7 @@ Last update on 2025/03/24: Added CVPR 2025, ICLR 2025, WACV 2025
 
 
 ## 📱 Hardware Co-design
+<a id="hardware"></a>
 * [**DATE'24**] ViT-ToGo : Vision Transformer Accelerator with Grouped Token Pruning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10546804)]
 * [**HPCA'23**] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10071047)]
 * [**HPCA'21**] SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning [[Paper](https://arxiv.org/pdf/2012.09852)][[Code](https://github.com/mit-han-lab/spatten)]
