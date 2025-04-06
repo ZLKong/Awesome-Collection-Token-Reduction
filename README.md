@@ -1,4 +1,4 @@
-# Awesome Token Reduction Papers
+# Awesome Token Compression/Reduction Papers
 
 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, etc.) for ML/AI; we categorize them based on their year and application scenarios.
 
