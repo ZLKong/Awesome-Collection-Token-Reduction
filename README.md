@@ -77,29 +77,36 @@ We will try to make this list updated. If you found any error or any missed pape
 #### 2024
 * [**EMNLP'24**] Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters [[Paper](https://arxiv.org/pdf/2406.12335 )][[Code](https://github.com/guozhiyu/vatp )]
 * [**EMNLP'24**] Memory-Efficient Fine-Tuning of Transformers via Token Selection [[Paper](https://arxiv.org/pdf/2501.18824)][[Code](https://github.com/facebookresearch/tokentune)]
-* [arXiv] LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference [[Paper](https://arxiv.org/pdf/2407.14057)] 
+* [arXiv] LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference [[Paper](https://arxiv.org/pdf/2407.14057)]
+* [**ICLR'24**] In-context autoencoder for context compression in a large language model [[Paper](https://arxiv.org/pdf/2307.06945)][[Code](https://github.com/getao/icae)]
 
 #### 2023
 * [**EMNLP'23**] Optimizing Retrieval-augmented Reader Models via Token Elimination [[Paper](https://arxiv.org/pdf/2310.13682)][[Code](https://github.com/IntelLabs/token_elimination)]
 * [**EMNLP'23**] Context Compression for Auto-regressive Transformers with Sentinel Tokens [[Paper](https://arxiv.org/pdf/2310.08152)][[Code](https://github.com/DRSY/KV_Compression)] 
 * [**EMNLP'23**] Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing [[Paper](https://aclanthology.org/2023.emnlp-main.976.pdf)][[Code](https://github.com/yeachan-kr/lot)]  
 * [**EMNLP'23**] TLM: Token-Level Masking for Transformers [[Paper](https://arxiv.org/pdf/2310.18738)][[Code](https://github.com/Young1993/tlm)]  
-* [**EMNLP'23**] Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance? [[Paper](https://aclanthology.org/2023.emnlp-main.563.pdf)]  
+* [**EMNLP'23**] Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance? [[Paper](https://aclanthology.org/2023.emnlp-main.563.pdf)]
+* [**EMNLP'23**] Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance? [[Paper](https://arxiv.org/pdf/2305.14788)][[Code](https://github.com/princeton-nlp/AutoCompressors)]  
 * [**NeurIPS'23**] Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers [[Paper](https://arxiv.org/pdf/2305.15805)]
 * [**ACL'23**] Going Beyond Sentence Embeddings: A Token-Level Matching Algorithm for Calculating Semantic Textual Similarity [[Paper](https://aclanthology.org/2023.acl-short.49.pdf)]
 * [**ACL'23**] Efficient Transformers with Dynamic Token Pooling [[Paper](https://aclanthology.org/2023.acl-long.353.pdf)]
 * [**ACL'23**] Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions [[Paper](https://aclanthology.org/2023.acl-long.562.pdf)]
 * [**ACL'23**] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models [[Paper](https://arxiv.org/pdf/2310.05736)][[Code](https://github.com/microsoft/LLMLingua)]  
-* [**ACL'23**] UTC-IE: A Unified Token-pair Classification Architecture for Information Extraction [[Paper](https://aclanthology.org/2023.acl-long.226.pdf)] 
 * [**ACL'23**] Revisiting Token Dropping Strategy in Efficient BERT Pretraining [[Paper](https://aclanthology.org/2023.acl-long.579.pdf)]
 
 #### 2022
 * [**ACL'22**] Pyramid-BERT: Reducing Complexity via Successive Core-set based Token Selection [[Paper](https://aclanthology.org/2022.acl-long.602.pdf)]
 * [**ACL'22**] AdapLeR: Speeding up Inference by Adaptive Length Reduction [[Paper](https://aclanthology.org/2022.acl-long.1.pdf)][[Code](https://github.com/amodaresi/AdapLeR)]   
-* [**KDD'22**] Learned Token Pruning for Transformers [[Paper](https://arxiv.org/pdf/2107.00910)][[Code](https://github.com/kssteven418/LTP)]    
+* [**KDD'22**] Learned Token Pruning for Transformers [[Paper](https://arxiv.org/pdf/2107.00910)][[Code](https://github.com/kssteven418/LTP)]
+* [**EMNLP'22**] Prompt Compression and Contrastive Conditioning for Controllability and Toxicity Reduction in Language Models [[Paper](https://arxiv.org/pdf/2210.03162)] 
 
 #### 2021
 * [**NeurIPS'21**] Magic Pyramid: Accelerating Inference with Early Exiting and Token Pruning [[Paper](https://arxiv.org/pdf/2111.00230)]
+* [**ACL'21**] Length-Adaptive Transformer: Train Once with Length Drop, Use Anytime with Search [[Paper](https://arxiv.org/pdf/2010.07003)][[Code](https://github.com/clovaai/length-adaptive-transformer)]
+* [**NAACL'21**] TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference [[Paper](https://arxiv.org/pdf/2105.11618)][[Code](https://github.com/thunlp/TR-BERT)]   
+
+#### 2020
+* [**ICML'20**] Power-bert: Accelerating bert inference via progressive word-vector elimination [[Paper](https://arxiv.org/pdf/2001.08950)][[Code](https://github.com/IBM/PoWER-BERT)]    
 
 ## 🎬 Vision-Language Model 
 <a id="vision-language-model"></a>
