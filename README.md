@@ -89,7 +89,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**EMNLP'23**] Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance? [[Paper](https://arxiv.org/pdf/2305.14788)][[Code](https://github.com/princeton-nlp/AutoCompressors)]  
 * [**NeurIPS'23**] Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers [[Paper](https://arxiv.org/pdf/2305.15805)]
 * [**ACL'23**] Going Beyond Sentence Embeddings: A Token-Level Matching Algorithm for Calculating Semantic Textual Similarity [[Paper](https://aclanthology.org/2023.acl-short.49.pdf)]
-* [**ACL'23**] Efficient Transformers with Dynamic Token Pooling [[Paper](https://aclanthology.org/2023.acl-long.353.pdf)]
+* [**ACL'23**] Efficient Transformers with Dynamic Token Pooling [[Paper](https://aclanthology.org/2023.acl-long.353.pdf)][[Code](https://github.com/PiotrNawrot/dynamic-pooling)] 
 * [**ACL'23**] Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions [[Paper](https://aclanthology.org/2023.acl-long.562.pdf)]
 * [**ACL'23**] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models [[Paper](https://arxiv.org/pdf/2310.05736)][[Code](https://github.com/microsoft/LLMLingua)]  
 * [**ACL'23**] Revisiting Token Dropping Strategy in Efficient BERT Pretraining [[Paper](https://aclanthology.org/2023.acl-long.579.pdf)]
