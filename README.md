@@ -159,6 +159,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**ACL'23**] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models [[Paper](https://aclanthology.org/2023.acl-long.721.pdf)][[Code](https://github.com/csarron/PuMer)]  
 
 ## 🐍 State Space Models 
+* [**arXiv**] Dynamic Vision Mamba [[Paper](https://arxiv.org/pdf/2504.04787#page=7.39)][[Code](https://github.com/NUS-HPC-AI-Lab/DyVM)]
 * [**EMNLP'24**] Rethinking Token Reduction for State Space Models [[Paper](https://arxiv.org/pdf/2410.14725)][[Code](https://github.com/wuyushuwys/ToR_SSM)]
 * [**NeurIPS'24**] Exploring Token Pruning in Vision State Space Models [[Paper](https://arxiv.org/pdf/2409.18962)]
 * [**ECCV'24** Workshop] Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion [[Paper](https://arxiv.org/pdf/2409.09808)][[Code](https://github.com/AIoT-MLSys-Lab/Famba-V)]
