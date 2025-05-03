@@ -25,8 +25,9 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**CVPR'25**] Faster Parameter-Efficient Tuning with Token Redundancy Reduction
 * [**ICLR'25**] Mutual Effort for Efficiency: A Similarity-based Token Pruning for Vision Transformers in Self-Supervised Learning [[Paper](https://openreview.net/pdf?id=GTcEe5fayC)]
 * [**WACV'25**] Pruning One More Token is Enough: Leveraging Latency-Workload Non-Linearities for Vision Transformers on the Edge  [[Paper](https://arxiv.org/abs/2407.05941)]
-* [**AAAI'25**] FreqTS: Frequency-Aware Token Selection for Accelerating Diffusion Models 
-* [**AAAI'25**] Multimodal Promptable Token Merging for Diffusion Models 
+* [**ICASSP'25**] Pruning for Sparse Diffusion Models based on Gradient Flow [[Paper](https://ieeexplore.ieee.org/document/10890532)]
+* [**AAAI'25**] FreqTS: Frequency-Aware Token Selection for Accelerating Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33008)]
+* [**AAAI'25**] Multimodal Promptable Token Merging for Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33894)]
 
 #### 2024
 * [**NeurIPS'24**] Accelerating Transformers with Spectrum-Preserving Token Merging [[Paper](https://arxiv.org/pdf/2405.16148)]
@@ -34,6 +35,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**ECCV'24**] Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning [[Paper](https://arxiv.org/pdf/2408.06798)][[Code](https://github.com/JieShibo/ToCom)]
 * [**ECCV'24**] LookupViT: Compressing visual information to a limited number of tokens [[Paper](https://arxiv.org/pdf/2407.12753)]
 * [**ECCV'24**] PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation [[Paper](https://arxiv.org/abs/2403.09192)][[Code](https://github.com/THU-MIG/PYRA?tab=readme-ov-file)]
+* [**CVPR'24**] Attention-driven training-free efficiency enhancement of diffusion models [[Paper](https://arxiv.org/pdf/2405.05252)]
 * [**CVPR'24**] vid-TLDR: Training Free Token Merging for Light-weight Video Transformer [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Choi_vid-TLDR_Training_Free_Token_Merging_for_Light-weight_Video_Transformer_CVPR_2024_paper.pdf)][[Code](https://github.com/mlvlab/vid-TLDR)]  
 * [**CVPR'24**] Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)][[Code](https://jha-lab.github.io/zerotprune/)] 
 * [**ICLR'24**] Synergistic Patch Pruning for Vision Transformer: Unifying Intra- & Inter-Layer Patch Importance [[Paper](https://openreview.net/pdf?id=COO51g41Q4)]
