@@ -16,6 +16,7 @@ We will try to make this list updated. If you found any error or any missed pape
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2025
+* [**ICME'25**] Sparsedm: Toward sparse efficient diffusion models [[Paper](https://arxiv.org/pdf/2404.10445)]
 * [**CVPR'25**] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)]
 * [**CVPR'25**] Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration
 * [**CVPR'25**] MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization
@@ -24,10 +25,15 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**CVPR'25**] VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification [[Paper](https://arxiv.org/abs/2501.06553)][[Code](https://github.com/mengchuang123/VASparse-github)]
 * [**CVPR'25**] Faster Parameter-Efficient Tuning with Token Redundancy Reduction
 * [**ICLR'25**] Mutual Effort for Efficiency: A Similarity-based Token Pruning for Vision Transformers in Self-Supervised Learning [[Paper](https://openreview.net/pdf?id=GTcEe5fayC)]
+* [**ICLR'25**] Dynamic diffusion transformer [[Paper](https://arxiv.org/pdf/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)]
 * [**WACV'25**] Pruning One More Token is Enough: Leveraging Latency-Workload Non-Linearities for Vision Transformers on the Edge  [[Paper](https://arxiv.org/abs/2407.05941)]
 * [**ICASSP'25**] Pruning for Sparse Diffusion Models based on Gradient Flow [[Paper](https://ieeexplore.ieee.org/document/10890532)]
 * [**AAAI'25**] FreqTS: Frequency-Aware Token Selection for Accelerating Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33008)]
 * [**AAAI'25**] Multimodal Promptable Token Merging for Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33894)]
+* [arXiv] Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model [[Paper](https://arxiv.org/pdf/2501.00946)] [[Code](https://github.com/omidiu/ca_tome)]
+* [arXiv] Layer-and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers [[Paper](https://arxiv.org/pdf/2412.16822)] [[Code](https://github.com/GATECH-EIC/DiffCR)]
+* [arXiv] UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation [[Paper](https://arxiv.org/pdf/2502.04393)]
+* [arXiv] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models [[Paper](https://arxiv.org/pdf/2502.00433)] [[Code](https://github.com/ada-cheng/CAT-Pruning)]
 
 #### 2024
 * [**NeurIPS'24**] Accelerating Transformers with Spectrum-Preserving Token Merging [[Paper](https://arxiv.org/pdf/2405.16148)]
@@ -35,6 +41,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**ECCV'24**] Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning [[Paper](https://arxiv.org/pdf/2408.06798)][[Code](https://github.com/JieShibo/ToCom)]
 * [**ECCV'24**] LookupViT: Compressing visual information to a limited number of tokens [[Paper](https://arxiv.org/pdf/2407.12753)]
 * [**ECCV'24**] PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation [[Paper](https://arxiv.org/abs/2403.09192)][[Code](https://github.com/THU-MIG/PYRA?tab=readme-ov-file)]
+* [**IJCAI'24**] ToDo: token downsampling for efficient generation of high-resolution images [[Paper](https://www.ijcai.org/proceedings/2024/1036.pdf)]
 * [**CVPR'24**] Attention-driven training-free efficiency enhancement of diffusion models [[Paper](https://arxiv.org/pdf/2405.05252)]
 * [**CVPR'24**] vid-TLDR: Training Free Token Merging for Light-weight Video Transformer [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Choi_vid-TLDR_Training_Free_Token_Merging_for_Light-weight_Video_Transformer_CVPR_2024_paper.pdf)][[Code](https://github.com/mlvlab/vid-TLDR)]  
 * [**CVPR'24**] Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf)][[Code](https://jha-lab.github.io/zerotprune/)] 
@@ -44,6 +51,8 @@ We will try to make this list updated. If you found any error or any missed pape
 * [arXiv] Token Pruning for Caching Better: 9 Times Acceleration on Stable Diffusion for Free [[Paper](https://arxiv.org/pdf/2501.00375)] 
 * [arXiv] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer [[Paper](https://arxiv.org/pdf/2408.17062)] 
 * [arXiv] Dynamic and Compressive Adaptation of Transformers From Images to Videos [[Paper](https://arxiv.org/pdf/2408.06840)]
+* [arXiv] Importance-based Token Merging for Diffusion Models [[Paper](https://arxiv.org/pdf/2411.16720)]
+* [arXiv] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration [[Paper](https://arxiv.org/pdf/2412.11706)] [[Code](https://github.com/wenhao728/AsymRnR)]
 
 #### 2023
 * [**ICCV'23**] Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_Dynamic_Token_Pruning_in_Plain_Vision_Transformers_for_Semantic_Segmentation_ICCV_2023_paper.pdf)][[Code](https://github.com/zbwxp/Dynamic-Token-Pruning)]
@@ -51,6 +60,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**ICCV'23**] TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dou_TORE_Token_Reduction_for_Efficient_Human_Mesh_Recovery_with_Transformer_ICCV_2023_paper.pdf)][[Code](https://github.com/Frank-ZY-Dou/TORE)] 
 * [**ICCV'23** Workshop] Which Tokens to Use? Investigating Token Reduction in Vision Transformers [[Paper](https://arxiv.org/abs/2308.04657)][[Code](https://github.com/JoakimHaurum/TokenReduction)] 
 * [**CVPR'23**] Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers [[Paper](https://arxiv.org/pdf/2304.10716)][[Code](https://github.com/megvii-research/TPS-CVPR2023)]
+* [**CVPRW'23**] Token merging for fast stable diffusion [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Bolya_Token_Merging_for_Fast_Stable_Diffusion_CVPRW_2023_paper.pdf)] [[Code](https://github.com/dbolya/tomesd)]
 * [**ICLR'23**] Token Merging: Your ViT But Faster [[Paper](https://arxiv.org/pdf/2210.09461)][[Code](https://github.com/facebookresearch/ToMe)]
 * [**IJCAI'23**] Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention [[Paper](https://arxiv.org/pdf/2209.13802)][[Code](https://github.com/Cydia2018/AS-ViT)]
 * [**TIP**] Efficient Vision Transformer via Token Merger [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10183862)]
