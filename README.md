@@ -91,6 +91,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * [**EMNLP'24**] Memory-Efficient Fine-Tuning of Transformers via Token Selection [[Paper](https://arxiv.org/pdf/2501.18824)][[Code](https://github.com/facebookresearch/tokentune)]
 * [arXiv] LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference [[Paper](https://arxiv.org/pdf/2407.14057)]
 * [**ICLR'24**] In-context autoencoder for context compression in a large language model [[Paper](https://arxiv.org/pdf/2307.06945)][[Code](https://github.com/getao/icae)]
+* [**EMNLP'24**] Fewer is More: Boosting LLM Reasoning with Reinforced Context Pruning [[Paper](https://arxiv.org/pdf/2312.08901)]
 
 #### 2023
 * [**EMNLP'23**] Optimizing Retrieval-augmented Reader Models via Token Elimination [[Paper](https://arxiv.org/pdf/2310.13682)][[Code](https://github.com/IntelLabs/token_elimination)]
