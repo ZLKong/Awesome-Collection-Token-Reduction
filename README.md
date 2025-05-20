@@ -102,6 +102,7 @@ We will try to make this list updated. If you found any error or any missed pape
 ## 📝 Language 
 <a id="language"></a>
 #### 2025
+* [**ACL'25**] Accurate KV Cache Quantization with Outlier Tokens Tracing [[Paper](https://arxiv.org/pdf/2505.10938)] [[Code](https://github.com/yisunlp/OTT)]
 * [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)] [[Code](https://github.com/jkallini/mrt5)]
 
 #### 2024
@@ -141,7 +142,8 @@ We will try to make this list updated. If you found any error or any missed pape
 ## 🎬 Vision-Language Model 
 <a id="vision-language-model"></a>
 #### 2025
-* [**CVPR'25**] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models
+* [**CVPR'25**] Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models  [[Paper](https://arxiv.org/pdf/2503.16036)] [[Code](https://github.com/lntzm/HICom)]
+* [**CVPR'25**] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models [[Paper](https://arxiv.org/pdf/2504.08966)]
 * [**CVPR'25**] DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models [[Paper](https://arxiv.org/abs/2503.02175)] [[Code](https://github.com/vbdi/divprune)]
 * [**CVPR'25**] SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding [[Paper](https://arxiv.org/abs/2412.09604)]
 * [**CVPR'25**] PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models [[Paper](https://arxiv.org/abs/2412.09613)]
