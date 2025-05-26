@@ -3,8 +3,8 @@
 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, compressing, etc.) for ML/AI; we categorize them based on their year and application scenarios. If you found any errors or any missing papers, please don't hesitate to open an issue or pull request.
 
 ## 📢 News
-- <kbd>2025/05/25</kbd> 🔥🔥 Checkout our newly release position paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://github.com/ZLKong/awesome-token-compression-reduction/blob/main/paper.pdf)"
-- <kbd>2025/03/24</kbd> Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025, EMNLP 2024
+- **`2025/05/25`** 🔥🔥 Checkout our newly release position paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://github.com/ZLKong/awesome-token-compression-reduction/blob/main/paper.pdf)"
+- **`2025/03/24`** Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025, EMNLP 2024
 
 ## Table of Contents
 - [🌁 Vision](#vision)
