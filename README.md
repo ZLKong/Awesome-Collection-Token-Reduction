@@ -1,4 +1,4 @@
-# ⭐ Awesome Token Pruning / Compression / Reduction Papers
+# ⭐ Awesome Token Pruning / Compression / Reduction Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 📚 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, compressing, etc.) for ML/AI; we categorize them based on their year and application scenarios. 
 
@@ -225,6 +225,20 @@
 * [**HPCA'23**] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10071047)]
 * [**HPCA'21**] SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning [[Paper](https://arxiv.org/pdf/2012.09852)] [[Code](https://github.com/mit-han-lab/spatten)]
 
+
+
+## 📜 Citation
+```
+@misc{kong2025tokenreductionefficiencygenerative,
+      title={Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality}, 
+      author={Zhenglun Kong and Yize Li and Fanhu Zeng and Lei Xin and Shvat Messica and Xue Lin and Pu Zhao and Manolis Kellis and Hao Tang and Marinka Zitnik},
+      year={2025},
+      eprint={2505.18227},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.18227}, 
+}
+```
 ## 💖 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ZLKong/awesome-token-compression-reduction&type=Date)](https://www.star-history.com/#ZLKong/awesome-token-compression-reduction&Date)
