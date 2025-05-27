@@ -224,3 +224,7 @@ This repository contains a list of recent papers on token reduction (token pruni
 * [**DATE'24**] ViT-ToGo : Vision Transformer Accelerator with Grouped Token Pruning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10546804)]
 * [**HPCA'23**] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10071047)]
 * [**HPCA'21**] SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning [[Paper](https://arxiv.org/pdf/2012.09852)] [[Code](https://github.com/mit-han-lab/spatten)]
+
+## 💖 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZLKong/awesome-token-compression-reduction&type=Date)](https://www.star-history.com/#ZLKong/awesome-token-compression-reduction&Date)
