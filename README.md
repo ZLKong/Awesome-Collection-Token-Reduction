@@ -5,7 +5,7 @@ This repository contains a list of recent papers on token reduction (token pruni
 👀 If you found any **errors** or **missing papers**, please don't hesitate to open an issue or pull request. We welcome you to contribute to this field!
 
 ## 📢 News
-- **`2025/05/25`** 🔥🔥 Checkout our newly released position paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)"
+- **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)"
 
 <p align="center"> <img src="timeline.png" width="750" align="center"> </p>
 
