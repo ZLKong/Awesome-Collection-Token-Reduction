@@ -1,4 +1,6 @@
-# ⭐ Awesome Token Pruning / Compression / Reduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# ⭐ Awesome Token Pruning / Compression / Reduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Token Reduction Papers](https://img.shields.io/badge/Google-Sheet-brightgreen?style=flat&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1tZvQEwK8y3fXRufEsz3VOcUcyBzexTj-x7WLLGIzIMg/edit?usp=sharing)
+
+
 
 📚 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, compressing, etc.) for ML/AI; we categorize them based on their year and application scenarios. 
 
