@@ -7,15 +7,18 @@
 ## 📢 News
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)"
 
-<p align="center"> <img src="timeline.png" width="750" align="center"> </p>
+<p align="center"> <img src="timeline.png" width="700" align="center"> </p>
 
 - **`2025/03/24`** Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025, EMNLP 2024
 
 ## Table of Contents
+A detailed list of papers organized by modality can be found in this [Google Sheet](https://docs.google.com/spreadsheets/d/1tZvQEwK8y3fXRufEsz3VOcUcyBzexTj-x7WLLGIzIMg/edit?usp=sharing), including a brief introduction of the **task, token reduction type, contribution, and methodology** for each paper.
+
 - [🌁 Vision](#vision)
 - [📝 Language](#language)
 - [🎬 Vision-Language Model](#vision-language-model)
 - [📱 Hardware Co-design](#hardware)
+
 
 ## 🌁 Vision 
 <a id="vision"></a>
