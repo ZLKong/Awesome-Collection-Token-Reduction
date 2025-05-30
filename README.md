@@ -155,6 +155,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language Model 
 <a id="vision-language-model"></a>
 #### 2025
+* [**ICML'25**] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2410.04417)] [[Code](https://github.com/gumpest/sparsevlms)]
 * [**CVPR'25**] Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models  [[Paper](https://arxiv.org/pdf/2503.16036)] [[Code](https://github.com/lntzm/HICom)]
 * [**CVPR'25**] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models [[Paper](https://arxiv.org/pdf/2504.08966)]
 * [**CVPR'25**] DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models [[Paper](https://arxiv.org/abs/2503.02175)] [[Code](https://github.com/vbdi/divprune)]
@@ -199,7 +200,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration [[Paper](https://arxiv.org/pdf/2411.17686)] [[Code](https://github.com/kawhiiiileo/FiCoCo)]
 * [OpenReview] LVP: Language-guide Visual Projector for Efficient Multimodal LLM [[Paper](https://openreview.net/pdf?id=PxBzxO02Ef)]
 * [arXiv] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models  [[Paper](https://arxiv.org/abs/2501.01986)] [[Code](https://github.com/thu-nics/FrameFusion)]
-* [arXiv] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2410.04417)] [[Code](https://github.com/gumpest/sparsevlms)]
 * [arXiv] AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning [[Paper](https://arxiv.org/pdf/2412.03248)] [[Code](https://github.com/LaVi-Lab/AIM)]
 * [arXiv] VisionZip: Longer is Better but Not Necessary in Vision Language Models [[Paper](https://arxiv.org/pdf/2412.04467)] [[Code](https://github.com/dvlab-research/VisionZip)]
 * [arXiv] TokenPacker: Efficient Visual Projector for Multimodal LLM [[Paper](https://arxiv.org/pdf/2407.02392)] [[Code](https://github.com/CircleRadon/TokenPacker)]
