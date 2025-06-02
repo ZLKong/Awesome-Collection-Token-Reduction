@@ -116,7 +116,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'25**] Accurate KV Cache Quantization with Outlier Tokens Tracing [[Paper](https://arxiv.org/pdf/2505.10938)] [[Code](https://github.com/yisunlp/OTT)]
 * [**NAACL'25**] S2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency [[Paper](https://arxiv.org/pdf/2502.04790)]
 * [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)] [[Code](https://github.com/jkallini/mrt5)]
-* [**KAIS**] Dynamic token pruning for LLMs: leveraging task-specific attention and adaptive thresholds [[Paper](https://link.springer.com/article/10.1007/s10115-025-02450-1)]  
+* [**KAIS**] Dynamic token pruning for LLMs: leveraging task-specific attention and adaptive thresholds [[Paper](https://link.springer.com/article/10.1007/s10115-025-02450-1)] [[Code](https://github.com/ahmadpanah/TS-DTP)]  
 
 #### 2024
 * [**NeurIPS'24**] Fast Best-of-N Decoding via Speculative Rejection [[Paper](https://arxiv.org/pdf/2410.20290)] [[Code](https://github.com/Zanette-Labs/SpeculativeRejection)]
