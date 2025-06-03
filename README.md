@@ -235,14 +235,11 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 ## 📜 Citation
 ```
-@misc{kong2025tokenreductionefficiencygenerative,
-      title={Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality}, 
-      author={Zhenglun Kong and Yize Li and Fanhu Zeng and Lei Xin and Shvat Messica and Xue Lin and Pu Zhao and Manolis Kellis and Hao Tang and Marinka Zitnik},
-      year={2025},
-      eprint={2505.18227},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2505.18227}, 
+@article{kong2025token,
+  title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
+  author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
+  journal={arXiv preprint arXiv:2505.18227},
+  year={2025}
 }
 ```
 ## 💖 Star History
