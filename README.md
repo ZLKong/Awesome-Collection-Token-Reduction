@@ -234,6 +234,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 
 ## 📜 Citation
+If you find our work useful for your project, please consider citing our paper.
 ```
 @article{kong2025token,
   title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
