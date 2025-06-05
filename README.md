@@ -37,7 +37,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'25**] Mutual Effort for Efficiency: A Similarity-based Token Pruning for Vision Transformers in Self-Supervised Learning [[Paper](https://openreview.net/pdf?id=GTcEe5fayC)]
 * [**ICLR'25**] Dynamic diffusion transformer [[Paper](https://arxiv.org/pdf/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)]
 * [**WACV'25**] Pruning One More Token is Enough: Leveraging Latency-Workload Non-Linearities for Vision Transformers on the Edge  [[Paper](https://arxiv.org/abs/2407.05941)]
-* [**ICASSP'25**] Pruning for Sparse Diffusion Models based on Gradient Flow [[Paper](https://ieeexplore.ieee.org/document/10890532)]
+* [**ICASSP'25**] Pruning then reweighting: Towards data-efficient training of diffusion models [[Paper](https://ieeexplore.ieee.org/abstract/document/10888554)] [[Code](https://github.com/Yeez-lee/Data-Selection-and-Reweighting-for-Diffusion-Models)]
 * [**AAAI'25**] FreqTS: Frequency-Aware Token Selection for Accelerating Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33008)]
 * [**AAAI'25**] Multimodal Promptable Token Merging for Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33894)]
 * [**AAAI'25**] Training-free and hardware-friendly acceleration for diffusion models via similarity-based token pruning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33071)] [[Code](https://github.com/EvelynZhang-epiclab/SiTo)]
