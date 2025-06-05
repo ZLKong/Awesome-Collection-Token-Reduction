@@ -154,9 +154,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2020
 * [**ICML'20**] Power-bert: Accelerating bert inference via progressive word-vector elimination [[Paper](https://arxiv.org/pdf/2001.08950)] [[Code](https://github.com/IBM/PoWER-BERT)]    
 
-## 🎬 Vision-Language Model 
+## 🎬 Vision-Language Model
 <a id="vision-language-model"></a>
 #### 2025
+* [arXiv] SmolVLM: Redefining small and efficient multimodal models [[Paper](https://arxiv.org/pdf/2504.05299)] [[Code](https://github.com/huggingface/smollm)]
 * [**ICML'25**] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2410.04417)] [[Code](https://github.com/gumpest/sparsevlms)]
 * [**CVPR'25**] Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models  [[Paper](https://arxiv.org/pdf/2503.16036)] [[Code](https://github.com/lntzm/HICom)]
 * [**CVPR'25**] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models [[Paper](https://arxiv.org/pdf/2504.08966)]
