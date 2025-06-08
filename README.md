@@ -2,12 +2,12 @@
 
 
 
-📚 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, compressing, etc.) for ML/AI; we categorize them based on their year and application scenarios. You can see that token reduction is leveraged in some papers for **more than just efficiency gains**.
+📚 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, compressing, etc.) for ML/AI; we categorize them based on their year and application scenarios. 
 
 👀 If you found any **errors** or **missing papers**, please don't hesitate to **open an issue** or **pull request**. We invite your participation in advancing this field.
 
 ## 📢 News
-- **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)"
+- **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
 
 <p align="center"> <img src="timeline.png" width="700" align="center"> </p>
 
