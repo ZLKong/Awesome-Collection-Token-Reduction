@@ -222,6 +222,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] CATP: Cross-Attention Token Pruning for Accuracy Preserved Multimodal Model Inference [[Paper](https://arxiv.org/pdf/2404.08567)]
 * [arXiv] MobileVLM V2: Faster and Stronger Baseline for Vision Language Model [[Paper](https://arxiv.org/abs/2402.03766.pdf)] [[Code](https://github.com/Meituan-AutoML/MobileVLM)]
 * [arXiv] LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[Paper](https://arxiv.org/abs/2403.15388.pdf)] [[Code](https://github.com/42Shawn/LLaVA-PruMerge)]
+* [arXiv] iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models [[Paper](https://arxiv.org/pdf/2412.06263)] [[Code](https://github.com/hulianyuyy/iLLaVA)]
+
 #### 2023
 * [**ACL'23**] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models [[Paper](https://aclanthology.org/2023.acl-long.721.pdf)] [[Code](https://github.com/csarron/PuMer)]  
 
