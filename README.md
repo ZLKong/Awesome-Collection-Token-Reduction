@@ -115,6 +115,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2025
+* [arXiv] TL;DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression [[Paper](https://arxiv.org/pdf/2506.02678)] [[Code](https://github.com/zzli2022/TLDR)]
 * [arXiv] EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation [[Paper](https://arxiv.org/pdf/2506.04205)] [[Code](https://github.com/OPTML-Group/EPiC)]
 * [arXiv] Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning [[Paper](https://arxiv.org/pdf/2506.01939)]
 * [arXiv] TokenSkip: Controllable Chain-of-Thought Compression in LLMs [[Paper](https://arxiv.org/pdf/2502.12067)] [[Code](https://github.com/hemingkx/TokenSkip)]
