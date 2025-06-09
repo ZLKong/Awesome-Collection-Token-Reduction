@@ -25,6 +25,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2025
+* [**ICML'25**] Streamline Without Sacrifice - Squeeze out Computation Redundancy in LMM [[Paper](https://arxiv.org/pdf/2505.15816)]
 * [**ICME'25**] Sparsedm: Toward sparse efficient diffusion models [[Paper](https://arxiv.org/pdf/2404.10445)]
 * [**CVPR'25**] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)]
 * [**CVPR'25**] Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration [[Paper](https://arxiv.org/pdf/2505.11707)] [[Code](https://github.com/ICTMCG/SDTM)]
@@ -41,7 +42,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'25**] FreqTS: Frequency-Aware Token Selection for Accelerating Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33008)]
 * [**AAAI'25**] Multimodal Promptable Token Merging for Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33894)]
 * [**AAAI'25**] Training-free and hardware-friendly acceleration for diffusion models via similarity-based token pruning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33071)] [[Code](https://github.com/EvelynZhang-epiclab/SiTo)]
-* [**ICML'25**] Streamline Without Sacrifice - Squeeze out Computation Redundancy in LMM [[Paper](https://arxiv.org/pdf/2505.15816)]
+* [arXiv] Pyramid Sparse Transformer: Efficient Multi-Scale Feature Fusion with Dynamic Token Selection [[Paper](https://arxiv.org/pdf/2505.12772)] [[Code](https://github.com/inlmouse/PyramidSparseTransformer)]
 * [arXiv] Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model [[Paper](https://arxiv.org/pdf/2501.00946)] [[Code](https://github.com/omidiu/ca_tome)]
 * [arXiv] Layer-and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers [[Paper](https://arxiv.org/pdf/2412.16822)] [[Code](https://github.com/GATECH-EIC/DiffCR)]
 * [arXiv] UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation [[Paper](https://arxiv.org/pdf/2502.04393)]
