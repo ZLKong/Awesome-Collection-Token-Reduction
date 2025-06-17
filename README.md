@@ -181,6 +181,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'25**] ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models [[Paper](https://arxiv.org/abs/2412.00447)] [[Code](https://yxxxb.github.io/ATP-LLaVA-page/)]
 * [**CVPR'25**] DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models [[Paper](https://arxiv.org/abs/2411.15024)]
 * [**CVPR'25**] VoCo-LLaMA: Towards Vision Compression with Large Language Models [[Paper](https://arxiv.org/pdf/2406.12275)] [[Code](https://github.com/Yxxxb/VoCo-LLaMA)]
+* [**NAACL'25** Finding] LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models [[Paper](https://arxiv.org/pdf/2501.13652)]
 * [**ICLR'25**] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification [[Paper](https://arxiv.org/pdf/2412.00876)] [[Code](https://github.com/Osilly/dynamic_llava)]
 * [**ICLR'25**] Inference Optimal VLMs Need Only One Visual Token But Larger Models  [[Paper](https://openreview.net/pdf?id=6VhDQP7WGX)]
 * [**ICLR'25**] Towards Semantic Equivalence of Tokenization in Multimodal LLM  [[Paper](https://arxiv.org/pdf/2406.05127)] [[Code](https://github.com/ChocoWu/SeTok)]
