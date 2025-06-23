@@ -116,6 +116,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2025
+* [arXiv] Thinkless: LLM Learns When to Think [[Paper](https://arxiv.org/pdf/2505.13379)] [[Code](https://github.com/VainF/Thinkless)]
 * [arXiv] LightThinker: Thinking Step-by-Step Compression [[Paper](https://arxiv.org/pdf/2502.15589)] [[Code](https://github.com/zjunlp/LightThinker)]
 * [arXiv] TL;DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression [[Paper](https://arxiv.org/pdf/2506.02678)] [[Code](https://github.com/zzli2022/TLDR)]
 * [arXiv] EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation [[Paper](https://arxiv.org/pdf/2506.04205)] [[Code](https://github.com/OPTML-Group/EPiC)]
