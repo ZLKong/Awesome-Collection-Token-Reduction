@@ -144,7 +144,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**EMNLP'23**] Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing [[Paper](https://aclanthology.org/2023.emnlp-main.976.pdf)] [[Code](https://github.com/yeachan-kr/lot)]  
 * [**EMNLP'23**] TLM: Token-Level Masking for Transformers [[Paper](https://arxiv.org/pdf/2310.18738)] [[Code](https://github.com/Young1993/tlm)]  
 * [**EMNLP'23**] Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance? [[Paper](https://aclanthology.org/2023.emnlp-main.563.pdf)]
-* [**EMNLP'23**] Adapting Language Models to Compress Contexts [[Paper](https://arxiv.org/pdf/2305.14788)] [[Code](https://github.com/princeton-nlp/AutoCompressors)]  
+* [**EMNLP'23**] Adapting Language Models to Compress Contexts [[Paper](https://arxiv.org/pdf/2305.14788)] [[Code](https://github.com/princeton-nlp/AutoCompressors)]
+* [**NeurIPS'23**] Learning to Compress Prompts with Gist Tokens [[Paper](https://arxiv.org/pdf/2304.08467)] [[Code](https://github.com/jayelm/gisting)] 
 * [**NeurIPS'23**] Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers [[Paper](https://arxiv.org/pdf/2305.15805)]
 * [**ACL'23**] Efficient Transformers with Dynamic Token Pooling [[Paper](https://aclanthology.org/2023.acl-long.353.pdf)] [[Code](https://github.com/PiotrNawrot/dynamic-pooling)] 
 * [**ACL'23**] Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions [[Paper](https://aclanthology.org/2023.acl-long.562.pdf)]
@@ -168,6 +169,9 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language Model
 <a id="vision-language-model"></a>
 #### 2025
+* [arXiv] GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models [[Paper](https://www.arxiv.org/pdf/2506.13166)]
+* [arXiv] Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs [[Paper](https://arxiv.org/pdf/2506.10967)]
+* [arXiv] Generic Token Compression in Multimodal Large Language Models from an Explainability Perspective [[Paper](https://arxiv.org/pdf/2506.01097)]
 * [arXiv] DynTok: Dynamic Compression of Visual Tokens for Efficient and Effective Video Understanding [[Paper](https://www.arxiv.org/pdf/2506.03990)]
 * [arXiv] Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models [[Paper](https://arxiv.org/pdf/2505.14454)] [[Code](https://github.com/xuyang-liu16/VidCom2)]
 * [arXiv] SmolVLM: Redefining small and efficient multimodal models [[Paper](https://arxiv.org/pdf/2504.05299)] [[Code](https://github.com/huggingface/smollm)]
