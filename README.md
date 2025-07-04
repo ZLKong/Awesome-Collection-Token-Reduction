@@ -117,6 +117,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2025
+* [arXiv] A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings [[Paper](https://arxiv.org/pdf/2505.24550v1)] [[Code](https://github.com/AI9Stars/AStar-Thought)]
 * [arXiv] Steering LLM Thinking with Budget Guidance [[Paper](https://arxiv.org/pdf/2506.13752)] [[Code](https://github.com/UMass-Embodied-AGI/BudgetGuidance)]
 * [arXiv] Thinkless: LLM Learns When to Think [[Paper](https://arxiv.org/pdf/2505.13379)] [[Code](https://github.com/VainF/Thinkless)]
 * [arXiv] LightThinker: Thinking Step-by-Step Compression [[Paper](https://arxiv.org/pdf/2502.15589)] [[Code](https://github.com/zjunlp/LightThinker)]
@@ -211,7 +212,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Dynamic Token Reduction during Generation for Vision Language Models [[Paper](https://arxiv.org/pdf/2501.14204)]
 * [arXiv] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration [[Paper](https://arxiv.org/pdf/2501.05179)] [[Code](https://github.com/xuyang-liu16/GlobalCom2)]
 * [arXiv] FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.19536)] [[Code](https://github.com/TungChintao/FlowCut)]
-* [arXiv] VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.22654)]
+* [arXiv] VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.22654)] [[Code](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)]
 * [arXiv] HoliTom: Holistic Token Merging for Fast Video Large Language Models [[Paper](https://arxiv.org/pdf/2505.21334)] [[Code](https://github.com/cokeshao/HoliTom)]
 * [arXiv] ToDRE: Visual Token Pruning via Diversity and Task Awareness for Efficient Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.18757)]
   
