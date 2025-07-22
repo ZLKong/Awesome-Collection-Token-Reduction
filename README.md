@@ -26,6 +26,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision"></a>
 #### 2025
 * [**ICME'25**] Sparsedm: Toward sparse efficient diffusion models [[Paper](https://arxiv.org/pdf/2404.10445)]
+* [**ICME'25**] SPEECHPRUNE: Context-aware Token Pruning for Speech Information Retrieval [[Paper](https://arxiv.org/pdf/2412.12009)]
+* [**ICCV'25**] Keyframe-oriented Vision Token Pruning: Enhancing Efficiency of Large Vision Language Models on Long-Form Video Processing [[Paper](https://arxiv.org/pdf/2503.10742)]
 * [**CVPR'25**] Faster Parameter-Efficient Tuning with Token Redundancy Reduction [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Faster_Parameter-Efficient_Tuning_with_Token_Redundancy_Reduction_CVPR_2025_paper.pdf)] [[Code](https://github.com/kyk120/fpet)]
 * [**CVPR'25**] AdaCM<sup>2</sup>: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction [[Paper](https://arxiv.org/pdf/2411.12593v3)]
 * [**CVPR'25**] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)]
