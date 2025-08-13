@@ -118,6 +118,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2025
+* [arXiv] SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning [[Paper](https://www.arxiv.org/pdf/2508.06447)]
 * [arXiv] Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning [[Paper](https://arxiv.org/pdf/2505.14582)]
 * [arXiv] A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings [[Paper](https://arxiv.org/pdf/2505.24550v1)] [[Code](https://github.com/AI9Stars/AStar-Thought)]
 * [arXiv] Steering LLM Thinking with Budget Guidance [[Paper](https://arxiv.org/pdf/2506.13752)] [[Code](https://github.com/UMass-Embodied-AGI/BudgetGuidance)]
@@ -173,6 +174,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language Model
 <a id="vision-language-model"></a>
 #### 2025
+* [arXiv] TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[Paper](https://arxiv.org/pdf/2507.20630)] [[Code](https://github.com/liaolea/TransPrune)]
 * [arXiv] FlexSelect: Flexible Token Selection for Efficient Long Video Understanding [[Paper](https://arxiv.org/pdf/2506.00993)] [[Code](https://github.com/yunzhuzhang0918/flexselect)]
 * [arXiv] LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs [[Paper](https://www.arxiv.org/pdf/2506.21862)] [[Code](https://github.com/HumanMLLM/LLaVA-Scissor)]
 * [arXiv] GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models [[Paper](https://www.arxiv.org/pdf/2506.13166)]
@@ -253,6 +255,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'23**] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models [[Paper](https://aclanthology.org/2023.acl-long.721.pdf)] [[Code](https://github.com/csarron/PuMer)]  
 
 ## 🐍 State Space Models 
+* [**arXiv**] Training-free Token Reduction for Vision Mamba [[Paper](https://arxiv.org/pdf/2507.14042)] 
 * [**arXiv**] Dynamic Vision Mamba [[Paper](https://arxiv.org/pdf/2504.04787#page=7.39)] [[Code](https://github.com/NUS-HPC-AI-Lab/DyVM)]
 * [**EMNLP'24**] Rethinking Token Reduction for State Space Models [[Paper](https://arxiv.org/pdf/2410.14725)] [[Code](https://github.com/wuyushuwys/ToR_SSM)]
 * [**NeurIPS'24**] Exploring Token Pruning in Vision State Space Models [[Paper](https://arxiv.org/pdf/2409.18962)]
