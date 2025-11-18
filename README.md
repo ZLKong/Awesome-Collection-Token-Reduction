@@ -195,6 +195,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2026
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
 #### 2025
+* [**ACL'25**] PruneVid: Visual Token Pruning for Efficient Video Large Language Models [[Paper](https://aclanthology.org/2025.findings-acl.1024.pdf)] [[Code](https://github.com/visual-ai/prunevid)]
 * [**NeurIPS'25**] Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs [[Paper](https://openreview.net/pdf/e9d277877d779f8f4cd3d6b7530ec58f34561a54.pdf)] [[Code](https://github.com/Theia-4869/CDPruner)]
 * [**NeurIPS'25**] VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models [[Paper](https://arxiv.org/pdf/2503.16980)] [[Code](https://github.com/Hai-chao-Zhang/VQToken)]
 * [**NeurIPS'25**] Vision-centric Token Compression in Large Language Model [[Paper](https://openreview.net/pdf?id=YdggdEL41C)]
