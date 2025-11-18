@@ -2,7 +2,7 @@
 
 
 
-📚 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, compressing, etc.) for ML/AI; we categorize them based on their year and application scenarios. 
+📚 This repository contains a list of recent papers on token reduction (token pruning, merging, clustering, compressing, adaptive thinking etc.) for ML/Gen AI; we categorize them based on their year and application scenarios. 
 
 👀 If you found any **errors** or **missing papers**, please don't hesitate to **open an issue** or **pull request**. We invite your participation in advancing this field.
 
