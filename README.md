@@ -16,7 +16,7 @@
 - **`2025/03/24`** Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025, EMNLP 2024.
 
 ## Table of Contents
-A detailed list of papers organized by modality can be found in this [Google Sheet](https://docs.google.com/spreadsheets/d/1tZvQEwK8y3fXRufEsz3VOcUcyBzexTj-x7WLLGIzIMg/edit?usp=sharing), including a brief introduction of the **task, token reduction type, contribution, and methodology** for each paper (update weekly).
+A detailed list of papers organized by modality can be found in this [Google Sheet](https://docs.google.com/spreadsheets/d/1tZvQEwK8y3fXRufEsz3VOcUcyBzexTj-x7WLLGIzIMg/edit?usp=sharing), including a brief introduction of the **task, token reduction type, contribution, and methodology** for each paper.
 
 - [🌁 Vision](#vision)
 - [📝 Language](#language)
