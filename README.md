@@ -129,6 +129,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving [[Paper](https://arxiv.org/pdf/2511.01633v1)]
 * [arXiv] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [arXiv] MixReasoning: Switching Modes to Think [[Paper](https://arxiv.org/pdf/2510.06052)]
+* [**NeurIPSW'25**] Chopping Trees: Semantic Similarity Based Dynamic Pruning for Tree-of-Thought Reasoning [[Paper](https://arxiv.org/pdf/2511.08595)] [[Code](https://github.com/kimjoonghokim/SSDP)]
 * [**NeurIPS'25**] Ada-R1: Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization [[Paper](https://openreview.net/pdf?id=a9MfGUHjF8)] [[Code](https://github.com/StarDewXXX/AdaR1)]
 * [**NeurIPS'25**] Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space [[Paper](https://openreview.net/pdf?id=ByQdHPGKgU)] [[Code](https://github.com/eric-ai-lab/Soft-Thinking)]
 * [**NeurIPS'25**] Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning [[Paper](https://arxiv.org/pdf/2506.01939)] [[Code](https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR)]
