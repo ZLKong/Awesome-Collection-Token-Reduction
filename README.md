@@ -252,7 +252,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)] [[Code](https://github.com/jkallini/mrt5)]
 * [**ICLR'25**] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval [[Paper](https://arxiv.org/abs/2409.01156)] [[Code](https://github.com/LunarShen/TempMe)]
 * [**ICLR'25**] Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters [[Paper](https://openreview.net/pdf?id=6VhDQP7WGX)]
-* [**WACV'25**] VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation [[Paper](https://arxiv.org/pdf/2409.08464)]
+* [**WACV'25**] VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation [[Paper](https://arxiv.org/pdf/2409.08464)] [[Code](https://github.com/HanningChen/VLTP/tree/main)]
 * [**WACV'25**] Patch Ranking: Token Pruning as Ranking Prediction for Efficient CLIP [[Paper](https://arxiv.org/html/2409.14607v1)]
 * [**AAAI'25**] Boosting Multimodal Large Language Models with Visual Tokens Withdrawal for Rapid Inference [[Paper](https://arxiv.org/pdf/2405.05803)] [[Code](https://github.com/lzhxmu/VTW)]
 * [**AAAI'25**] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments [[Paper](https://arxiv.org/pdf/2408.10945)] [[Code](https://github.com/hasanar1f/HiRED)]
