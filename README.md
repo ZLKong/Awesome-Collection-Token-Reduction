@@ -6,6 +6,16 @@
 
 👀 If you found any **errors** or **missing papers**, please don't hesitate to **open an issue** or **pull request**. We invite your participation in advancing this field.
 
+## 📜 Citation
+If you find our work useful for your project, please consider citing our paper.
+```
+@article{kong2025token,
+  title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
+  author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
+  journal={arXiv preprint arXiv:2505.18227},
+  year={2025}
+}
+```
 ## 📢 News
 - **`2025/11/18`** Added CVPR 2025, NeurIPS 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
@@ -315,18 +325,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**HPCA'23**] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10071047)]
 * [**HPCA'21**] SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning [[Paper](https://arxiv.org/pdf/2012.09852)] [[Code](https://github.com/mit-han-lab/spatten)]
 
-
-
-## 📜 Citation
-If you find our work useful for your project, please consider citing our paper.
-```
-@article{kong2025token,
-  title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
-  author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
-  journal={arXiv preprint arXiv:2505.18227},
-  year={2025}
-}
-```
 ## 💖 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ZLKong/awesome-token-compression-reduction&type=Date)](https://www.star-history.com/#ZLKong/awesome-token-compression-reduction&Date)
