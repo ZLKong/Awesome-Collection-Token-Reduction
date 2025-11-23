@@ -30,7 +30,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 - [🌁 Vision](#vision)
 - [📝 Language](#language)
-- [🎬 Vision-Language Model](#vision-language-model)
+- [🎬 Vision-Language (Action) Model](#vision-language(action)-model)
 - [📱 Hardware Co-design](#hardware)
 
 
@@ -203,8 +203,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2020
 * [**ICML'20**] Power-bert: Accelerating bert inference via progressive word-vector elimination [[Paper](https://arxiv.org/pdf/2001.08950)] [[Code](https://github.com/IBM/PoWER-BERT)]    
 
-## 🎬 Vision-Language Model
-<a id="vision-language-model"></a>
+## 🎬 Vision-Language (Action) Model
+<a id="vision-language(action)-model"></a>
 #### 2026
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
 #### 2025
