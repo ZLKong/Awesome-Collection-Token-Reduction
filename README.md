@@ -17,7 +17,7 @@ If you find our work useful for your project, please consider citing our paper a
 }
 ```
 ## 📢 News
-- **`2025/11/22`** Added CVPR 2025, NeurIPS 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026.
+- **`2025/11/23`** Added CVPR 2025, NeurIPS 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
 
@@ -132,6 +132,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2025
+* [arXiv] ARM2: Adaptive Reasoning Model with Vision Understanding and Executable Code [[Paper](https://arxiv.org/pdf/2510.08163)]
 * [arXiv] AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2505.11896)]
 * [arXiv] AdaptThink: LLM Can Learn When to Think [[Paper](https://arxiv.org/pdf/2505.13417)] [[Code](https://github.com/THU-KEG/AdaptThink)]
 * [arXiv] Qwen3 Technical Report [[Paper](https://arxiv.org/pdf/2505.09388)] [[Code](https://github.com/QwenLM/Qwen3)]
@@ -140,8 +141,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving [[Paper](https://arxiv.org/pdf/2511.01633v1)]
 * [arXiv] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [arXiv] MixReasoning: Switching Modes to Think [[Paper](https://arxiv.org/pdf/2510.06052)]
+* [**NeurIPSW'25**] Adaptive Dual Reasoner: Large Reasoning Models Can Think Efficiently by Hybrid Reasoning [[Paper](https://arxiv.org/pdf/2510.10207)]
 * [**NeurIPSW'25**] Chopping Trees: Semantic Similarity Based Dynamic Pruning for Tree-of-Thought Reasoning [[Paper](https://arxiv.org/pdf/2511.00640)] [[Code](https://github.com/kimjoonghokim/SSDP)]
 * [**NeurIPSW'25**] DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching [[Paper](https://arxiv.org/pdf/2511.08595)] [[Code](https://github.com/ZichengXu/Decoding-Tree-Sketching)]
+* [**NeurIPS'25**] ARM: Adaptive Reasoning Model [[Paper](https://arxiv.org/pdf/2505.20258)] [[Code](https://github.com/TEAM-ARM/ARM)]
 * [**NeurIPS'25**] Ada-R1: Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization [[Paper](https://openreview.net/pdf?id=a9MfGUHjF8)] [[Code](https://github.com/StarDewXXX/AdaR1)]
 * [**NeurIPS'25**] Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space [[Paper](https://openreview.net/pdf?id=ByQdHPGKgU)] [[Code](https://github.com/eric-ai-lab/Soft-Thinking)]
 * [**NeurIPS'25**] Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning [[Paper](https://arxiv.org/pdf/2506.01939)] [[Code](https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR)]
@@ -207,7 +210,9 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision-language(action)-model"></a>
 #### 2026
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
+* [**AAAI'26**] Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration [[Paper](https://arxiv.org/pdf/2411.17686)] [[Code](https://github.com/kawhiiiileo/FiCoCo)]
 #### 2025
+* [**ACM MM'25**] TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[Paper](https://arxiv.org/pdf/2504.17343)] [[Code](https://github.com/yaolinli/TimeChat-Online)]
 * [**ACM MM'25**] Short-LVLM: Compressing and Accelerating Large Vision-Language Models by Pruning Redundant Layers [[Paper](https://arxiv.org/pdf/2507.23362)] [[Code](https://github.com/ASGO-MM/Short-LVLM)]
 * [**ACM MM'25**] VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference [[Paper](https://arxiv.org/pdf/2508.17857)] [[Code](https://github.com/mobiushy/VISA)]
 * [**EMNLP'25**] Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering [[Paper](https://arxiv.org/pdf/2504.21403)] [[Code](https://github.com/ANDgate99/Explore-Then-Select)]
@@ -271,7 +276,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'25**] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments [[Paper](https://arxiv.org/pdf/2408.10945)] [[Code](https://github.com/hasanar1f/HiRED)]
 * [**AAAI'25**] Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models [[Paper](https://arxiv.org/pdf/2409.10197)] [[Code](https://github.com/ywh187/FitPrune)]
 * [**COLING'25**] Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs [[Paper](https://arxiv.org/pdf/2409.10994)] [[Code](https://github.com/FreedomIntelligence/TRIM/)]
-* [arXiv] TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[Paper](https://arxiv.org/pdf/2504.17343)] [[Code](https://github.com/yaolinli/TimeChat-Online)]
 * [arXiv] Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models [[Paper](https://arxiv.org/pdf/2403.18814)] [[Code](https://github.com/dvlab-research/MGM)]
 * [arXiv] ZipR1: Reinforcing Token Sparsity in MLLMs [[Paper](https://www.arxiv.org/pdf/2504.18579)] 
 * [arXiv] Fast-Slow Thinking for Large Vision-Language Model Reasoning [[Paper](https://arxiv.org/pdf/2504.18458)] [[Code](https://github.com/Mr-Loevan/FAST)]
