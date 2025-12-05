@@ -298,6 +298,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ECCV'24**] BRAVE: Broadening the visual encoding of vision-language models [[Paper](https://arxiv.org/pdf/2404.07204)] [[Code](https://github.com/kyegomez/BRAVE-ViT-Swarm)]
 * [**CVPR'24**] MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer [[Paper](https://arxiv.org/pdf/2403.02991)] [[Code](https://github.com/double125/MADTP)]
 * [**CVPR'24**] Honeybee: Locality-enhanced Projector for Multimodal LLM [[Paper](https://arxiv.org/abs/2312.06742)] [[Code](https://github.com/khanrc/honeybee?tab=readme-ov-file)]
+* [arXiv] ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression [[Paper](https://arxiv.org/pdf/2410.08584)]
 * [arXiv] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration [[Paper](https://arxiv.org/pdf/2411.17686)] [[Code](https://github.com/kawhiiiileo/FiCoCo)]
 * [OpenReview] LVP: Language-guide Visual Projector for Efficient Multimodal LLM [[Paper](https://openreview.net/pdf?id=PxBzxO02Ef)]
 * [arXiv] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models  [[Paper](https://arxiv.org/abs/2501.01986)] [[Code](https://github.com/thu-nics/FrameFusion)]
