@@ -251,6 +251,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICML'25**] Streamline Without Sacrifice - Squeeze out Computation Redundancy in LMM [[Paper](https://arxiv.org/pdf/2505.15816)]
 * [**ICML'25**] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2503.16036)] [[Code](https://github.com/lntzm/HICom)]
 * [**CVPR'25**] A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_A_Stitch_in_Time_Saves_Nine_Small_VLM_is_a_CVPR_2025_paper.pdf)] [[Code](https://github.com/NUS-HPC-AI-Lab/SGL)]
+* [**CVPR'25**] PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction  [[Paper](https://arxiv.org/pdf/2410.17247)] [[Code](https://github.com/Cooperx521/PyramidDrop)]
 * [**CVPR'25**] Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models  [[Paper](https://arxiv.org/pdf/2503.16036)] [[Code](https://github.com/lntzm/HICom)]
 * [**CVPR'25**] PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models [[Paper](https://arxiv.org/pdf/2504.08966)]
 * [**CVPR'25**] DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models [[Paper](https://arxiv.org/abs/2503.02175)] [[Code](https://github.com/vbdi/divprune)]
