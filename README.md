@@ -36,6 +36,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 ## 🌁 Vision 
 <a id="vision"></a>
+#### 2026
+* [**AAAI'26**] CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking [[Paper](https://arxiv.org/pdf/2511.15580)]
 #### 2025
 * [**ICASSP'25**] Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition [[Paper](https://ieeexplore.ieee.org/document/10890489)] [[Code](https://github.com/arkel23/CLCA)]
 * [**ICME'25**] Sparsedm: Toward sparse efficient diffusion models [[Paper](https://arxiv.org/pdf/2404.10445)]
