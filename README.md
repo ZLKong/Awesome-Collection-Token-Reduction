@@ -219,6 +219,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2026
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
 * [**AAAI'26**] Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration [[Paper](https://arxiv.org/pdf/2411.17686)] [[Code](https://github.com/kawhiiiileo/FiCoCo)]
+* [**AAAI'26**] Global Compression Commander: Plug-and-Play Inference Acceleration for High-Resolution Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2501.05179)] [[Code](https://github.com/xuyang-liu16/GlobalCom2)]
 #### 2025
 * [**ACM MM'25**] TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[Paper](https://arxiv.org/pdf/2504.17343)] [[Code](https://github.com/yaolinli/TimeChat-Online)]
 * [**ACM MM'25**] Short-LVLM: Compressing and Accelerating Large Vision-Language Models by Pruning Redundant Layers [[Paper](https://arxiv.org/pdf/2507.23362)] [[Code](https://github.com/ASGO-MM/Short-LVLM)]
