@@ -152,6 +152,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPSW'25**] Adaptive Dual Reasoner: Large Reasoning Models Can Think Efficiently by Hybrid Reasoning [[Paper](https://arxiv.org/pdf/2510.10207)]
 * [**NeurIPSW'25**] Chopping Trees: Semantic Similarity Based Dynamic Pruning for Tree-of-Thought Reasoning [[Paper](https://arxiv.org/pdf/2511.00640)] [[Code](https://github.com/kimjoonghokim/SSDP)]
 * [**NeurIPSW'25**] DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching [[Paper](https://arxiv.org/pdf/2511.08595)] [[Code](https://github.com/ZichengXu/Decoding-Tree-Sketching)]
+* [**NeurIPS'25**] Multi-head Temporal Latent Attention [[Paper](https://openreview.net/pdf?id=fm14gUThwh)] [[Code](https://github.com/D-Keqi/mtla)]
 * [**NeurIPS'25**] Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning [[Paper](https://arxiv.org/pdf/2506.07851)] [[Code](https://github.com/RUCBM/LeaF)]
 * [**NeurIPS'25**] Training Language Models to Reason Efficiently [[Paper](https://arxiv.org/pdf/2502.04463)] [[Code](https://github.com/Zanette-Labs/efficient-reasoning)]
 * [**NeurIPS'25**] Flexible Realignment of Language Models [[Paper](https://arxiv.org/pdf/2506.12704)] [[Code](https://github.com/zwhong714/Realigner)]
