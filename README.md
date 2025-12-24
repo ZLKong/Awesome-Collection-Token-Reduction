@@ -134,6 +134,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2025
+* [arXiv] CARL: Critical Action Focused Reinforcement Learning for Multi-Step Agent [[Paper](https://arxiv.org/pdf/2512.04949)]
+* [arXiv] ACON: Optimizing Context Compression for Long-horizon LLM Agents [[Paper](https://arxiv.org/pdf/2510.00615v2)] [[Code](https://github.com/microsoft/acon)]
 * [arXiv] PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning [[Paper](https://github.com/stepfun-ai/PaCoRe/blob/main/pacore_report.pdf)] [[Code](https://github.com/stepfun-ai/PaCoRe/tree/main)]
 * [arXiv] Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [[Paper](https://arxiv.org/pdf/2508.05606v2)] [[Code](https://github.com/Fr0zenCrane/UniCoT)]
 * [arXiv] Latent Collaboration in Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2511.20639)] [[Code](https://github.com/Gen-Verse/LatentMAS)]
