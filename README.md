@@ -17,7 +17,7 @@ If you find our work useful for your project, please consider citing our paper a
 }
 ```
 ## 📢 News
-- **`2025/12/27`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026.
+- **`2025/12/29`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
 
@@ -284,6 +284,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'25**] ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models [[Paper](https://arxiv.org/abs/2412.00447)] [[Code](https://yxxxb.github.io/ATP-LLaVA-page/)]
 * [**CVPR'25**] DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models [[Paper](https://arxiv.org/abs/2411.15024)]
 * [**CVPR'25**] VoCo-LLaMA: Towards Vision Compression with Large Language Models [[Paper](https://arxiv.org/pdf/2406.12275)] [[Code](https://github.com/Yxxxb/VoCo-LLaMA)]
+* [**CVPR'25**] VisionZip: Longer is Better but Not Necessary in Vision Language Models [[Paper](https://arxiv.org/pdf/2412.04467)] [[Code](https://github.com/dvlab-research/VisionZip)]
 * [**NAACL'25** Finding] LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models [[Paper](https://arxiv.org/pdf/2501.13652)]
 * [**ICLR'25**] Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification [[Paper](https://arxiv.org/pdf/2412.00876)] [[Code](https://github.com/Osilly/dynamic_llava)]
 * [**ICLR'25**] Inference Optimal VLMs Need Only One Visual Token But Larger Models  [[Paper](https://openreview.net/pdf?id=6VhDQP7WGX)]
@@ -323,7 +324,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [OpenReview] LVP: Language-guide Visual Projector for Efficient Multimodal LLM [[Paper](https://openreview.net/pdf?id=PxBzxO02Ef)]
 * [arXiv] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models  [[Paper](https://arxiv.org/abs/2501.01986)] [[Code](https://github.com/thu-nics/FrameFusion)]
 * [arXiv] AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning [[Paper](https://arxiv.org/pdf/2412.03248)] [[Code](https://github.com/LaVi-Lab/AIM)]
-* [arXiv] VisionZip: Longer is Better but Not Necessary in Vision Language Models [[Paper](https://arxiv.org/pdf/2412.04467)] [[Code](https://github.com/dvlab-research/VisionZip)]
 * [arXiv] TokenPacker: Efficient Visual Projector for Multimodal LLM [[Paper](https://arxiv.org/pdf/2407.02392)] [[Code](https://github.com/CircleRadon/TokenPacker)]
 * [arXiv] mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding [[Paper](https://arxiv.org/pdf/2409.03420)] [[Code](https://github.com/X-PLUG/mPLUG-DocOwl)]
 * [arXiv] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval [[Paper](https://arxiv.org/pdf/2409.01156)] [[Code](https://github.com/X-PLUG/mPLUG-DocOwl)]
