@@ -255,6 +255,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models [[Paper](https://arxiv.org/pdf/2511.14582)]] [[Code](https://github.com/KD-TAO/OmniZip)]
 * [arXiv] StreamingTOM: Streaming Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.18269)]]
 * [arXiv] Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge [[Paper](https://arxiv.org/pdf/2509.09955)]
+* [arXiv] D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning [[Paper](https://arxiv.org/pdf/2512.19443)]] [[Code](https://github.com/EvelynZhang-epiclab/D2Pruner)]
 * [arXiv] TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[Paper](https://arxiv.org/pdf/2507.20630)] [[Code](https://github.com/liaolea/TransPrune)]
 * [arXiv] A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.01548)] [[Code](https://github.com/HVision-NKU/GlimpsePrune)]
 * [arXiv] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)][[Code](https://github.com/JulietChoo/VisionSelector)]
