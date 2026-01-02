@@ -17,7 +17,7 @@ If you find our work useful for your project, please consider citing our paper a
 }
 ```
 ## 📢 News
-- **`2025/12/30`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026.
+- **`2026/01/01`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
 
@@ -227,7 +227,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
 * [**AAAI'26**] Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration [[Paper](https://arxiv.org/pdf/2411.17686)] [[Code](https://github.com/kawhiiiileo/FiCoCo)]
 * [**AAAI'26**] Global Compression Commander: Plug-and-Play Inference Acceleration for High-Resolution Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2501.05179)] [[Code](https://github.com/xuyang-liu16/GlobalCom2)]
-*  [**WACV'26**] Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2512.18910)]
+* [**AAAI'26**] FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning [[Paper](https://arxiv.org/pdf/2507.23318)]
+* [**WACV'26**] Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2512.18910)]
 #### 2025
 * [**ACM MM'25**] TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[Paper](https://arxiv.org/pdf/2504.17343)] [[Code](https://github.com/yaolinli/TimeChat-Online)]
 * [**ACM MM'25**] Short-LVLM: Compressing and Accelerating Large Vision-Language Models by Pruning Redundant Layers [[Paper](https://arxiv.org/pdf/2507.23362)] [[Code](https://github.com/ASGO-MM/Short-LVLM)]
@@ -249,6 +250,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICCV'25**] Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Oasis_One_Image_is_All_You_Need_for_Multimodal_Instruction_ICCV_2025_paper.pdf)] [[Code](https://github.com/Letian2003/MM_INF)]
 * [**ICCV'25**] Growing a Twig to Accelerate Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2503.14075)] [[Code](https://github.com/MILVLG/twigvlm)]
 * [**ICCV'25**] Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs [[Paper](https://arxiv.org/pdf/2507.07990)] [[Code](https://github.com/HYUNJS/STTM)]
+* [arXiv] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving [[Paper](https://www.arxiv.org/pdf/2512.22939)][[Code](https://github.com/pqh22/ColaVLA)]
 * [arXiv] Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation [[Paper](https://arxiv.org/pdf/2509.22093)][[Code](https://vla-adp.github.io/)]
 * [arXiv] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
 * [arXiv] DeepSeek-OCR: Contexts Optical Compression [[Paper](https://arxiv.org/pdf/2510.18234)][[Code](https://github.com/deepseek-ai/DeepSeek-OCR)]
