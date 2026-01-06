@@ -17,7 +17,7 @@ If you find our work useful for your project, please consider citing our paper a
 }
 ```
 ## 📢 News
-- **`2026/01/04`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
+- **`2026/01/06`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
 
@@ -48,7 +48,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'25**] Token Cropr: Faster ViTs for Quite a Few Tasks [[Paper](https://arxiv.org/pdf/2412.00965)]
 * [**CVPR'25**] Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration [[Paper](https://arxiv.org/pdf/2505.11707)] [[Code](https://github.com/ICTMCG/SDTM)]
 * [**CVPR'25**] MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization [[Paper](https://arxiv.org/pdf/2504.00999)] [[Code](https://apexgen-x.github.io/MergeVQ/)]
-* [**CVPR'25**] Rethinking Token Reduction with Parameter-Efficient Fine-Tuning in ViT for Pixel-Level Tasks
+* [**CVPR'25**] Rethinking Token Reduction with Parameter-Efficient Fine-Tuning in ViT for Pixel-Level Tasks [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lei_Rethinking_Token_Reduction_with_Parameter-Efficient_Fine-Tuning_in_ViT_for_Pixel-Level_CVPR_2025_paper.pdf)] [[Code](https://github.com/AVC2-UESTC/DAR-TR-PEFT)]
 * [**CVPR'25**] CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution [[Paper](https://arxiv.org/abs/2503.06896)]
 * [**CVPR'25**] VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification [[Paper](https://arxiv.org/abs/2501.06553)] [[Code](https://github.com/mengchuang123/VASparse-github)]
 * [**CVPR'25**] Faster Parameter-Efficient Tuning with Token Redundancy Reduction [[Paper](https://arxiv.org/abs/2503.20282)]
