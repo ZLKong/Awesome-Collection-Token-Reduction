@@ -17,7 +17,7 @@ If you find our work useful for your project, please consider citing our paper a
 }
 ```
 ## 📢 News
-- **`2026/01/06`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
+- **`2026/01/07`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
 
@@ -60,6 +60,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'25**] FreqTS: Frequency-Aware Token Selection for Accelerating Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33008)]
 * [**AAAI'25**] Multimodal Promptable Token Merging for Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33894)]
 * [**AAAI'25**] Training-free and hardware-friendly acceleration for diffusion models via similarity-based token pruning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33071)] [[Code](https://github.com/EvelynZhang-epiclab/SiTo)]
+* [arXiv] Pretraining Frame Preservation in Autoregressive Video Memory Compression [[Paper](https://arxiv.org/pdf/2512.23851)] [[Code](https://github.com/lllyasviel/PFP)]
 * [arXiv] OminiControl2: Efficient Conditioning for Diffusion Transformers [[Paper](https://arxiv.org/pdf/2503.08280)] [[Code](https://github.com/Yuanshi9815/OminiControl)]
 * [arXiv] Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration [[Paper](https://arxiv.org/abs/2506.05709)] [[Code](https://github.com/AuroraZengfh/TokenTransforming)]
 * [arXiv] Pyramid Sparse Transformer: Efficient Multi-Scale Feature Fusion with Dynamic Token Selection [[Paper](https://arxiv.org/pdf/2505.12772)] [[Code](https://github.com/inlmouse/PyramidSparseTransformer)]
@@ -237,6 +238,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**EMNLP'25**] Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering [[Paper](https://arxiv.org/pdf/2504.21403)] [[Code](https://github.com/ANDgate99/Explore-Then-Select)]
 * [**EMNLP'25**] Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More [[Paper](https://arxiv.org/pdf/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)]
 * [**EMNLP'25**] LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression [[Paper](https://arxiv.org/pdf/2509.00419)]
+* [**EMNLP'25**] Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models [[Paper](https://arxiv.org/pdf/2505.14454)] [[Code](https://github.com/xuyang-liu16/VidCom2)]
 * [**ACL'25**] PruneVid: Visual Token Pruning for Efficient Video Large Language Models [[Paper](https://aclanthology.org/2025.findings-acl.1024.pdf)] [[Code](https://github.com/visual-ai/prunevid)]
 * [**NeurIPS'25**] EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models [[Paper](https://openreview.net/pdf?id=SELYlDHZk2)] [[Code](https://github.com/YantaiYang-05/EfficientVLA)]
 * [**NeurIPS'25**] Don't Just Chase "Highlighted Tokens" in MLLMs: Revisiting Visual Holistic Context Retention [[Paper](https://arxiv.org/pdf/2510.02912)] [[Code](https://github.com/obananas/HoloV)]
@@ -271,7 +273,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models [[Paper](https://www.arxiv.org/pdf/2506.13166)]
 * [arXiv] Generic Token Compression in Multimodal Large Language Models from an Explainability Perspective [[Paper](https://arxiv.org/pdf/2506.01097)]
 * [arXiv] DynTok: Dynamic Compression of Visual Tokens for Efficient and Effective Video Understanding [[Paper](https://www.arxiv.org/pdf/2506.03990)]
-* [arXiv] Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models [[Paper](https://arxiv.org/pdf/2505.14454)] [[Code](https://github.com/xuyang-liu16/VidCom2)]
 * [arXiv] SmolVLM: Redefining small and efficient multimodal models [[Paper](https://arxiv.org/pdf/2504.05299)] [[Code](https://github.com/huggingface/smollm)]
 * [arXiv] Similarity-Aware Token Pruning: Your VLM but Faster [[Paper](https://arxiv.org/pdf/2503.11549v1)] [[Code](https://github.com/ArmenJeddi/saint)]
 * [arXiv] LFTR: Learning-Free Token Reduction for Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2501.17391)]
