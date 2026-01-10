@@ -61,6 +61,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'25**] Multimodal Promptable Token Merging for Diffusion Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33894)]
 * [**AAAI'25**] Training-free and hardware-friendly acceleration for diffusion models via similarity-based token pruning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33071)] [[Code](https://github.com/EvelynZhang-epiclab/SiTo)]
 * [arXiv] Pretraining Frame Preservation in Autoregressive Video Memory Compression [[Paper](https://arxiv.org/pdf/2512.23851)] [[Code](https://github.com/lllyasviel/PFP)]
+* [arXiv] Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers [[Paper](https://arxiv.org/pdf/2511.14751)] [[Code](https://github.com/co-me-tokens/CoMe)]
 * [arXiv] OminiControl2: Efficient Conditioning for Diffusion Transformers [[Paper](https://arxiv.org/pdf/2503.08280)] [[Code](https://github.com/Yuanshi9815/OminiControl)]
 * [arXiv] Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration [[Paper](https://arxiv.org/abs/2506.05709)] [[Code](https://github.com/AuroraZengfh/TokenTransforming)]
 * [arXiv] Pyramid Sparse Transformer: Efficient Multi-Scale Feature Fusion with Dynamic Token Selection [[Paper](https://arxiv.org/pdf/2505.12772)] [[Code](https://github.com/inlmouse/PyramidSparseTransformer)]
