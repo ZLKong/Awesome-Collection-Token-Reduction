@@ -31,7 +31,9 @@ A detailed list of papers organized by modality can be found in this [Google She
 - [🌁 Vision](#vision)
 - [📝 Language](#language)
 - [🎬 Vision-Language (Action) Model](#vision-language(action)-model)
+- [🤖 Agentic Systems](#agent)
 - [📱 Hardware Co-design](#hardware)
+- [🐍 State Space Models](#states)
 
 
 ## 🌁 Vision 
@@ -350,7 +352,12 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2023
 * [**ACL'23**] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models [[Paper](https://aclanthology.org/2023.acl-long.721.pdf)] [[Code](https://github.com/csarron/PuMer)]  
 
+## 🤖 Agentic Systems 
+<a id="agent"></a>
+* [arXiv] AgentOCR: Reimagining Agent History via Optical Self-Compression [[Paper](https://arxiv.org/pdf/2601.04786)] 
+
 ## 🐍 State Space Models 
+<a id="states"></a>
 * [**arXiv**] Training-free Token Reduction for Vision Mamba [[Paper](https://arxiv.org/pdf/2507.14042)] 
 * [**arXiv**] Dynamic Vision Mamba [[Paper](https://arxiv.org/pdf/2504.04787#page=7.39)] [[Code](https://github.com/NUS-HPC-AI-Lab/DyVM)]
 * [**EMNLP'24**] Rethinking Token Reduction for State Space Models [[Paper](https://arxiv.org/pdf/2410.14725)] [[Code](https://github.com/wuyushuwys/ToR_SSM)]
