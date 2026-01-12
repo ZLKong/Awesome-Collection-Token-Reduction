@@ -17,7 +17,7 @@ If you find our work useful for your project, please consider citing our paper a
 }
 ```
 ## 📢 News
-- **`2026/01/12`** Added CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
+- **`2026/01/12`** 🔥🔥 Added 🤖***Agentic Systems***; Papers from CVPR 2025, NeurIPS 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
 
@@ -156,7 +156,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**EMNLP'25**] TokenSkip: Controllable Chain-of-Thought Compression in LLMs [[Paper](https://arxiv.org/pdf/2502.12067)] [[Code](https://github.com/hemingkx/TokenSkip)]
 * [**EMNLP'25**] TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection [[Paper](https://arxiv.org/pdf/2411.02886)] [[Code](https://github.com/pzs19/TokenSelect)]
 * [**EMNLP'25**] LightThinker: Thinking Step-by-Step Compression [[Paper](https://arxiv.org/pdf/2502.15589)] [[Code](https://github.com/zjunlp/LightThinker)]
-* [arXiv] Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving [[Paper](https://arxiv.org/pdf/2511.01633v1)]
 * [arXiv] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [arXiv] MixReasoning: Switching Modes to Think [[Paper](https://arxiv.org/pdf/2510.06052)]
 * [**NeurIPSW'25**] Adaptive Dual Reasoner: Large Reasoning Models Can Think Efficiently by Hybrid Reasoning [[Paper](https://arxiv.org/pdf/2510.10207)]
@@ -188,7 +187,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'25**] CoT-Valve: Length-Compressible Chain-of-Thought Tuning [[Paper](https://aclanthology.org/2025.acl-long.300.pdf)] [[Code](https://github.com/horseee/CoT-Valve)]
 * [**ACL'25**] Token-Budget-Aware LLM Reasoning [[Paper](https://arxiv.org/pdf/2412.18547)] [[Code](https://github.com/GeniusHTX/TALE)]
 * [**ACL'25**] Accurate KV Cache Quantization with Outlier Tokens Tracing [[Paper](https://arxiv.org/pdf/2505.10938)] [[Code](https://github.com/yisunlp/OTT)]
-* [**NAACL'25**] S2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency [[Paper](https://arxiv.org/pdf/2502.04790)]
 * [**ICLR'25**] MrT5: Dynamic Token Merging for Efficient Byte-level Language Models [[Paper](https://openreview.net/pdf?id=VYWBMq1L7H)] [[Code](https://github.com/jkallini/mrt5)]
 * [**KAIS**] Dynamic token pruning for LLMs: leveraging task-specific attention and adaptive thresholds [[Paper](https://link.springer.com/article/10.1007/s10115-025-02450-1)] [[Code](https://github.com/ahmadpanah/TS-DTP)]  
 
@@ -354,7 +352,14 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
-* [arXiv] AgentOCR: Reimagining Agent History via Optical Self-Compression [[Paper](https://arxiv.org/pdf/2601.04786)] 
+#### 2026
+* [arXiv] AgentOCR: Reimagining Agent History via Optical Self-Compression [[Paper](https://arxiv.org/pdf/2601.04786)]
+#### 2025
+* [arXiv] CARL: Critical Action Focused Reinforcement Learning for Multi-Step Agent [[Paper](https://arxiv.org/pdf/2512.04949)]
+* [arXiv] ACON: Optimizing Context Compression for Long-horizon LLM Agents [[Paper](https://arxiv.org/pdf/2510.00615v2)] [[Code](https://github.com/microsoft/acon)]
+* [arXiv] Latent Collaboration in Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2511.20639)] [[Code](https://github.com/Gen-Verse/LatentMAS)]
+* [arXiv] Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving [[Paper](https://arxiv.org/pdf/2511.01633v1)]
+* [**NAACL'25**] S2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency [[Paper](https://arxiv.org/pdf/2502.04790)]
 
 ## 🐍 State Space Models 
 <a id="states"></a>
