@@ -6,18 +6,6 @@
 
 👀 If you found any **errors** or **missing papers**, please don't hesitate to **open an issue** or **pull request**. We invite your participation in advancing this field.
 
-## 📜 Citation
-If you find our work useful for your project, please consider citing our paper and starring this repo.
-```
-@article{kong2025token,
-  title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
-  author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
-  journal={arXiv preprint arXiv:2505.18227},
-  year={2025}
-}
-```
-<p align="center"> <img src="timeline.png" width="700" align="center"> </p>
-
 ## 📢 News
 - **`2026/01/13`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
@@ -36,6 +24,18 @@ A detailed list of papers organized by modality can be found in this [Google She
 - [📱 Hardware Co-design](#hardware)
 - [🐍 State Space Models](#states)
 
+<p align="center"> <img src="timeline.png" width="700" align="center"> </p>
+
+## 📜 Citation
+If you find our work useful for your project, please consider citing our paper and starring this repo.
+```
+@article{kong2025token,
+  title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
+  author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
+  journal={arXiv preprint arXiv:2505.18227},
+  year={2025}
+}
+```
 
 ## 🌁 Vision 
 <a id="vision"></a>
