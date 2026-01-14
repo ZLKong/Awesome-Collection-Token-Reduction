@@ -16,13 +16,13 @@ If you find our work useful for your project, please consider citing our paper a
   year={2025}
 }
 ```
+<p align="center"> <img src="timeline.png" width="700" align="center"> </p>
+
 ## 📢 News
 - **`2026/01/13`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2025/06/28`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** 🔥🔥 Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
-
-<p align="center"> <img src="timeline.png" width="700" align="center"> </p>
 
 - **`2025/03/24`** Added CVPR 2025, ICLR 2025, WACV 2025, AAAI 2025, EMNLP 2024.
 
