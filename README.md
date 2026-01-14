@@ -9,7 +9,7 @@
 <p align="center"> <img src="timeline.png" width="700" align="center"> </p>
 
 ## 📢 News
-- **`2026/01/13`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
+- **`2026/01/14`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)".
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -364,6 +364,7 @@ If you find our work useful for your project, please consider citing our paper a
 * [arXiv] ACON: Optimizing Context Compression for Long-horizon LLM Agents [[Paper](https://arxiv.org/pdf/2510.00615v2)] [[Code](https://github.com/microsoft/acon)]
 * [arXiv] Latent Collaboration in Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2511.20639)] [[Code](https://github.com/Gen-Verse/LatentMAS)]
 * [arXiv] Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving [[Paper](https://arxiv.org/pdf/2511.01633v1)]
+* [**ACL'25**] Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration [[Paper](https://aclanthology.org/2025.acl-long.466.pdf)] [[Code](https://github.com/Relaxed-System-Lab/multi-actor-data-selection)]
 * [**NAACL'25**] S2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency [[Paper](https://arxiv.org/pdf/2502.04790)]
 
 ## 🐍 State Space Models 
