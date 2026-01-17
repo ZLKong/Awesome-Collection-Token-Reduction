@@ -9,7 +9,7 @@
 <p align="center"> <img src="timeline.png" width="700" align="center"> </p>
 
 ## 📢 News
-- **`2026/01/15`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
+- **`2026/01/16`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -254,7 +254,12 @@ If you find our work useful for your project, please consider citing our paper a
 * [**NeurIPS'25**] VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models [[Paper](https://arxiv.org/pdf/2503.16980)] [[Code](https://github.com/Hai-chao-Zhang/VQToken)]
 * [**NeurIPS'25**] Vision-centric Token Compression in Large Language Model [[Paper](https://openreview.net/pdf?id=YdggdEL41C)]
 * [**NeurIPS'25**] AutoPrune: Each Complexity Deserves a Pruning Policy [[Paper](https://arxiv.org/pdf/2509.23931)] [[Code](https://github.com/AutoLab-SAI-SJTU/AutoPrune)]
+* [**NeurIPS'25**] Recurrent Attention-based Token Selection for Efficient Streaming Video-LLMs [[Paper](https://arxiv.org/pdf/2510.17364)] [[Code](https://github.com/YantaiYang-05/EfficientVLA)]
+* [**NeurIPS'25**] FlexSelect: Flexible Token Selection for Efficient Long Video Understanding [[Paper](https://arxiv.org/pdf/2506.00993)] [[Code](https://github.com/yunzhuzhang0918/flexselect)]
+* [**NeurIPS'25**] Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization [[Paper](https://arxiv.org/pdf/2505.22038)] [[Code](https://github.com/EmbodiedCity/NeurIPS2025-Balanced-Token-Pruning)]
+* [**NeurIPS'25**] Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering [[Paper](https://arxiv.org/pdf/2505.10118)]
 * [**NeurIPS'25**] HoliTom: Holistic Token Merging for Fast Video Large Language Models [[Paper](https://arxiv.org/pdf/2505.21334)] [[Code](https://github.com/cokeshao/HoliTom)]
+* [**NeurIPS'25**] FastVID: Dynamic Density Pruning for Fast Video Large Language Models [[Paper](https://arxiv.org/pdf/2503.11187)] [[Code](http://github.com/LunarShen/FastVID)]
 * [**ICCV'25**] FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers [[Paper](https://arxiv.org/pdf/2501.16297)] [[Code](https://github.com/JiuTian-VL/FALCON)]
 * [**ICCV'25**] Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Oasis_One_Image_is_All_You_Need_for_Multimodal_Instruction_ICCV_2025_paper.pdf)] [[Code](https://github.com/Letian2003/MM_INF)]
 * [**ICCV'25**] Growing a Twig to Accelerate Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2503.14075)] [[Code](https://github.com/MILVLG/twigvlm)]
@@ -274,7 +279,6 @@ If you find our work useful for your project, please consider citing our paper a
 * [arXiv] A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.01548)] [[Code](https://github.com/HVision-NKU/GlimpsePrune)]
 * [arXiv] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)][[Code](https://github.com/JulietChoo/VisionSelector)]
 * [arXiv] Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models [[Paper](https://arxiv.org/pdf/2511.02650v1)][[Code](https://github.com/TianfanPeng/VLMUniPruneBench)]
-* [arXiv] FlexSelect: Flexible Token Selection for Efficient Long Video Understanding [[Paper](https://arxiv.org/pdf/2506.00993)] [[Code](https://github.com/yunzhuzhang0918/flexselect)]
 * [arXiv] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)][[Code](https://github.com/Danielement321/HiPrune)]
 * [arXiv] LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs [[Paper](https://www.arxiv.org/pdf/2506.21862)] [[Code](https://github.com/HumanMLLM/LLaVA-Scissor)]
 * [arXiv] Fine-grained Token Allocation Via Operation Pruning for Efficient MLLMs [[Paper](https://arxiv.org/pdf/2507.02909v2)][[Code](https://github.com/zxcvfd13502/GSOP)]
