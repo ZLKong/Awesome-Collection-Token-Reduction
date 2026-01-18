@@ -8,8 +8,19 @@
 
 <p align="center"> <img src="timeline.png" width="700" align="center"> </p>
 
+## 📜 Citation
+If you find our work useful for your project, please consider citing our paper and starring this repo.
+```
+@article{kong2025token,
+  title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
+  author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
+  journal={arXiv preprint arXiv:2505.18227},
+  year={2025}
+}
+```
+
 ## 📢 News
-- **`2026/01/16`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
+- **`2026/01/17`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -24,17 +35,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 - [🤖 Agentic Systems](#agent)
 - [📱 Hardware Co-design](#hardware)
 - [🐍 State Space Models](#states)
-
-## 📜 Citation
-If you find our work useful for your project, please consider citing our paper and starring this repo.
-```
-@article{kong2025token,
-  title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
-  author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
-  journal={arXiv preprint arXiv:2505.18227},
-  year={2025}
-}
-```
 
 ## 🌁 Vision 
 <a id="vision"></a>
@@ -240,6 +240,7 @@ If you find our work useful for your project, please consider citing our paper a
 * [**ACM MM'25**] TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[Paper](https://arxiv.org/pdf/2504.17343)] [[Code](https://github.com/yaolinli/TimeChat-Online)]
 * [**ACM MM'25**] Short-LVLM: Compressing and Accelerating Large Vision-Language Models by Pruning Redundant Layers [[Paper](https://arxiv.org/pdf/2507.23362)] [[Code](https://github.com/ASGO-MM/Short-LVLM)]
 * [**ACM MM'25**] VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference [[Paper](https://arxiv.org/pdf/2508.17857)] [[Code](https://github.com/mobiushy/VISA)]
+* [**ACM MM'25**] Mitigating Information Loss under High Pruning Rates for Efficient Large Vision Language Models [[Paper](https://arxiv.org/pdf/2508.01236)] [[Code](https://github.com/ASGO-MM/ACCM)]
 * [**EMNLP'25**] D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition [[Paper](https://aclanthology.org/2025.emnlp-main.597.pdf)] [[Code](https://github.com/hukcc/D-CoDe)]
 * [**EMNLP'25**] Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering [[Paper](https://arxiv.org/pdf/2504.21403)] [[Code](https://github.com/ANDgate99/Explore-Then-Select)]
 * [**EMNLP'25**] Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More [[Paper](https://arxiv.org/pdf/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)]
@@ -291,6 +292,8 @@ If you find our work useful for your project, please consider citing our paper a
 * [**ICCV'25**] Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM [[Paper](https://arxiv.org/pdf/2412.09530)]
 * [**ICML'25**] Streamline Without Sacrifice - Squeeze out Computation Redundancy in LMM [[Paper](https://arxiv.org/pdf/2505.15816)]
 * [**ICML'25**] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference [[Paper](https://arxiv.org/pdf/2503.16036)] [[Code](https://github.com/lntzm/HICom)]
+* [**ICML'25**] LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding [[Paper](https://arxiv.org/pdf/2410.17434)] [[Code](https://github.com/Vision-CAIR/LongVU)]
+* [**ICML'25**] Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation [[Paper](https://arxiv.org/pdf/2504.02438)] [[Code](https://github.com/steven-ccq/ViLAMP)]
 * [**CVPR'25**] LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LION-FS_Fast__Slow_Video-Language_Thinker_as_Online_Video_Assistant_CVPR_2025_paper.pdf)] [[Code](https://github.com/JiuTian-VL/LION-FS)]
 * [**CVPR'25**] A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_A_Stitch_in_Time_Saves_Nine_Small_VLM_is_a_CVPR_2025_paper.pdf)] [[Code](https://github.com/NUS-HPC-AI-Lab/SGL)]
 * [**CVPR'25**] PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction  [[Paper](https://arxiv.org/pdf/2410.17247)] [[Code](https://github.com/Cooperx521/PyramidDrop)]
