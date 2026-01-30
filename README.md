@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/01/24`** Added CVPR 2025, NeurIPS 2025, ICML 2025, ACL 2025, EMNLP 2025, ICCV 2025, COLM 2025, ACM MM 2025, ICME 2025, ICASSP 2025, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/01/30`** Added ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -231,6 +231,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**ICLR'26**] MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.07915)] [[Code](https://github.com/Gimlettt/MARC)]
 * [**ICASSP'26**] PAR: Prompt-Aware Token Reduction Method for Efficient Large Multimodal Models [[Paper](https://arxiv.org/pdf/2410.07278)]
 * [**ICASSP'26**] ADAPTIVE-VOCO: COMPLEXITY-AWARE VISUAL TOKEN COMPRESSION FOR VISION-LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2512.18496)]
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
@@ -248,6 +249,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACM MM'25**] Short-LVLM: Compressing and Accelerating Large Vision-Language Models by Pruning Redundant Layers [[Paper](https://arxiv.org/pdf/2507.23362)] [[Code](https://github.com/ASGO-MM/Short-LVLM)]
 * [**ACM MM'25**] VISA: Group-wise Visual Token Selection and Aggregation via Graph Summarization for Efficient MLLMs Inference [[Paper](https://arxiv.org/pdf/2508.17857)] [[Code](https://github.com/mobiushy/VISA)]
 * [**ACM MM'25**] Mitigating Information Loss under High Pruning Rates for Efficient Large Vision Language Models [[Paper](https://arxiv.org/pdf/2508.01236)] [[Code](https://github.com/ASGO-MM/ACCM)]
+* [**EMNLP'25**] AdaTP: Attention-Debiased Token Pruning for Video Large Language Models [[Paper](https://arxiv.org/pdf/2505.20100)]
 * [**EMNLP'25**] D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition [[Paper](https://aclanthology.org/2025.emnlp-main.597.pdf)] [[Code](https://github.com/hukcc/D-CoDe)]
 * [**EMNLP'25**] Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering [[Paper](https://arxiv.org/pdf/2504.21403)] [[Code](https://github.com/ANDgate99/Explore-Then-Select)]
 * [**EMNLP'25**] Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More [[Paper](https://arxiv.org/pdf/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)]
@@ -276,6 +278,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving [[Paper](https://www.arxiv.org/pdf/2512.22939)][[Code](https://github.com/pqh22/ColaVLA)]
 * [arXiv] Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation [[Paper](https://arxiv.org/pdf/2509.22093)][[Code](https://vla-adp.github.io/)]
 * [arXiv] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
+* [arXiv] STORM: Token-Efficient Long Video Understanding for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2503.04130v4)] [[Code](https://research.nvidia.com/labs/lpr/storm/)]
 * [arXiv] DeepSeek-OCR: Contexts Optical Compression [[Paper](https://arxiv.org/pdf/2510.18234)][[Code](https://github.com/deepseek-ai/DeepSeek-OCR)]
 * [arXiv] Glyph: Scaling Context Windows via Visual-Text Compression [[Paper](https://arxiv.org/pdf/2510.17800)][[Code](https://github.com/thu-coai/Glyph)]
 * [arXiv] VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression? [[Paper](https://arxiv.org/pdf/2512.15649)][[Code](https://github.com/Moenupa/VTCBench)]
@@ -288,7 +291,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)][[Code](https://github.com/JulietChoo/VisionSelector)]
 * [arXiv] Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models [[Paper](https://arxiv.org/pdf/2511.02650v1)][[Code](https://github.com/TianfanPeng/VLMUniPruneBench)]
 * [arXiv] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)][[Code](https://github.com/Danielement321/HiPrune)]
-* [arXiv] LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs [[Paper](https://www.arxiv.org/pdf/2506.21862)] [[Code](https://github.com/HumanMLLM/LLaVA-Scissor)]
+* [arXiv] To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2510.08510)] [[Code](https://davidhalladay.github.io/diysink_demo/)]
+* [arXiv] Sparsity Forcing: Reinforcing Token Sparsity of MLLMs [[Paper](https://arxiv.org/pdf/2504.18579)]
 * [arXiv] Fine-grained Token Allocation Via Operation Pruning for Efficient MLLMs [[Paper](https://arxiv.org/pdf/2507.02909v2)][[Code](https://github.com/zxcvfd13502/GSOP)]
 * [arXiv] GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models [[Paper](https://www.arxiv.org/pdf/2506.13166)]
 * [arXiv] Generic Token Compression in Multimodal Large Language Models from an Explainability Perspective [[Paper](https://arxiv.org/pdf/2506.01097)]
@@ -371,10 +375,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
 #### 2026
+* [**ICLR'26**] ACON: Optimizing Context Compression for Long-horizon LLM Agents [[Paper](https://arxiv.org/pdf/2510.00615v2)] [[Code](https://github.com/microsoft/acon)]
 * [arXiv] AgentOCR: Reimagining Agent History via Optical Self-Compression [[Paper](https://arxiv.org/pdf/2601.04786)]
 #### 2025
 * [arXiv] CARL: Critical Action Focused Reinforcement Learning for Multi-Step Agent [[Paper](https://arxiv.org/pdf/2512.04949)]
-* [arXiv] ACON: Optimizing Context Compression for Long-horizon LLM Agents [[Paper](https://arxiv.org/pdf/2510.00615v2)] [[Code](https://github.com/microsoft/acon)]
 * [arXiv] Latent Collaboration in Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2511.20639)] [[Code](https://github.com/Gen-Verse/LatentMAS)]
 * [arXiv] Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving [[Paper](https://arxiv.org/pdf/2511.01633v1)]
 * [**ACL'25**] Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration [[Paper](https://aclanthology.org/2025.acl-long.466.pdf)] [[Code](https://github.com/Relaxed-System-Lab/multi-actor-data-selection)]
