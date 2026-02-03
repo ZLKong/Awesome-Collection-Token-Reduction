@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/02/02`** Added ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/02/03`** Added ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -144,6 +144,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2026
 * [**ICASSP'26**] Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks? [[Paper](https://arxiv.org/pdf/2509.06350)]
 * [arXiv] Do LLMs Encode Functional Importance of Reasoning Tokens? [[Paper](https://arxiv.org/pdf/2601.03066)] [[Code](https://github.com/greedy-token-pruner/greedy-token-pruner/)]
+* [arXiv] Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models [[Paper](https://arxiv.org/pdf/2601.18734)]
 #### 2025
 * [arXiv] When Reasoning Meets Its Laws [[Paper](https://arxiv.org/pdf/2512.17901)] [[Code](https://github.com/ASTRAL-Group/LoRe)]
 * [arXiv] Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction [[Paper](https://arxiv.org/pdf/2508.02558)] [[Code](https://github.com/OpenMOSS/Sparse-dLLM)]
