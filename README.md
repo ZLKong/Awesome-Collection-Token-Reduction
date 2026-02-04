@@ -234,6 +234,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**ICLR'26**] Positional Preservation Embedding for Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2510.22936)]
 * [**ICLR'26**] MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.07915)] [[Code](https://github.com/Gimlettt/MARC)]
 * [**ICASSP'26**] PAR: Prompt-Aware Token Reduction Method for Efficient Large Multimodal Models [[Paper](https://arxiv.org/pdf/2410.07278)]
 * [**ICASSP'26**] ADAPTIVE-VOCO: COMPLEXITY-AWARE VISUAL TOKEN COMPRESSION FOR VISION-LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2512.18496)]
