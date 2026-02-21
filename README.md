@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/02/10`** Added ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/02/21`** Added ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -252,6 +252,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**arXiv**] VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice [[Paper](https://arxiv.org/pdf/2601.05175)] [[Code](https://github.com/IVUL-KAUST/VideoAuto-R1)]
 * [**arXiv**] SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning [[Paper](https://arxiv.org/pdf/2601.06474)] [[Code](https://msundyy.github.io/SparseOccVLA/)]
 * [**arXiv**] Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2601.12042)]
+* [**arXiv**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 #### 2025
 * [**TPAMI'25**] MovieChat+: Question-Aware Sparse Memory for Long Video Question Answering [[Paper](https://arxiv.org/pdf/2404.17176)] [[Code](https://github.com/rese1f/MovieChat)]
 * [**ICML'25**] CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron Pruning for Comprehensive Acceleration of Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.19235)] [[Code](https://github.com/wangqinsi1/2025-ICML-CoreMatching)]
@@ -323,7 +324,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'25**] DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models [[Paper](https://arxiv.org/abs/2503.02175)] [[Code](https://github.com/vbdi/divprune)]
 * [**CVPR'25**] SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding [[Paper](https://arxiv.org/abs/2412.09604)]
 * [**CVPR'25**] PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models [[Paper](https://arxiv.org/abs/2412.09613)]
-* [**CVPR'25**] TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model
+* [**CVPR'25**] TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_TopV_Compatible_Token_Pruning_with_Inference_Time_Optimization_for_Fast_CVPR_2025_paper.pdf)]
 * [**CVPR'25**] Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction [[Paper](https://arxiv.org/abs/2412.00556)]
 * [**CVPR'25**] ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models [[Paper](https://arxiv.org/abs/2412.00447)] [[Code](https://yxxxb.github.io/ATP-LLaVA-page/)]
 * [**CVPR'25**] DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models [[Paper](https://arxiv.org/abs/2411.15024)]
