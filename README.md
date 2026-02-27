@@ -39,6 +39,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**ICLR'26**] RegionE: Adaptive Region-Aware Generation for Efficient Image Editing [[Paper](https://arxiv.org/pdf/2510.25590)] [[Code](https://github.com/Peyton-Chen/RegionE)]
 * [**ICASSP'26**] TINYDROP: TINY MODEL GUIDED TOKEN DROPPING FOR VISION TRANSFORMERS [[Paper](https://arxiv.org/pdf/2509.03379)]
 * [**AAAI'26**] CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking [[Paper](https://arxiv.org/pdf/2511.15580)]
 #### 2025
