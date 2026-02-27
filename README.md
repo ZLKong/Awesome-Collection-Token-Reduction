@@ -239,7 +239,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
-* [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)]
+* [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)] [[Code](https://github.com/AIM-SKKU/ZOO-Prune)]
 * [**CVPR'26**] OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport [[Paper](https://arxiv.org/pdf/2602.20205)] [[Code](https://github.com/xiwenc1/OTPrune)]
 * [**CVPR'26**] Accelerating Streaming Video Large Language Models via Hierarchical Token Compression [[Paper](https://arxiv.org/pdf/2512.00891)] [[Code](https://github.com/lern-to-write/STC)]
 * [**ICLR'26**] FlashVID: Efficient Video Large Language Models via Training-free Tree-based Spatiotemporal Token Merging [[Paper](https://arxiv.org/pdf/2602.08024)] [[Code](https://github.com/Fanziyang-v/FlashVID)]
