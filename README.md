@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/03/01`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/03/03`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -244,6 +244,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)] [[Code](https://github.com/AIM-SKKU/ZOO-Prune)]
 * [**CVPR'26**] OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport [[Paper](https://arxiv.org/pdf/2602.20205)] [[Code](https://github.com/xiwenc1/OTPrune)]
 * [**CVPR'26**] Accelerating Streaming Video Large Language Models via Hierarchical Token Compression [[Paper](https://arxiv.org/pdf/2512.00891)] [[Code](https://github.com/lern-to-write/STC)]
+* [**ICLR'26**] AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2603.01236)] [[Code](https://github.com/cvsp-lab/AgilePruner)]
 * [**ICLR'26**] FlashVID: Efficient Video Large Language Models via Training-free Tree-based Spatiotemporal Token Merging [[Paper](https://arxiv.org/pdf/2602.08024)] [[Code](https://github.com/Fanziyang-v/FlashVID)]
 * [**ICLR'26**] VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration [[Paper](https://arxiv.org/pdf/2601.22674)] [[Code](https://github.com/hanxunyu/VisionTrim)]
 * [**ICLR'26**] PPE: Positional Preservation Embedding for Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2510.22936)] [[Code](https://github.com/MouxiaoHuang/PPE)]
