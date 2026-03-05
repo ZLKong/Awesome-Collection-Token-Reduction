@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/03/04`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/03/05`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -39,6 +39,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**CVPR'26**] UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking [[Paper](https://arxiv.org/pdf/2602.23734)] [[Code](https://github.com/EIT-NLP/UTPTrack)]
 * [**ICLR'26**] RegionE: Adaptive Region-Aware Generation for Efficient Image Editing [[Paper](https://arxiv.org/pdf/2510.25590)] [[Code](https://github.com/Peyton-Chen/RegionE)]
 * [**ICASSP'26**] TINYDROP: TINY MODEL GUIDED TOKEN DROPPING FOR VISION TRANSFORMERS [[Paper](https://arxiv.org/pdf/2509.03379)]
 * [**AAAI'26**] CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking [[Paper](https://arxiv.org/pdf/2511.15580)]
