@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/03/05`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/03/06`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -242,6 +242,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**CVPR'26**] Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving [[Paper](https://arxiv.org/pdf/2508.13305)] [[Code](https://github.com/MinhaoXiong/Prune2Drive)]
 * [**CVPR'26**] FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection [[Paper](https://arxiv.org/pdf/2601.03928)] [[Code](https://github.com/showlab/FocusUI)]
 * [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)] [[Code](https://github.com/AIM-SKKU/ZOO-Prune)]
 * [**CVPR'26**] OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport [[Paper](https://arxiv.org/pdf/2602.20205)] [[Code](https://github.com/xiwenc1/OTPrune)]
