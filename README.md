@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/03/06`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/03/08`** Added CVPR 2026, ICLR 2026, AAAI 2026, WACV 2026, ICASSP 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -242,6 +242,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**CVPR'26**] StreamingTOM: Streaming Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.18269)] [[Code](https://github.com/YIGE24/StreamingTOM)]
 * [**CVPR'26**] Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving [[Paper](https://arxiv.org/pdf/2508.13305)] [[Code](https://github.com/MinhaoXiong/Prune2Drive)]
 * [**CVPR'26**] FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection [[Paper](https://arxiv.org/pdf/2601.03928)] [[Code](https://github.com/showlab/FocusUI)]
 * [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)] [[Code](https://github.com/AIM-SKKU/ZOO-Prune)]
@@ -270,6 +271,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**arXiv**] Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2601.12042)]
 * [**arXiv**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 #### 2025
+* [**ACL'25**] Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem? [[Paper](https://aclanthology.org/2025.findings-acl.802.pdf)]
 * [**TPAMI'25**] MovieChat+: Question-Aware Sparse Memory for Long Video Question Answering [[Paper](https://arxiv.org/pdf/2404.17176)] [[Code](https://github.com/rese1f/MovieChat)]
 * [**ICML'25**] CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron Pruning for Comprehensive Acceleration of Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.19235)] [[Code](https://github.com/wangqinsi1/2025-ICML-CoreMatching)]
 * [**ACM MM'25**] TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos [[Paper](https://arxiv.org/pdf/2504.17343)] [[Code](https://github.com/yaolinli/TimeChat-Online)]
