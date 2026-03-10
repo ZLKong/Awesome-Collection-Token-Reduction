@@ -243,6 +243,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**CVPR'26**] Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models [[Paper](https://arxiv.org/pdf/2603.01400)] [[Code](https://tyroneli.github.io/AOT/)]
 * [**CVPR'26**] StreamingTOM: Streaming Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.18269)] [[Code](https://github.com/YIGE24/StreamingTOM)]
 * [**CVPR'26**] Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving [[Paper](https://arxiv.org/pdf/2508.13305)] [[Code](https://github.com/MinhaoXiong/Prune2Drive)]
 * [**CVPR'26**] FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection [[Paper](https://arxiv.org/pdf/2601.03928)] [[Code](https://github.com/showlab/FocusUI)]
