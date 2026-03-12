@@ -146,6 +146,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2026
+* [**ICLR'26**] COMI: Coarse-to-fine Context Compression via Marginal Information Gain [[Paper](https://arxiv.org/abs/2602.01719)] [[Code](https://github.com/Twilightaaa/COMI)]
+* [arXiv] Read As Human: Compressing Context via Parallelizable Close Reading and Skimming [[Paper](https://arxiv.org/abs/2602.01840)] [[Code](https://github.com/Twilightaaa/RAM)]
 * [**ICLR'26**] Plan and Budget: Effective and Efficient Test-Time Scaling on Reasoning Large Language Models [[Paper](https://arxiv.org/pdf/2505.16122)] [[Code](https://github.com/junhongmit/P-and-B)]
 * [**ICLR'26**] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [**ICLR'26**] LightMem: Lightweight and Efficient Memory-Augmented Generation [[Paper](https://arxiv.org/pdf/2510.18866)] [[Code](https://github.com/zjunlp/LightMem)]
@@ -156,6 +158,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Do LLMs Encode Functional Importance of Reasoning Tokens? [[Paper](https://arxiv.org/pdf/2601.03066)] [[Code](https://github.com/greedy-token-pruner/greedy-token-pruner/)]
 * [arXiv] Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models [[Paper](https://arxiv.org/pdf/2601.18734)]
 #### 2025
+* [**NAACL'25**] Perception Compressor: A Training-Free Prompt Compression Framework in Long Context Scenarios [[Paper](https://arxiv.org/abs/2409.19272)] [[Code](https://github.com/Twilightaaa/PerceptionCompressor)]
 * [arXiv] When Reasoning Meets Its Laws [[Paper](https://arxiv.org/pdf/2512.17901)] [[Code](https://github.com/ASTRAL-Group/LoRe)]
 * [arXiv] Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction [[Paper](https://arxiv.org/pdf/2508.02558)] [[Code](https://github.com/OpenMOSS/Sparse-dLLM)]
 * [arXiv] PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning [[Paper](https://github.com/stepfun-ai/PaCoRe/blob/main/pacore_report.pdf)] [[Code](https://github.com/stepfun-ai/PaCoRe/tree/main)]
