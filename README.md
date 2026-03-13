@@ -147,6 +147,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="language"></a>
 #### 2026
 * [**ICLR'26**] COMI: Coarse-to-fine Context Compression via Marginal Information Gain [[Paper](https://arxiv.org/pdf/2602.01719)] [[Code](https://github.com/Twilightaaa/COMI)]
+* [arXiv] GMSA: Enhancing Context Compression via Group Merging and Layer Semantic Alignment [[Paper](https://arxiv.org/abs/2505.12215)] [[Code](https://github.com/Twilightaaa/GMSA)]
 * [**ICLR'26**] Plan and Budget: Effective and Efficient Test-Time Scaling on Reasoning Large Language Models [[Paper](https://arxiv.org/pdf/2505.16122)] [[Code](https://github.com/junhongmit/P-and-B)]
 * [**ICLR'26**] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [**ICLR'26**] LightMem: Lightweight and Efficient Memory-Augmented Generation [[Paper](https://arxiv.org/pdf/2510.18866)] [[Code](https://github.com/zjunlp/LightMem)]
