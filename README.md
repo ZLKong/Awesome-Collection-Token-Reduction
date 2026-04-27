@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/04/24`** Added ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026.
+- **`2026/04/27`** Added ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -48,6 +48,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] RegionE: Adaptive Region-Aware Generation for Efficient Image Editing [[Paper](https://arxiv.org/pdf/2510.25590)] [[Code](https://github.com/Peyton-Chen/RegionE)]
 * [**ICASSP'26**] TINYDROP: TINY MODEL GUIDED TOKEN DROPPING FOR VISION TRANSFORMERS [[Paper](https://arxiv.org/pdf/2509.03379)]
 * [**AAAI'26**] CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking [[Paper](https://arxiv.org/pdf/2511.15580)]
+* [**3DV'26**] CTR3D: Cross-view Token Reduction for Dense Multi-view Generation [[Paper](https://openreview.net/pdf?id=3rJQj0xZJv)] [[Code](https://github.com/HKUST-SAIL/CTR3D)]
 #### 2025
 * [**NeurIPS'25**] Frequency-Aware Token Reduction for Efficient Vision Transformer [[Paper](https://openreview.net/pdf?id=Dr06Wjh45k)] [[Code](https://github.com/jhtwosun/frequency-aware-token-pruning)]
 * [**ICASSP'25**] Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition [[Paper](https://ieeexplore.ieee.org/document/10890489)] [[Code](https://github.com/arkel23/CLCA)]
@@ -153,6 +154,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] Reinforced Efficient Reasoning via Semantically Diverse Exploration [[Paper](https://arxiv.org/pdf/2601.05053)] [[Code](https://github.com/ZiqiZhao1/ROSE-rl)]
 * [**ACL'26**] Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention [[Paper](https://arxiv.org/pdf/2510.13940)] [[Code](https://github.com/EnVision-Research/MTI)]
 * [**ACL'26**] Revisiting Model Interpolation for Efficient Reasoning [[Paper](https://arxiv.org/pdf/2510.10977)] [[Code](https://github.com/wutaiqiang/MI)]
+* [**ICLR'26**] Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [[Paper](https://arxiv.org/pdf/2508.05606v2)] [[Code](https://github.com/Fr0zenCrane/UniCoT)]
 * [**ICLR'26**] Efficient Reasoning with Balanced Thinking [[Paper](https://openreview.net/pdf?id=cJseWJJ5IM)] [[Code](https://github.com/yu-lin-li/ReBalance)]
 * [**ICLR'26**] COMI: Coarse-to-fine Context Compression via Marginal Information Gain [[Paper](https://arxiv.org/pdf/2602.01719)] [[Code](https://github.com/Twilightaaa/COMI)]
 * [**ICLR'26**] Plan and Budget: Effective and Efficient Test-Time Scaling on Reasoning Large Language Models [[Paper](https://arxiv.org/pdf/2505.16122)] [[Code](https://github.com/junhongmit/P-and-B)]
@@ -161,6 +163,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] Self-Aligned Reward: Towards Effective and Efficient Reasoners [[Paper](https://arxiv.org/pdf/2509.05489)] [[Code](https://github.com/amazon-science/Self-Aligned-Reward-Towards_Effective_and_Efficient_Reasoners)]
 * [**AAAI'26**] Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression [[Paper](https://arxiv.org/pdf/2508.05337)]
 * [**ICASSP'26**] Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks? [[Paper](https://arxiv.org/pdf/2509.06350)] [[Code](https://github.com/Junjie-Mu/Mask-GCG)]
+* [**TMLR'26**] ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2504.01296)] [[Code](https://github.com/UCSB-NLP-Chang/ThinkPrune)]
 * [arXiv] Neural Chain-of-Thought Search: Searching the Optimal Reasoning Path to Enhance Large Language Models [[Paper](https://arxiv.org/pdf/2601.11340)] [[Code](https://github.com/MilkThink-Lab/Neural-CoT-Search)]
 * [arXiv] Do LLMs Encode Functional Importance of Reasoning Tokens? [[Paper](https://arxiv.org/pdf/2601.03066)] [[Code](https://github.com/greedy-token-pruner/greedy-token-pruner/)]
 * [arXiv] Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models [[Paper](https://arxiv.org/pdf/2601.18734)]
@@ -168,13 +171,12 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] When Reasoning Meets Its Laws [[Paper](https://arxiv.org/pdf/2512.17901)] [[Code](https://github.com/ASTRAL-Group/LoRe)]
 * [arXiv] Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction [[Paper](https://arxiv.org/pdf/2508.02558)] [[Code](https://github.com/OpenMOSS/Sparse-dLLM)]
 * [arXiv] PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning [[Paper](https://github.com/stepfun-ai/PaCoRe/blob/main/pacore_report.pdf)] [[Code](https://github.com/stepfun-ai/PaCoRe/tree/main)]
-* [arXiv] Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [[Paper](https://arxiv.org/pdf/2508.05606v2)] [[Code](https://github.com/Fr0zenCrane/UniCoT)]
 * [arXiv] ARM2: Adaptive Reasoning Model with Vision Understanding and Executable Code [[Paper](https://arxiv.org/pdf/2510.08163)]
 * [arXiv] AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2505.11896)]
-* [arXiv] AdaptThink: LLM Can Learn When to Think [[Paper](https://arxiv.org/pdf/2505.13417)] [[Code](https://github.com/THU-KEG/AdaptThink)]
 * [arXiv] Qwen3 Technical Report [[Paper](https://arxiv.org/pdf/2505.09388)] [[Code](https://github.com/QwenLM/Qwen3)]
 * [**NAACL'25**] Perception Compressor: A Training-Free Prompt Compression Framework in Long Context Scenarios [[Paper](https://arxiv.org/pdf/2409.19272)] [[Code](https://github.com/Twilightaaa/PerceptionCompressor)]
 * [**COLM'25**] SEAL: Steerable Reasoning Calibration of Large Language Models for Free [[Paper](https://arxiv.org/pdf/2504.07986)] [[Code](https://github.com/VITA-Group/SEAL)]
+* [**EMNLP'25**] AdaptThink: LLM Can Learn When to Think [[Paper](https://arxiv.org/pdf/2505.13417)] [[Code](https://github.com/THU-KEG/AdaptThink)]
 * [**EMNLP'25**] Position IDs Matter: An Enhanced Position Layout for Efficient Context Compression in Large Language Models [[Paper](https://aclanthology.org/2025.findings-emnlp.962.pdf)] [[Code](https://github.com/1azybug/EPL)]
 * [**EMNLP'25**] ThinkSwitcher: When to Think Hard, When to Think Fast [[Paper](https://arxiv.org/pdf/2505.14183)]
 * [**EMNLP'25**] TokenSkip: Controllable Chain-of-Thought Compression in LLMs [[Paper](https://arxiv.org/pdf/2502.12067)] [[Code](https://github.com/hemingkx/TokenSkip)]
@@ -207,7 +209,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Steering LLM Thinking with Budget Guidance [[Paper](https://arxiv.org/pdf/2506.13752)] [[Code](https://github.com/UMass-Embodied-AGI/BudgetGuidance)]
 * [arXiv] TL;DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression [[Paper](https://arxiv.org/pdf/2506.02678)] [[Code](https://github.com/zzli2022/TLDR)]
 * [arXiv] EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation [[Paper](https://arxiv.org/pdf/2506.04205)] [[Code](https://github.com/OPTML-Group/EPiC)]
-* [arXiv] ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2504.01296)] [[Code](https://github.com/UCSB-NLP-Chang/ThinkPrune)]
 * [**ACL'25**] CoT-Valve: Length-Compressible Chain-of-Thought Tuning [[Paper](https://aclanthology.org/2025.acl-long.300.pdf)] [[Code](https://github.com/horseee/CoT-Valve)]
 * [**ACL'25**] Token-Budget-Aware LLM Reasoning [[Paper](https://arxiv.org/pdf/2412.18547)] [[Code](https://github.com/GeniusHTX/TALE)]
 * [**ACL'25**] Accurate KV Cache Quantization with Outlier Tokens Tracing [[Paper](https://arxiv.org/pdf/2505.10938)] [[Code](https://github.com/yisunlp/OTT)]
