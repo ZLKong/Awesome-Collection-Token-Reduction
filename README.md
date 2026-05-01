@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/04/30`** Added ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/05/01`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -425,13 +425,13 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
 #### 2026
+* [**ICML'26**] Latent Collaboration in Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2511.20639)] [[Code](https://github.com/Gen-Verse/LatentMAS)]
 * [**ACL'26**] SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents [[Paper](https://arxiv.org/pdf/2601.16746)] [[Code](https://github.com/Ayanami1314/swe-pruner)]
 * [**CVPR'26**] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking [[Paper](https://arxiv.org/pdf/2603.20185)] [[Code](https://github.com/jylins/videoseek)]
 * [**ICLR'26**] ACON: Optimizing Context Compression for Long-horizon LLM Agents [[Paper](https://arxiv.org/pdf/2510.00615v2)] [[Code](https://github.com/microsoft/acon)]
 * [arXiv] AgentOCR: Reimagining Agent History via Optical Self-Compression [[Paper](https://arxiv.org/pdf/2601.04786)]
 #### 2025
 * [arXiv] CARL: Critical Action Focused Reinforcement Learning for Multi-Step Agent [[Paper](https://arxiv.org/pdf/2512.04949)]
-* [arXiv] Latent Collaboration in Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2511.20639)] [[Code](https://github.com/Gen-Verse/LatentMAS)]
 * [arXiv] Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving [[Paper](https://arxiv.org/pdf/2511.01633v1)]
 * [**ACL'25**] Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration [[Paper](https://aclanthology.org/2025.acl-long.466.pdf)] [[Code](https://github.com/Relaxed-System-Lab/multi-actor-data-selection)]
 * [**NAACL'25**] S2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency [[Paper](https://arxiv.org/pdf/2502.04790)]
