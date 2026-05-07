@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/05/05`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/05/07`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -152,6 +152,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="language"></a>
 #### 2026
 * [**ICML'26**] Efficient Reasoning with Hidden Thinking [[Paper](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
+* [**ACL'26**] ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection [[Paper](https://arxiv.org/pdf/2601.09195)] [[Code](https://github.com/Utaotao/ProFit)]
 * [**ACL'26**] Reinforced Efficient Reasoning via Semantically Diverse Exploration [[Paper](https://arxiv.org/pdf/2601.05053)] [[Code](https://github.com/ZiqiZhao1/ROSE-rl)]
 * [**ACL'26**] Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention [[Paper](https://arxiv.org/pdf/2510.13940)] [[Code](https://github.com/EnVision-Research/MTI)]
 * [**ACL'26**] Revisiting Model Interpolation for Efficient Reasoning [[Paper](https://arxiv.org/pdf/2510.10977)] [[Code](https://github.com/wutaiqiang/MI)]
