@@ -53,6 +53,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2025
 * [**ICML'25**] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration [[Paper](https://arxiv.org/pdf/2412.11706)] [[Code](https://github.com/wenhao728/AsymRnR)]
 * [**NeurIPS'25**] Frequency-Aware Token Reduction for Efficient Vision Transformer [[Paper](https://openreview.net/pdf?id=Dr06Wjh45k)] [[Code](https://github.com/jhtwosun/frequency-aware-token-pruning)]
+* [**NeurIPS'25**] SparseDiT: Token Sparsification for Efficient Diffusion Transformer [[Paper](https://arxiv.org/abs/2412.06028)] [[Code](https://github.com/changsn/SparseDiT)]
 * [**ICASSP'25**] Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition [[Paper](https://ieeexplore.ieee.org/document/10890489)] [[Code](https://github.com/arkel23/CLCA)]
 * [**ICME'25**] Sparsedm: Toward sparse efficient diffusion models [[Paper](https://arxiv.org/pdf/2404.10445)]
 * [**ICME'25**] SPEECHPRUNE: Context-aware Token Pruning for Speech Information Retrieval [[Paper](https://arxiv.org/pdf/2412.12009)]
