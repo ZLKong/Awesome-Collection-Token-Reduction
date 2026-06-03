@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/06/02`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/06/03`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -40,6 +40,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision"></a>
 #### 2026
 * [**CVPR'26**] HTTM: Head-wise Temporal Token Merging for Faster VGGT [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_HTTM_Head-wise_Temporal_Token_Merging_for_Faster_VGGT_CVPR_2026_paper.pdf)]
+* [**CVPR'26**] MaMe: Matrix-Based Token Merging [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Huo_MaMe_Matrix-Based_Token_Merging_CVPRF_2026_paper.pdf)] [[Code](https://github.com/cominder/mame)]
+* [**CVPR'26**] SPOT: Sparsification with Attention Dynamics via Token Relevance in Vision Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Schlesinger_SPOT_Sparsification_with_Attention_Dynamics_via_Token_Relevance_in_Vision_CVPRF_2026_paper.pdf)] [[Code](https://github.com/odedsc/SPOT)]
 * [**CVPR'26**] A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens [[Paper](https://arxiv.org/pdf/2604.04913)] [[Code](https://github.com/amazon-far/deltatok)]
 * [**CVPR'26**] An Efficient Token Compression Framework for Visual Object Tracking [[Paper](https://arxiv.org/pdf/2605.08329)] [[Code](https://github.com/PJD-WJ/ETCTrack)]
 * [**CVPR'26**] Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers [[Paper](https://arxiv.org/pdf/2511.14751)] [[Code](https://github.com/co-me-tokens/CoMe)]
@@ -265,6 +267,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)][[Code](https://github.com/Danielement321/HiPrune)]
 * [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
+* [**CVPR'26**] InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_InternVL-X_Advancing_and_Accelerating_InternVL_Series_with_Efficient_Visual_Token_CVPRF_2026_paper.pdf)] [[Code](https://github.com/ludc506/InternVL-X)]
+* [**CVPR'26**] A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Li_A_Comprehensive_Study_on_Visual_Token_Redundancy_for_Discrete_Diffusion-based_CVPRF_2026_paper.pdf)]
 * [**CVPR'26**] CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs [[Paper](https://arxiv.org/pdf/2511.14072)] [[Code](https://github.com/jingyulei/CORE)]
 * [**CVPR'26**] DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning [[Paper](https://arxiv.org/pdf/2604.22281)]
 * [**CVPR'26**] TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[Paper](https://arxiv.org/pdf/2507.20630)] [[Code](https://github.com/liaolea/TransPrune)]
