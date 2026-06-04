@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/06/03`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/06/05`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -267,6 +267,11 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)][[Code](https://github.com/Danielement321/HiPrune)]
 * [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
+* [**CVPR'26**] Myopia Rectification: KV Cache Pruning for MLLMs via Dynamic Attention Subsidy and Token Reclamation [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zhuang_Myopia_Rectification_KV_Cache_Pruning_for_MLLMs_Via_Dynamic_Attention_CVPRF_2026_paper.pdf)]
+* [**CVPR'26**] RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Xu_RedVTP_Training-Free_Acceleration_of__Diffusion_Vision-Language_Models_Inference__CVPRF_2026_paper.pdf)] [[Code](https://github.com/Blacktower27/RedVTP)]
+* [**CVPR'26**] FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning [[Paper](https://arxiv.org/pdf/2511.17885)] [[Code](https://github.com/MindVLA-Team/FastMMoE)]
+* [**CVPR'26**] Efficient3D : A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Lin_Efficient3D__A_Unified_Framework_for_Adaptive_and_Debiased_Token_CVPRF_2026_paper.pdf)]
+* [**CVPR'26**] Object-Centric Vision Token Pruning for Vision Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Li_Object-Centric_Vision_Token_Pruning_for_Vision_Language_Models_CVPRF_2026_paper.pdf)] [[Code](https://github.com/GarryLarry010131/OC-VTP)]
 * [**CVPR'26**] InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_InternVL-X_Advancing_and_Accelerating_InternVL_Series_with_Efficient_Visual_Token_CVPRF_2026_paper.pdf)] [[Code](https://github.com/ludc506/InternVL-X)]
 * [**CVPR'26**] A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Li_A_Comprehensive_Study_on_Visual_Token_Redundancy_for_Discrete_Diffusion-based_CVPRF_2026_paper.pdf)]
 * [**CVPR'26**] CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs [[Paper](https://arxiv.org/pdf/2511.14072)] [[Code](https://github.com/jingyulei/CORE)]
