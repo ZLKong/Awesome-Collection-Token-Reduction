@@ -6,7 +6,7 @@
 
 👀 If you found any **errors** or **missing papers**, please don't hesitate to **open an issue** or **pull request**. We invite your participation in advancing this field.
 
-<p align="center"> <img src="timeline.png" width="700" align="center"> </p>
+<p align="center"> <img src="timeline2.png" width="700" align="center"> </p>
 
 ## 📜 Citation
 If you find our work useful for your project, please consider citing our paper and starring this repo.
