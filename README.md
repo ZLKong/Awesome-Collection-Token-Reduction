@@ -39,6 +39,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**CVPR'26**] MeToM: Metadata-Guided Token Merging for Efficient Video LLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] HTTM: Head-wise Temporal Token Merging for Faster VGGT [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_HTTM_Head-wise_Temporal_Token_Merging_for_Faster_VGGT_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] Dyna-ViT: Parameter-Free Pre-Encoder Token Pruning for Efficient Vision Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Rubab_Dyna-ViT_Parameter-Free_Pre-Encoder_Token_Pruning_for_Efficient_Vision_Transformers_CVPRF_2026_paper.pdf)]
 * [**CVPR'26**] MaMe: Matrix-Based Token Merging [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Huo_MaMe_Matrix-Based_Token_Merging_CVPRF_2026_paper.pdf)] [[Code](https://github.com/cominder/mame)]
