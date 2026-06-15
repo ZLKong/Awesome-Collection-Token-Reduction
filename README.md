@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/06/13`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/06/15`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -164,6 +164,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] Reinforced Efficient Reasoning via Semantically Diverse Exploration [[Paper](https://arxiv.org/pdf/2601.05053)] [[Code](https://github.com/ZiqiZhao1/ROSE-rl)]
 * [**ACL'26**] Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention [[Paper](https://arxiv.org/pdf/2510.13940)] [[Code](https://github.com/EnVision-Research/MTI)]
 * [**ACL'26**] Revisiting Model Interpolation for Efficient Reasoning [[Paper](https://arxiv.org/pdf/2510.10977)] [[Code](https://github.com/wutaiqiang/MI)]
+* [**ICLR'26**] SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs [[Paper](https://arxiv.org/pdf/2510.05069)] [[Code](https://github.com/sdc17/SwiReasoning)]
 * [**ICLR'26**] Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [[Paper](https://arxiv.org/pdf/2508.05606v2)] [[Code](https://github.com/Fr0zenCrane/UniCoT)]
 * [**ICLR'26**] Efficient Reasoning with Balanced Thinking [[Paper](https://openreview.net/pdf?id=cJseWJJ5IM)] [[Code](https://github.com/yu-lin-li/ReBalance)]
 * [**ICLR'26**] COMI: Coarse-to-fine Context Compression via Marginal Information Gain [[Paper](https://arxiv.org/pdf/2602.01719)] [[Code](https://github.com/Twilightaaa/COMI)]
