@@ -316,6 +316,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.07915)] [[Code](https://github.com/Gimlettt/MARC)]
 * [**ICASSP'26**] PAR: Prompt-Aware Token Reduction Method for Efficient Large Multimodal Models [[Paper](https://arxiv.org/pdf/2410.07278)]
 * [**ICASSP'26**] ADAPTIVE-VOCO: COMPLEXITY-AWARE VISUAL TOKEN COMPRESSION FOR VISION-LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2512.18496)]
+* [**AAAI'26**] STEP-Nav: Spatial-Temporal Efficient Visual Token Pruning for Vision-and-Language Navigation with Large Language Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39588)]
 * [**AAAI'26**] D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning [[Paper](https://arxiv.org/pdf/2512.19443)] [[Code](https://github.com/EvelynZhang-epiclab/D2Pruner)]
 * [**AAAI'26**] CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37592)]
 * [**AAAI'26**] TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks [[Paper](https://arxiv.org/pdf/2511.06283)] [[Code](https://github.com/xxlllz/TinyChemVL)]
