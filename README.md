@@ -1,4 +1,4 @@
-# ⭐ Awesome Token Pruning / Compression / Reduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Token Reduction Papers](https://img.shields.io/badge/Google-Sheet-brightgreen?style=flat&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1tZvQEwK8y3fXRufEsz3VOcUcyBzexTj-x7WLLGIzIMg/edit?usp=sharing)[![Paper](https://img.shields.io/badge/paper-arxiv-orange)](https://arxiv.org/abs/2505.18227v4)
+# ⭐ Awesome Token Pruning / Compression / Reduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Token Reduction Papers](https://img.shields.io/badge/Google-Sheet-brightgreen?style=flat&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1tZvQEwK8y3fXRufEsz3VOcUcyBzexTj-x7WLLGIzIMg/edit?usp=sharing) [![Paper](https://img.shields.io/badge/paper-arxiv-orange)](https://arxiv.org/abs/2505.18227v4)
 
 
 
