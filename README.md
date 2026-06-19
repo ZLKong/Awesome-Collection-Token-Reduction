@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/06/16`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/06/19`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -266,6 +266,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [arXiv] Stage-adaptive Token Selection for Efficient Omni-modal LLMs [[Paper](https://arxiv.org/pdf/2605.20035)] [[Code](https://github.com/xxayt/SEATS)]
+* [**ICML'26**] Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference [[Paper](https://arxiv.org/pdf/2606.01711)] [[Code](https://github.com/cvlab-yonsei/RESTORE)]
 * [**ICML'26**] RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference [[Paper](https://arxiv.org/pdf/2605.00392)] [[Code](https://github.com/BurnWan/RTPrune)]
 * [**ICML'26**] See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model [[Paper](https://arxiv.org/pdf/2605.11817)] [[Code](https://github.com/Fediory/Grid-Sampler)]
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
