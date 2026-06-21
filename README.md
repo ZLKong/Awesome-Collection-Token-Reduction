@@ -169,6 +169,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [[Paper](https://arxiv.org/pdf/2508.05606v2)] [[Code](https://github.com/Fr0zenCrane/UniCoT)]
 * [**ICLR'26**] Efficient Reasoning with Balanced Thinking [[Paper](https://openreview.net/pdf?id=cJseWJJ5IM)] [[Code](https://github.com/yu-lin-li/ReBalance)]
 * [**ICLR'26**] COMI: Coarse-to-fine Context Compression via Marginal Information Gain [[Paper](https://arxiv.org/pdf/2602.01719)] [[Code](https://github.com/Twilightaaa/COMI)]
+* [arXiv] GMSA: Enhancing Context Compression via Group Merging and Layer Semantic Alignment [[Paper](https://arxiv.org/abs/2505.12215)] [[Code](https://github.com/Twilightaaa/GMSA)]
 * [**ICLR'26**] Plan and Budget: Effective and Efficient Test-Time Scaling on Reasoning Large Language Models [[Paper](https://arxiv.org/pdf/2505.16122)] [[Code](https://github.com/junhongmit/P-and-B)]
 * [**ICLR'26**] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [**ICLR'26**] LightMem: Lightweight and Efficient Memory-Augmented Generation [[Paper](https://arxiv.org/pdf/2510.18866)] [[Code](https://github.com/zjunlp/LightMem)]
