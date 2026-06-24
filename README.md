@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/06/19`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/06/25`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -160,6 +160,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="language"></a>
 #### 2026
 * [**ICML'26**] Efficient Reasoning with Hidden Thinking [[Paper](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
+* [**ACL'26**] Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal Uncertainty [[Paper](https://arxiv.org/pdf/2604.10072)] 
 * [**ACL'26**] StructMem: Structured Memory for Long-Horizon Behavior in LLMs [[Paper](https://arxiv.org/pdf/2604.21748)] [[Code](https://github.com/zjunlp/LightMem)]
 * [**ACL'26**] ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection [[Paper](https://arxiv.org/pdf/2601.09195)] [[Code](https://github.com/Utaotao/ProFit)]
 * [**ACL'26**] Reinforced Efficient Reasoning via Semantically Diverse Exploration [[Paper](https://arxiv.org/pdf/2601.05053)] [[Code](https://github.com/ZiqiZhao1/ROSE-rl)]
@@ -271,9 +272,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICML'26**] RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference [[Paper](https://arxiv.org/pdf/2605.00392)] [[Code](https://github.com/BurnWan/RTPrune)]
 * [**ICML'26**] See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model [[Paper](https://arxiv.org/pdf/2605.11817)] [[Code](https://github.com/Fediory/Grid-Sampler)]
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
-* [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)][[Code](https://github.com/Danielement321/HiPrune)]
+* [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)]
 * [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
-* [**CVPR'26**] MeToM: Metadata-Guided Token Merging for Efficient Video LLMs  [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf)]
+* [**CVPR'26**] Frequency-Modulated Visual Restoration for Matryoshka Large Multimodal [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Pan_Frequency-Modulated_Visual_Restoration_for_Matryoshka_Large_Multimodal_Models_CVPRF_2026_paper.pdf)] [[Code](https://github.com/QingtaoPan/FMVR)]
+* [**CVPR'26**] MeToM: Metadata-Guided Token Merging for Efficient Video LLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Xie_HiViS_Hiding_Visual_Tokens_from_the_Drafter_for_Speculative_Decoding_CVPRF_2026_paper.pdf)]
 * [**CVPR'26**] Uncertainty-Guided Graph Formulation via MWIS for Token Pruning in LVLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Song_Uncertainty-Guided_Graph_Formulation_via_MWIS_for_Token_Pruning_in_LVLMs_CVPRF_2026_paper.pdf)]
 * [**CVPR'26**] PrismPrune: Decoupling Saliency and Diversity in Attention for Efficient Visual Token Pruning in VLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Liu_PrismPrune_Decoupling_Saliency_and_Diversity_in_Attention_for_Efficient_Visual_CVPRF_2026_paper.pdf)]
