@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/06/25`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/06/28`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -40,6 +40,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision"></a>
 #### 2026
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
+* [**CVPR'26**] LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging [[Paper](https://arxiv.org/pdf/2512.04939)] [[Code](https://github.com/GarlicBa/LiteVGGT-repo)]
 * [**CVPR'26**] HTTM: Head-wise Temporal Token Merging for Faster VGGT [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_HTTM_Head-wise_Temporal_Token_Merging_for_Faster_VGGT_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] Dyna-ViT: Parameter-Free Pre-Encoder Token Pruning for Efficient Vision Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Rubab_Dyna-ViT_Parameter-Free_Pre-Encoder_Token_Pruning_for_Efficient_Vision_Transformers_CVPRF_2026_paper.pdf)]
 * [**CVPR'26**] MaMe: Matrix-Based Token Merging [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Huo_MaMe_Matrix-Based_Token_Merging_CVPRF_2026_paper.pdf)] [[Code](https://github.com/cominder/mame)]
@@ -159,6 +160,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2026
+* [**ICML'26**] ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning [[Paper](https://arxiv.org/pdf/2606.03503)] [[Code](https://github.com/ziyanliux/ThoughtFold)]
 * [**ICML'26**] Efficient Reasoning with Hidden Thinking [[Paper](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
 * [**ACL'26**] Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal Uncertainty [[Paper](https://arxiv.org/pdf/2604.10072)] 
 * [**ACL'26**] StructMem: Structured Memory for Long-Horizon Behavior in LLMs [[Paper](https://arxiv.org/pdf/2604.21748)] [[Code](https://github.com/zjunlp/LightMem)]
@@ -274,6 +276,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)]
 * [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
+* [**CVPR'26**] Hybrid Token Compression for Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Hybrid_Token_Compression_for_Vision-Language_Models_CVPR_2026_paper.pdf)] [[Code](https://github.com/jushengzhang/HybridToken-VLM)]
+* [**CVPR'26**] Towards Unified Human Perception and Machine Understanding: Token Flow Guided Compression Framework [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Towards_Unified_Human_Perception_and_Machine_Understanding_Token_Flow_Guided_CVPR_2026_paper.pdf)]
+* [**CVPR'26**] HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models [[Paper](https://arxiv.org/pdf/2604.07812)] [[Code](https://github.com/peppery77/HAWK)]
+* [**CVPR'26**] UniCompress: Token Compression for Unified Vision-Language Understanding and Generation [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_UniCompress_Token_Compression_for_Unified_Vision-Language_Understanding_and_Generation_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] Frequency-Modulated Visual Restoration for Matryoshka Large Multimodal [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Pan_Frequency-Modulated_Visual_Restoration_for_Matryoshka_Large_Multimodal_Models_CVPRF_2026_paper.pdf)] [[Code](https://github.com/QingtaoPan/FMVR)]
 * [**CVPR'26**] MeToM: Metadata-Guided Token Merging for Efficient Video LLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Xie_HiViS_Hiding_Visual_Tokens_from_the_Drafter_for_Speculative_Decoding_CVPRF_2026_paper.pdf)]
@@ -286,7 +292,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'26**] Efficient3D : A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Lin_Efficient3D__A_Unified_Framework_for_Adaptive_and_Debiased_Token_CVPRF_2026_paper.pdf)]
 * [**CVPR'26**] Object-Centric Vision Token Pruning for Vision Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Li_Object-Centric_Vision_Token_Pruning_for_Vision_Language_Models_CVPRF_2026_paper.pdf)] [[Code](https://github.com/GarryLarry010131/OC-VTP)]
 * [**CVPR'26**] InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_InternVL-X_Advancing_and_Accelerating_InternVL_Series_with_Efficient_Visual_Token_CVPRF_2026_paper.pdf)] [[Code](https://github.com/ludc506/InternVL-X)]
-* [**CVPR'26**] A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Li_A_Comprehensive_Study_on_Visual_Token_Redundancy_for_Discrete_Diffusion-based_CVPRF_2026_paper.pdf)]
+* [**CVPR'26**] A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Li_A_Comprehensive_Study_on_Visual_Token_Redundancy_for_Discrete_Diffusion-based_CVPRF_2026_paper.pdf)] [[Code](https://github.com/Yrdal3910/dMLLM-Visual-Token-Redundancy-Analysis)]
 * [**CVPR'26**] CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs [[Paper](https://arxiv.org/pdf/2511.14072)] [[Code](https://github.com/jingyulei/CORE)]
 * [**CVPR'26**] DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning [[Paper](https://arxiv.org/pdf/2604.22281)]
 * [**CVPR'26**] TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[Paper](https://arxiv.org/pdf/2507.20630)] [[Code](https://github.com/liaolea/TransPrune)]
@@ -462,6 +468,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
 #### 2026
+* [arXiv] TokenPilot: Cache-Efficient Context Management for LLM Agents [[Paper](https://arxiv.org/pdf/2606.17016)] [[Code](https://github.com/zjunlp/LightMem2)]
 * [**Project'26**] PilotDeck: A WorkSpace-Centric Open-Source Agent Operating System [[Code](https://github.com/OpenBMB/PilotDeck)]
 * [**ICML'26**] AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation [[Paper](https://arxiv.org/pdf/2602.17100)]
 * [**ICML'26**] Latent Collaboration in Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2511.20639)] [[Code](https://github.com/Gen-Verse/LatentMAS)]
