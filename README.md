@@ -162,6 +162,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2026
 * [**ICML'26**] ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning [[Paper](https://arxiv.org/pdf/2606.03503)] [[Code](https://github.com/ziyanliux/ThoughtFold)]
 * [**ICML'26**] Efficient Reasoning with Hidden Thinking [[Paper](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
+* [**ACL'26**] CLARO: Controlled Attribute-Driven Reasoning Optimization for Efficient Chain-of-Thought [[Paper](https://aclanthology.org/2026.findings-acl.1335.pdf)] [[Code](https://github.com/odedsc/CLARO)]
 * [**ACL'26**] Thinking with Reasoning Skills: Fewer Tokens, More Accuracy [[Paper](https://aclanthology.org/2026.acl-industry.154.pdf)] [[Code](https://github.com/stallone0000/Reasoning-Skill)]
 * [**ACL'26**] Less Languages, Less Tokens: An Efficient Unified Logic Cross-lingual Chain-of-Thought Reasoning Framework [[Paper](https://aclanthology.org/2026.acl-long.1379.pdf)]
 * [**ACL'26**] EQUIP: EQUivariant preserving In-Place updates for Efficient token-pruning [[Paper](https://aclanthology.org/2026.acl-long.1210.pdf)]
