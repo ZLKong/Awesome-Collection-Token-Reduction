@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/06/28`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/06/30`** Added ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -162,6 +162,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2026
 * [**ICML'26**] ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning [[Paper](https://arxiv.org/pdf/2606.03503)] [[Code](https://github.com/ziyanliux/ThoughtFold)]
 * [**ICML'26**] Efficient Reasoning with Hidden Thinking [[Paper](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
+* [**ACL'26**] Thinking with Reasoning Skills: Fewer Tokens, More Accuracy [[Paper](https://aclanthology.org/2026.acl-industry.154.pdf)] [[Code](https://github.com/stallone0000/Reasoning-Skill)]
+* [**ACL'26**] Less Languages, Less Tokens: An Efficient Unified Logic Cross-lingual Chain-of-Thought Reasoning Framework [[Paper](https://aclanthology.org/2026.acl-long.1379.pdf)]
+* [**ACL'26**] EQUIP: EQUivariant preserving In-Place updates for Efficient token-pruning [[Paper](https://aclanthology.org/2026.acl-long.1210.pdf)]
+* [**ACL'26**] Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning [[Paper](https://aclanthology.org/2026.acl-long.726.pdf)] [[Code](https://github.com/microsoft/Bingo)]
 * [**ACL'26**] Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal Uncertainty [[Paper](https://arxiv.org/pdf/2604.10072)] 
 * [**ACL'26**] StructMem: Structured Memory for Long-Horizon Behavior in LLMs [[Paper](https://arxiv.org/pdf/2604.21748)] [[Code](https://github.com/zjunlp/LightMem)]
 * [**ACL'26**] ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection [[Paper](https://arxiv.org/pdf/2601.09195)] [[Code](https://github.com/Utaotao/ProFit)]
@@ -273,6 +277,11 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICML'26**] Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference [[Paper](https://arxiv.org/pdf/2606.01711)] [[Code](https://github.com/cvlab-yonsei/RESTORE)]
 * [**ICML'26**] RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference [[Paper](https://arxiv.org/pdf/2605.00392)] [[Code](https://github.com/BurnWan/RTPrune)]
 * [**ICML'26**] See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model [[Paper](https://arxiv.org/pdf/2605.11817)] [[Code](https://github.com/Fediory/Grid-Sampler)]
+* [**ACL'26**] REGATE: Learning Faster and Better with Fewer Tokens in MLLMs [[Paper](https://aclanthology.org/2026.acl-long.2154.pdf)] [[Code](https://people-robots.github.io/regate/)]
+* [**ACL'26**] Semantically Comprehensive Token Pruning in LVLMs via Maximizing Concept Coverage [[Paper](https://aclanthology.org/2026.acl-long.1282.pdf)]
+* [**ACL'26**] Reducing Token Redundancy in LVLMs: A Systematic Review of Token Pruning Methods [[Paper](https://aclanthology.org/2026.acl-long.328.pdf)]
+* [**ACL'26**] Vista-LLM: Decoupled Query-Guided Visual Token Pruning for Efficient Long-Video Large Language Models [[Paper](https://aclanthology.org/2026.acl-long.601.pdf)] [[Code](https://github.com/lizhenyu-123/Vista-LLM)]
+* [**ACL'26**] VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2604.15188)]
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)]
 * [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
