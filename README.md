@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/07/15`** Added ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/07/20`** Added ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -40,6 +40,11 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision"></a>
 #### 2026
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
+* [**CVPR'26**] SceneTok: A Compressed, Diffusable Token Space for 3D Scenes [[Paper](https://arxiv.org/pdf/2602.18882)] [[Code](https://github.com/mohammadasim98/scenetok)]
+* [**CVPR'26**] Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Ding_Adaptive_Depth_Lightweight_RGB-T_Tracking_with_Holistic_Token_Routing_CVPR_2026_paper.pdf)] 
+* [**CVPR'26**] LazyVAR: Accelerating Visual Autoregressive Models via Scale-wise Token Pruning and Parallel Group Decoding [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Mao_LazyVAR_Accelerating_Visual_Autoregressive_Models_via_Scale-wise_Token_Pruning_and_CVPR_2026_paper.pdf)] 
+* [**CVPR'26**] Guiding Token-Sparse Diffusion Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Krause_Guiding_Token-Sparse_Diffusion_Models_CVPR_2026_paper.pdf)] [[Code](https://github.com/CompVis/tread)]
+* [**CVPR'26**] Saliency-Driven Token Merging for Vision Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xie_Saliency-Driven_Token_Merging_for_Vision_Transformers_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging [[Paper](https://arxiv.org/pdf/2512.04939)] [[Code](https://github.com/GarlicBa/LiteVGGT-repo)]
 * [**CVPR'26**] HTTM: Head-wise Temporal Token Merging for Faster VGGT [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_HTTM_Head-wise_Temporal_Token_Merging_for_Faster_VGGT_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] Dyna-ViT: Parameter-Free Pre-Encoder Token Pruning for Efficient Vision Transformers [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Rubab_Dyna-ViT_Parameter-Free_Pre-Encoder_Token_Pruning_for_Efficient_Vision_Transformers_CVPRF_2026_paper.pdf)]
@@ -297,6 +302,16 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)]
 * [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
+* [**CVPR'26**] SCoRe: Salience-Coverage Reduction for Vision Token Pruning in Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_SCoRe_Salience-Coverage_Reduction_for_Vision_Token_Pruning_in_Vision-Language_Models_CVPR_2026_paper.pdf)]
+* [**CVPR'26**] QuietPrune: Query-Guided Early Token Pruning for Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_QuietPrune_Query-Guided_Early_Token_Pruning_for_Vision-Language_Models_CVPR_2026_paper.pdf)]
+* [**CVPR'26**] IF-Prune: Information-Flow Guided Token Pruning for Efficient Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_IF-Prune_Information-Flow_Guided_Token_Pruning_for_Efficient_Vision-Language_Models_CVPR_2026_paper.pdf)] [[Code](https://github.com/snap-research/EVLM-IF-Prune)]
+* [**CVPR'26**] When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs [[Paper](https://arxiv.org/pdf/2512.07580)] [[Code](https://github.com/YahongWang1/Information-Horizon)]
+* [**CVPR'26**] EarlyTom: Early Token Compression Completes Fast Video Understanding [[Paper](https://arxiv.org/pdf/2605.30010)] [[Code](https://github.com/viridisGreen/EarlyTom)]
+* [**CVPR'26**] EmoThinker: Advancing Visual-Acoustic Emotion Analysis via Structural Token Selection and Chain-of-Thought Reasoning [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_EmoThinker_Advancing_Visual-Acoustic_Emotion_Analysis_via_Structural_Token_Selection_and_CVPR_2026_paper.pdf)] [[Code](https://github.com/yuffffff116/CoET)]
+* [**CVPR'26**] VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm [[Paper](https://arxiv.org/pdf/2512.02700)] [[Code](https://github.com/Casey-bit/VLMPruner)]
+* [**CVPR'26**] TAR: Token-Aware Refinement for Fine-grained Generalized Category Discovery [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_TAR_Token-Aware_Refinement_for_Fine-grained_Generalized_Category_Discovery_CVPR_2026_paper.pdf)] [[Code](https://github.com/VectorYangYiStar/TAR)]
+* [**CVPR'26**] Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding [[Paper](https://arxiv.org/pdf/2512.10548)]
+* [**CVPR'26**] One Layer’s Trash is Another Layer’s Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_One_Layers_Trash_is_Another_Layers_Treasure_Adaptive_Layer-wise_Visual_CVPR_2026_paper.pdf)] 
 * [**CVPR'26**] Hybrid Token Compression for Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Hybrid_Token_Compression_for_Vision-Language_Models_CVPR_2026_paper.pdf)] [[Code](https://github.com/jushengzhang/HybridToken-VLM)]
 * [**CVPR'26**] Towards Unified Human Perception and Machine Understanding: Token Flow Guided Compression Framework [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Towards_Unified_Human_Perception_and_Machine_Understanding_Token_Flow_Guided_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models [[Paper](https://arxiv.org/pdf/2604.07812)] [[Code](https://github.com/peppery77/HAWK)]
@@ -508,6 +523,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 ## 🐍 State Space Models 
 <a id="states"></a>
+* [**CVPR'26**] SSM-Aware Token-Efficient VMamba via Adaptive Patch Pruning and Merging for Person Re-Identification [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_SSM-Aware_Token-Efficient_VMamba_via_Adaptive_Patch_Pruning_and_Merging_for_CVPR_2026_paper.pdf)] [[Code](https://github.com/YuanHuang0982/TE-VMamba)]
 * [**ICML'26**] SEMA: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging [[Paper](https://openreview.net/attachment?id=H3vDDSHWos&name=pdf)] [[Code](https://github.com/nhatthanhtran/SEMA)]
 * [**ICLR'26**] DTP: Delta-Guided Two Stage Pruning for Mamba-based Multimodal Large Language Models [[Paper](https://openreview.net/pdf?id=uqT7TAhwrm)]
 * [**arXiv**] Training-free Token Reduction for Vision Mamba [[Paper](https://arxiv.org/pdf/2507.14042)] 
