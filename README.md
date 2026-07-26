@@ -552,5 +552,3 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 💖 Star History
 ## Star History
 [![Star History Chart](https://api.star-history.com/chart?repos=ZLKong/Awesome-Collection-Token-Reduction&type=date&legend=top-left&sealed_token=wjg3juwDHsY0yUmo5b5mzeiHUtDI_v3wAnDnBobbpT4w9g6ecdu9BLSdxcdKcVsLANHRBiN9si2sQ3uiu1dDZ2wMt38UYKxqj6zki1lnIRfwdiSxlbzKag)](https://www.star-history.com/?repos=ZLKong%2FAwesome-Collection-Token-Reduction&type=date&legend=top-left)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZLKong/awesome-token-compression-reduction&type=Date)](https://www.star-history.com/?type=date&repos=ZLKong%2Fawesome-token-compression-reduction)
