@@ -15,12 +15,12 @@ If you find our work useful for your project, please consider citing our paper a
   title={Token Reduction Should Go Beyond Efficiency in Generative Models--From Vision, Language to Multimodality},
   author={Kong, Zhenglun and Li, Yize and Zeng, Fanhu and Xin, Lei and Messica, Shvat and Lin, Xue and Zhao, Pu and Kellis, Manolis and Tang, Hao and Zitnik, Marinka},
   journal={arXiv preprint arXiv:2505.18227},
-  year={2025}
+  year={2026}
 }
 ```
 
 ## 📢 News
-- **`2026/07/20`** Added ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/07/26`** Added ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -40,6 +40,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision"></a>
 #### 2026
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
+* [**CVPR'26**] TokenHand: Discrete Token Representation for Efficient Hand Mesh Reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/He_TokenHand_Discrete_Token_Representation_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2026_paper.pdf)] 
+* [**CVPR'26**] SToRe3D: Sparse Token Relevance in ViTs for Efficient Multi-View 3D Object Detection [[Paper](https://arxiv.org/pdf/2605.14110)] 
 * [**CVPR'26**] SceneTok: A Compressed, Diffusable Token Space for 3D Scenes [[Paper](https://arxiv.org/pdf/2602.18882)] [[Code](https://github.com/mohammadasim98/scenetok)]
 * [**CVPR'26**] Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Ding_Adaptive_Depth_Lightweight_RGB-T_Tracking_with_Holistic_Token_Routing_CVPR_2026_paper.pdf)] 
 * [**CVPR'26**] LazyVAR: Accelerating Visual Autoregressive Models via Scale-wise Token Pruning and Parallel Group Decoding [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Mao_LazyVAR_Accelerating_Visual_Autoregressive_Models_via_Scale-wise_Token_Pruning_and_CVPR_2026_paper.pdf)] 
@@ -301,7 +303,12 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2604.15188)]
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)]
-* [**ICRA'26**] The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[Paper](https://arxiv.org/pdf/2509.12594)][[Code](https://github.com/LiAutoAD/LightVLA)]
+* [**CVPR'26**] Merge3D: Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Merge3D_Efficient_3D_Multimodal_LLMs_via_Joint_2D-3D_Token_Merging_CVPR_2026_paper.pdf)] [[Code](https://tianbo-pan.github.io/merge3d/)]
+* [**CVPR'26**] TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_TransPrune_Token_Transition_Pruning_for_Efficient_Large_Vision-Language_Model_CVPR_2026_paper.pdf)] [[Code](https://github.com/liaolea/TransPrune)]
+* [**CVPR'26**] Variation-aware Vision Token Dropping for Faster Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.01552)] [[Code](https://github.com/xuyang-liu16/V2Drop)]
+* [**CVPR'26**] On Token’s Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models [[Paper](https://arxiv.org/pdf/2603.27481)] [[Code](https://zhaoc5.github.io/DyMoE/)]
+* [**CVPR'26**] On Token’s Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models [[Paper](https://arxiv.org/pdf/2603.27481)] [[Code](https://zhaoc5.github.io/DyMoE/)]
+* [**CVPR'26**] Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Hi-Lo_Prune_Look_at_What_Youll_Lose_before_Pruning_with_CVPR_2026_paper.pdf)] [[Code](https://github.com/sealost/Hi-Lo_Prune)]
 * [**CVPR'26**] SCoRe: Salience-Coverage Reduction for Vision Token Pruning in Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_SCoRe_Salience-Coverage_Reduction_for_Vision_Token_Pruning_in_Vision-Language_Models_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] QuietPrune: Query-Guided Early Token Pruning for Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_QuietPrune_Query-Guided_Early_Token_Pruning_for_Vision-Language_Models_CVPR_2026_paper.pdf)]
 * [**CVPR'26**] IF-Prune: Information-Flow Guided Token Pruning for Efficient Vision-Language Models [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_IF-Prune_Information-Flow_Guided_Token_Pruning_for_Efficient_Vision-Language_Models_CVPR_2026_paper.pdf)] [[Code](https://github.com/snap-research/EVLM-IF-Prune)]
@@ -543,5 +550,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**HPCA'21**] SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning [[Paper](https://arxiv.org/pdf/2012.09852)] [[Code](https://github.com/mit-han-lab/spatten)]
 
 ## 💖 Star History
+## Star History
+[![Star History Chart](https://api.star-history.com/chart?repos=ZLKong/Awesome-Collection-Token-Reduction&type=date&legend=top-left&sealed_token=wjg3juwDHsY0yUmo5b5mzeiHUtDI_v3wAnDnBobbpT4w9g6ecdu9BLSdxcdKcVsLANHRBiN9si2sQ3uiu1dDZ2wMt38UYKxqj6zki1lnIRfwdiSxlbzKag)](https://www.star-history.com/?repos=ZLKong%2FAwesome-Collection-Token-Reduction&type=date&legend=top-left)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZLKong/awesome-token-compression-reduction&type=Date)](https://www.star-history.com/#ZLKong/awesome-token-compression-reduction&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ZLKong/awesome-token-compression-reduction&type=Date)](https://www.star-history.com/?type=date&repos=ZLKong%2Fawesome-token-compression-reduction)
