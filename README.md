@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/07/28`** Added ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/08/02`** Added ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -40,6 +40,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision"></a>
 #### 2026
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
+* [**CVPR'26**] Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors [[Paper](https://arxiv.org/pdf/2604.14563)] [[Code](https://github.com/Mingqj/SEPatch3D)]
 * [**CVPR'26**] TokenHand: Discrete Token Representation for Efficient Hand Mesh Reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/He_TokenHand_Discrete_Token_Representation_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2026_paper.pdf)] 
 * [**CVPR'26**] SToRe3D: Sparse Token Relevance in ViTs for Efficient Multi-View 3D Object Detection [[Paper](https://arxiv.org/pdf/2605.14110)] 
 * [**CVPR'26**] SceneTok: A Compressed, Diffusable Token Space for 3D Scenes [[Paper](https://arxiv.org/pdf/2602.18882)] [[Code](https://github.com/mohammadasim98/scenetok)]
@@ -306,6 +307,12 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2604.15188)]
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)]
+* [**CVPR'26**] Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning [[Paper](https://arxiv.org/pdf/2601.09708)] [[Code](https://jasper0314-huang.github.io/fast-thinkact/)]
+* [**CVPR'26**] Latent Implicit Visual Reasoning [[Paper](https://arxiv.org/pdf/2512.21218)] [[Code](https://www.chuyishang.com/livr/)]
+* [**CVPR'26**] One Token, Two Fates: A Unified Framework via Vision Token Manipulation Against MLLMs Hallucination [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Fa_One_Token_Two_Fates_A_Unified_Framework_via_Vision_Token_CVPR_2026_paper.pdf)] [[Code](https://github.com/Fazhan-cs/OTT)]
+* [**CVPR'26**] ApET: Approximation-Error Guided Token Compression for Efficient VLMs [[Paper](https://arxiv.org/pdf/2602.19870)] [[Code](https://github.com/Maqkccx/ApET)]
+* [**CVPR'26**] EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling [[Paper](https://arxiv.org/pdf/2604.17087)]
+* [**CVPR'26**] DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference [[Paper](https://arxiv.org/pdf/2602.18846)] [[Code](https://github.com/AMD-AGI/DUET-VLM)]
 * [**CVPR'26**] Merge3D: Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Merge3D_Efficient_3D_Multimodal_LLMs_via_Joint_2D-3D_Token_Merging_CVPR_2026_paper.pdf)] [[Code](https://tianbo-pan.github.io/merge3d/)]
 * [**CVPR'26**] TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_TransPrune_Token_Transition_Pruning_for_Efficient_Large_Vision-Language_Model_CVPR_2026_paper.pdf)] [[Code](https://github.com/liaolea/TransPrune)]
 * [**CVPR'26**] Variation-aware Vision Token Dropping for Faster Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.01552)] [[Code](https://github.com/xuyang-liu16/V2Drop)]
