@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/08/02`** Added ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/08/04`** Added ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -64,6 +64,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] InfoTok: Adaptive Discrete Video Tokenizer via Information-Theoretic Compression [[Paper](https://arxiv.org/pdf/2512.16975)] [[Code](https://github.com/YWolfeee/InfoTok)]
 * [**ICLR'26**] RegionE: Adaptive Region-Aware Generation for Efficient Image Editing [[Paper](https://arxiv.org/pdf/2510.25590)] [[Code](https://github.com/Peyton-Chen/RegionE)]
 * [**ICASSP'26**] TINYDROP: TINY MODEL GUIDED TOKEN DROPPING FOR VISION TRANSFORMERS [[Paper](https://arxiv.org/pdf/2509.03379)]
+* [**AAAI'26**] V-Pruner: A Fast and Globally-informed Token Pruning Framework for Vision Transformer [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/40737/44698)] [[Code](https://github.com/Yaoguangzhen/V-Pruner)]
 * [**AAAI'26**] CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking [[Paper](https://arxiv.org/pdf/2511.15580)]
 * [**3DV'26**] CTR3D: Cross-view Token Reduction for Dense Multi-view Generation [[Paper](https://openreview.net/pdf?id=3rJQj0xZJv)] [[Code](https://github.com/HKUST-SAIL/CTR3D)]
 #### 2025
@@ -195,6 +196,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [**ICLR'26**] LightMem: Lightweight and Efficient Memory-Augmented Generation [[Paper](https://arxiv.org/pdf/2510.18866)] [[Code](https://github.com/zjunlp/LightMem)]
 * [**ICLR'26**] Self-Aligned Reward: Towards Effective and Efficient Reasoners [[Paper](https://arxiv.org/pdf/2509.05489)] [[Code](https://github.com/amazon-science/Self-Aligned-Reward-Towards_Effective_and_Efficient_Reasoners)]
+* [**AAAI'26**] SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning [[Paper](https://arxiv.org/pdf/2508.06447)] [[Code](https://github.com/Longxmas/SlimInfer)]
+* [**AAAI'26**] CATS: Category-Aware Token-level Steering for Training-Free Redundancy Reduction in Large Reasoning Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40778/44739)] [[Code](https://github.com/Zmfei/CATS)]
 * [**AAAI'26**] Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression [[Paper](https://arxiv.org/pdf/2508.05337)]
 * [**ICASSP'26**] Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks? [[Paper](https://arxiv.org/pdf/2509.06350)] [[Code](https://github.com/Junjie-Mu/Mask-GCG)]
 * [**TMLR'26**] ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2504.01296)] [[Code](https://github.com/UCSB-NLP-Chang/ThinkPrune)]
@@ -238,7 +241,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Optimizing Length Compression in Large Reasoning Models [[Paper](https://arxiv.org/pdf/2506.14755)] [[Code](https://github.com/zxiangx/LC-R1)]
 * [arXiv] DPad: Efficient Diffusion Language Models with Suffix Dropout [[Paper](https://arxiv.org/pdf/2508.14148)] [[Code](https://github.com/Crys-Chen/DPad)]
 * [arXiv] CompLLM: Compression for Long Context Q&A [[Paper](https://arxiv.org/pdf/2509.19228v1)]
-* [arXiv] SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning [[Paper](https://www.arxiv.org/pdf/2508.06447)]
 * [arXiv] Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning [[Paper](https://arxiv.org/pdf/2505.14582)]
 * [arXiv] A*-Thought: Efficient Reasoning via Bidirectional Compression for Low-Resource Settings [[Paper](https://arxiv.org/pdf/2505.24550v1)] [[Code](https://github.com/AI9Stars/AStar-Thought)]
 * [arXiv] Steering LLM Thinking with Budget Guidance [[Paper](https://arxiv.org/pdf/2506.13752)] [[Code](https://github.com/UMass-Embodied-AGI/BudgetGuidance)]
@@ -381,6 +383,19 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding [[Paper](https://arxiv.org/pdf/2510.07915)] [[Code](https://github.com/Gimlettt/MARC)]
 * [**ICASSP'26**] PAR: Prompt-Aware Token Reduction Method for Efficient Large Multimodal Models [[Paper](https://arxiv.org/pdf/2410.07278)]
 * [**ICASSP'26**] ADAPTIVE-VOCO: COMPLEXITY-AWARE VISUAL TOKEN COMPRESSION FOR VISION-LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2512.18496)]
+* [**AAAI'26**] MergeDNA: Context-aware Genome Modeling with Dynamic Tokenization through Token Merging [[Paper](https://arxiv.org/pdf/2511.14806)]
+* [**AAAI'26**] Sharp Eyes and Memory for VideoLLMs: Information-Aware Visual Token Pruning for Efficient and Reliable VideoLLM Reasoning [[Paper](https://arxiv.org/pdf/2511.08003)]
+* [**AAAI'26**] KTV: Keyframes and Key Tokens Selection for Efficient Training-Free Video LLMs [[Paper](https://arxiv.org/pdf/2602.03615)] [[Code](https://github.com/hktk07/KTV)]
+* [**AAAI'26**] Not All Tokens and Heads Are Equally Important: Dual-Level Attention Intervention for Hallucination Mitigation [[Paper](https://arxiv.org/pdf/2506.12609)]
+* [**AAAI'26**] Efficient Segmentation with Multimodal Large Language Model via Token Routing [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38032/41994)]
+* [**AAAI'26**] PosPrune: Visual Token Pruning with Positional Bias Correction for Efficient Large Vision-Language Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38020/41982)]
+* [**AAAI'26**] Instruction-Guided Cross-Modal Clustering for Training-Free Visual Token Pruning in Vision-Language Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38212/42174)]
+* [**AAAI'26**] HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models [[Paper](https://arxiv.org/pdf/2511.09883)] [[Code](https://github.com/lihengzhang02/HCC-3D)]
+* [**AAAI'26**] TOP-RL: Task-Optimized Progressive Token Pruning with Reinforcement Learning for Vision Language Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38614/42576)]
+* [**AAAI'26**] TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models [[Paper](https://arxiv.org/pdf/2508.19257)] [[Code](https://github.com/PKU-XLab/TTF-VLA)]
+* [**AAAI'26**] D³ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs [[Paper](https://arxiv.org/pdf/2511.12280)] [[Code](https://github.com/bcmi/D3ToM-Diffusion-MLLM)]
+* [**AAAI'26**] Contribution-aware Token Compression for Efficient Video Understanding via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2602.01649)] [[Code](https://github.com/LivingFutureLab/CaCoVID)]
+* [**AAAI'26**] Rethinking Visual Token Reduction in LVLMs Under Cross-Modal Misalignment [[Paper](https://arxiv.org/pdf/2506.22283)] [[Code](https://github.com/Ruixxxx/VisionDrop)]
 * [**AAAI'26**] STEP-Nav: Spatial-Temporal Efficient Visual Token Pruning for Vision-and-Language Navigation with Large Language Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39588)]
 * [**AAAI'26**] D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning [[Paper](https://arxiv.org/pdf/2512.19443)] [[Code](https://github.com/EvelynZhang-epiclab/D2Pruner)]
 * [**AAAI'26**] CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37592)]
