@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/08/04`** Added ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/08/11`** Added ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -291,10 +291,16 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**ACM MM'26**] Balancing Efficiency and Efficacy: Training-Free Attention-Guided Switching Between Explicit and Latent Thoughts for MLLMs [[Paper](https://arxiv.org/pdf/2608.03450)] [[Code](https://github.com/swordAndSnow/MM26-AGS)]
+* [**ACM MM'26**] One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting [[Paper](https://arxiv.org/pdf/2607.27902)] [[Code](https://github.com/eeNickTang/SPaTS)]
 * [**ACM MM'26**] VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression [[Paper](https://arxiv.org/pdf/2607.12756)] [[Code](https://github.com/Zyvpeng/VisCo)]
+* [**ECCV'26**] Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction [[Paper](https://arxiv.org/pdf/2606.24156)] [[Code](https://github.com/CodeChildCZJ/PriorTR)]
+* [**ECCV'26**] Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2606.24165)] [[Code](https://github.com/zjubinchen/CLSE)]
+* [**ECCV'26**] 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering [[Paper](https://arxiv.org/pdf/2608.01185)] [[Code](https://github.com/cvsp-lab/3DZip)]
 * [**ECCV'26**] Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs [[Paper](https://arxiv.org/pdf/2602.05275)]
 * [**ECCV'26**] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts [[Paper](https://arxiv.org/pdf/2606.31986)] [[Code](https://github.com/hulianyuyy/CoLT)]
 * [arXiv] Stage-adaptive Token Selection for Efficient Omni-modal LLMs [[Paper](https://arxiv.org/pdf/2605.20035)] [[Code](https://github.com/xxayt/SEATS)]
+* [**ICML'26**] PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models [[Paper](https://openreview.net/pdf?id=vtYr3VnMym)]
 * [**ICML'26**] VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning [[Paper](https://arxiv.org/pdf/2605.31457)]
 * [**ICML'26**] CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models [[Paper](https://arxiv.org/pdf/2605.13178)] [[Code](https://github.com/sejong-rcv/LiteLVLM)]
 * [**ICML'26**] EnvironmentAsk Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models [[Paper](https://openreview.net/pdf?id=HWMMBBujpo)]
