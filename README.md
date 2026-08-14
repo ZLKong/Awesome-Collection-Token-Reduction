@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/08/13`** Added ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/08/15`** Added IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -39,6 +39,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**IJCAI'26**] Joint Neural Architecture Search and Token Pruning for Efficient Visual Tracking [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2992.pdf)] [[Code](https://github.com/Cyhoon84/NASTrack)]
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
 * [**CVPR'26**] Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors [[Paper](https://arxiv.org/pdf/2604.14563)] [[Code](https://github.com/Mingqj/SEPatch3D)]
 * [**CVPR'26**] TokenHand: Discrete Token Representation for Efficient Hand Mesh Reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/He_TokenHand_Discrete_Token_Representation_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2026_paper.pdf)] 
@@ -169,6 +170,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2026
+* [**IJCAI'26**] TS-PEFT: Unveiling Token-Level Redundancy in Parameter-Efficient Fine-Tuning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1673.pdf)]
+* [**ICML'26**] Less Is More: Elevating RAG via Performance-Driven Context Compression [[Paper](https://arxiv.org/pdf/2508.19282)] [[Code](https://github.com/ziqiangcui/CORE-RAG-ICML26)] 
 * [**ICML'26**] Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens [[Paper](https://openreview.net/pdf?id=SFTFsixO2K)] [[Code](https://github.com/NeosKnight233/Latent-Thoughts-Tuning)] 
 * [**ICML'26**] Training-Trajectory-Aware Token Selection [[Paper](https://openreview.net/pdf?id=G6PSKuGEEe)] 
 * [**ICML'26**] ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation [[Paper](https://openreview.net/pdf/1c350d87d460911430f55c974838111ee5a541fc.pdf)] [[Code](https://github.com/ZihaoHuang-notabot/ConceptMoE)]
