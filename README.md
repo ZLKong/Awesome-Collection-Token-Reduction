@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/08/16`** Added IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/08/20`** Added IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -296,10 +296,13 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**ACM MM'26**] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)] [[Code](https://github.com/JulietChoo/VisionSelector)]
 * [**ACM MM'26**] GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video Large Language Models [[Paper](https://arxiv.org/pdf/2608.03083)] [[Code](https://github.com/yeluoy/GSTEP)]
 * [**ACM MM'26**] Balancing Efficiency and Efficacy: Training-Free Attention-Guided Switching Between Explicit and Latent Thoughts for MLLMs [[Paper](https://arxiv.org/pdf/2608.03450)] [[Code](https://github.com/swordAndSnow/MM26-AGS)]
 * [**ACM MM'26**] One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting [[Paper](https://arxiv.org/pdf/2607.27902)] [[Code](https://github.com/eeNickTang/SPaTS)]
 * [**ACM MM'26**] VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression [[Paper](https://arxiv.org/pdf/2607.12756)] [[Code](https://github.com/Zyvpeng/VisCo)]
+* [**ECCV'26**] VLZip: Unified Visual and Textual Compression for Interleaved Long-Context Modeling [[Paper](https://arxiv.org/pdf/2608.08630v1)] [[Code](https://github.com/ShareLab-SII/VLZip)]
+* [**ECCV'26**] Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding [[Paper](https://arxiv.org/pdf/2603.05663)] [[Code](https://github.com/JiaqiLi404/SemVID)]
 * [**ECCV'26**] Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction [[Paper](https://arxiv.org/pdf/2606.24156)] [[Code](https://github.com/CodeChildCZJ/PriorTR)]
 * [**ECCV'26**] Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models [[Paper](https://arxiv.org/pdf/2606.24165)] [[Code](https://github.com/zjubinchen/CLSE)]
 * [**ECCV'26**] 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering [[Paper](https://arxiv.org/pdf/2608.01185)] [[Code](https://github.com/cvsp-lab/3DZip)]
@@ -315,6 +318,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICML'26**] Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference [[Paper](https://arxiv.org/pdf/2606.01711)] [[Code](https://github.com/cvlab-yonsei/RESTORE)]
 * [**ICML'26**] RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference [[Paper](https://arxiv.org/pdf/2605.00392)] [[Code](https://github.com/BurnWan/RTPrune)]
 * [**ICML'26**] See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model [[Paper](https://arxiv.org/pdf/2605.11817)] [[Code](https://github.com/Fediory/Grid-Sampler)]
+* [**ACL'26**] CARES: Context-Aware Resolution Selector for VLMs [[Paper](https://arxiv.org/pdf/2510.19496)] [[Code](https://github.com/mkimhi/CARES)]
 * [**ACL'26**] REGATE: Learning Faster and Better with Fewer Tokens in MLLMs [[Paper](https://aclanthology.org/2026.acl-long.2154.pdf)] [[Code](https://people-robots.github.io/regate/)]
 * [**ACL'26**] Semantically Comprehensive Token Pruning in LVLMs via Maximizing Concept Coverage [[Paper](https://aclanthology.org/2026.acl-long.1282.pdf)]
 * [**ACL'26**] Reducing Token Redundancy in LVLMs: A Systematic Review of Token Pruning Methods [[Paper](https://aclanthology.org/2026.acl-long.328.pdf)]
