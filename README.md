@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/08/20`** Added IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/08/23`** Added EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -170,9 +170,11 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2026
+* [**EMNLP'26**] HybridThinker: Efficient Chain-of-Thought Reasoning via Compressed Memory and Transient Thought Steps [[Paper](https://arxiv.org/pdf/2606.03768)]
 * [**IJCAI'26**] Adaptive GoGI-Skip: Coupling Goal-Gradient Importance with Dynamic Uncertainty for Efficient Reasoning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3204.pdf)]
 * [**IJCAI'26**] Sprint or Delve: A Distribution-Aware Approach to Efficient Reasoning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2631.pdf)]
 * [**IJCAI'26**] TS-PEFT: Unveiling Token-Level Redundancy in Parameter-Efficient Fine-Tuning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1673.pdf)]
+* [**ICML'26**] ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models [[Paper](https://openreview.net/attachment?id=Efq2VvYk1o&name=pdf)]
 * [**ICML'26**] Less Is More: Elevating RAG via Performance-Driven Context Compression [[Paper](https://arxiv.org/pdf/2508.19282)] [[Code](https://github.com/ziqiangcui/CORE-RAG-ICML26)] 
 * [**ICML'26**] Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens [[Paper](https://openreview.net/pdf?id=SFTFsixO2K)] [[Code](https://github.com/NeosKnight233/Latent-Thoughts-Tuning)] 
 * [**ICML'26**] Training-Trajectory-Aware Token Selection [[Paper](https://openreview.net/pdf?id=G6PSKuGEEe)] 
@@ -308,7 +310,9 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ECCV'26**] 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering [[Paper](https://arxiv.org/pdf/2608.01185)] [[Code](https://github.com/cvsp-lab/3DZip)]
 * [**ECCV'26**] Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs [[Paper](https://arxiv.org/pdf/2602.05275)]
 * [**ECCV'26**] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts [[Paper](https://arxiv.org/pdf/2606.31986)] [[Code](https://github.com/hulianyuyy/CoLT)]
-* [arXiv] Stage-adaptive Token Selection for Efficient Omni-modal LLMs [[Paper](https://arxiv.org/pdf/2605.20035)] [[Code](https://github.com/xxayt/SEATS)]
+* [**ICML'26**] LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model [[Paper](https://openreview.net/attachment?id=lwOoBzJykL&name=pdf)] [[Code](https://github.com/ZhuoyangLiu2005/last0)]
+* [**ICML'26**] OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models [[Paper](https://openreview.net/pdf?id=8RY20mLzup)]
+* [**ICML'26**] World-Model Inspired Emotion-aware Token Refinement for Training-Free Multimodal Emotion Recognition [[Paper](https://openreview.net/pdf?id=ViQO8FlRFR)]
 * [**ICML'26**] Don’t Overthink with Pixels: Efficient Reasoning for Segmentation [[Paper](https://openreview.net/pdf?id=sXRZoMhNFo)] [[Code](https://github.com/songw-zju/PixelThink)]
 * [**ICML'26**] PRIM: Cooperative Dynamic Token Compression for Efficient Large Multimodal Models [[Paper](https://openreview.net/pdf?id=vtYr3VnMym)]
 * [**ICML'26**] VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning [[Paper](https://arxiv.org/pdf/2605.31457)]
@@ -424,6 +428,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'26**] TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing [[Paper](https://arxiv.org/pdf/2511.13283)] [[Code](https://github.com/mlvlab/TabFlash)]
 * [**WACV'26**] Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2512.18910)]
 * [**TMLR'26**] VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.22654)] [[Code](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)]
+* [**arXiv**] Stage-adaptive Token Selection for Efficient Omni-modal LLMs [[Paper](https://arxiv.org/pdf/2605.20035)] [[Code](https://github.com/xxayt/SEATS)]
 * [**arXiv**] LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning [[Paper](https://arxiv.org/pdf/2506.09935)] [[Code](https://leo-vl.github.io/)]
 * [**arXiv**] On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression [[Paper](https://arxiv.org/pdf/2601.21531)]
 * [**arXiv**] SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning [[Paper](https://arxiv.org/pdf/2601.06474)] [[Code](https://msundyy.github.io/SparseOccVLA/)]
