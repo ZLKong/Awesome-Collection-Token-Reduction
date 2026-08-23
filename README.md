@@ -480,7 +480,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression? [[Paper](https://arxiv.org/pdf/2512.15649)][[Code](https://github.com/Moenupa/VTCBench)]
 * [arXiv] Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge [[Paper](https://arxiv.org/pdf/2509.09955)]
 * [arXiv] A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.01548)] [[Code](https://github.com/HVision-NKU/GlimpsePrune)]
-* [arXiv] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)][[Code](https://github.com/JulietChoo/VisionSelector)]
 * [arXiv] Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models [[Paper](https://arxiv.org/pdf/2511.02650v1)][[Code](https://github.com/TianfanPeng/VLMUniPruneBench)]
 * [arXiv] To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2510.08510)] [[Code](https://davidhalladay.github.io/diysink_demo/)]
 * [arXiv] Sparsity Forcing: Reinforcing Token Sparsity of MLLMs [[Paper](https://arxiv.org/pdf/2504.18579)]
