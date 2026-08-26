@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/08/25`** Added EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/08/26`** Added EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -174,6 +174,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**IJCAI'26**] Adaptive GoGI-Skip: Coupling Goal-Gradient Importance with Dynamic Uncertainty for Efficient Reasoning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3204.pdf)]
 * [**IJCAI'26**] Sprint or Delve: A Distribution-Aware Approach to Efficient Reasoning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2631.pdf)]
 * [**IJCAI'26**] TS-PEFT: Unveiling Token-Level Redundancy in Parameter-Efficient Fine-Tuning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1673.pdf)]
+* [**ICML'26**] When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM's Adaptive Reasoning [[Paper](https://openreview.net/pdf?id=df9S9BaN8T)]
 * [**ICML'26**] MixReasoning: Switching Modes to Think [[Paper](https://arxiv.org/pdf/2510.06052)] [[Code](https://github.com/haiquanlu/MixReasoning)] 
 * [**ICML'26**] ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models [[Paper](https://openreview.net/attachment?id=Efq2VvYk1o&name=pdf)]
 * [**ICML'26**] Less Is More: Elevating RAG via Performance-Driven Context Compression [[Paper](https://arxiv.org/pdf/2508.19282)] [[Code](https://github.com/ziqiangcui/CORE-RAG-ICML26)] 
@@ -184,6 +185,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICML'26**] ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model [[Paper](https://openreview.net/pdf?id=UM6ifyC63p)]
 * [**ICML'26**] ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning [[Paper](https://arxiv.org/pdf/2606.03503)] [[Code](https://github.com/ziyanliux/ThoughtFold)]
 * [**ICML'26**] Efficient Reasoning with Hidden Thinking [[Paper](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
+* [**ACL'26**] Your Reasoning Model Knows What Counts: Self-Guided Chain-of-Thought Pruning for Efficient Reasoning [[Paper](https://aclanthology.org/2026.acl-long.25.pdf)] [[Code](https://github.com/HammerScholar/SGP-CoT)]
+* [**ACL'26**] Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models [[Paper](https://aclanthology.org/2026.acl-long.1766.pdf)]
 * [**ACL'26**] TL;DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression [[Paper](https://aclanthology.org/2026.acl-long.1856.pdf)] [[Code](https://github.com/zzli2022/TLDR)]
 * [**ACL'26**] CLARO: Controlled Attribute-Driven Reasoning Optimization for Efficient Chain-of-Thought [[Paper](https://aclanthology.org/2026.findings-acl.1335.pdf)] [[Code](https://github.com/odedsc/CLARO)]
 * [**ACL'26**] Thinking with Reasoning Skills: Fewer Tokens, More Accuracy [[Paper](https://aclanthology.org/2026.acl-industry.154.pdf)] [[Code](https://github.com/stallone0000/Reasoning-Skill)]
@@ -206,6 +209,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICLR'26**] DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference [[Paper](https://arxiv.org/pdf/2510.19669)]
 * [**ICLR'26**] LightMem: Lightweight and Efficient Memory-Augmented Generation [[Paper](https://arxiv.org/pdf/2510.18866)] [[Code](https://github.com/zjunlp/LightMem)]
 * [**ICLR'26**] Self-Aligned Reward: Towards Effective and Efficient Reasoners [[Paper](https://arxiv.org/pdf/2509.05489)] [[Code](https://github.com/amazon-science/Self-Aligned-Reward-Towards_Effective_and_Efficient_Reasoners)]
+* [**AAAI'26**] HAPO: Training Language Models to Reason Concisely via History-Aware Policy Optimization [[Paper](https://arxiv.org/pdf/2505.11225)] [[Code](https://github.com/HCY123902/HAPO)]
 * [**AAAI'26**] SlimInfer: Accelerating Long-Context LLM Inference via Dynamic Token Pruning [[Paper](https://arxiv.org/pdf/2508.06447)] [[Code](https://github.com/Longxmas/SlimInfer)]
 * [**AAAI'26**] CATS: Category-Aware Token-level Steering for Training-Free Redundancy Reduction in Large Reasoning Models [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40778/44739)] [[Code](https://github.com/Zmfei/CATS)]
 * [**AAAI'26**] Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression [[Paper](https://arxiv.org/pdf/2508.05337)]
@@ -223,6 +227,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] Qwen3 Technical Report [[Paper](https://arxiv.org/pdf/2505.09388)] [[Code](https://github.com/QwenLM/Qwen3)]
 * [**NAACL'25**] Perception Compressor: A Training-Free Prompt Compression Framework in Long Context Scenarios [[Paper](https://arxiv.org/pdf/2409.19272)] [[Code](https://github.com/Twilightaaa/PerceptionCompressor)]
 * [**COLM'25**] SEAL: Steerable Reasoning Calibration of Large Language Models for Free [[Paper](https://arxiv.org/pdf/2504.07986)] [[Code](https://github.com/VITA-Group/SEAL)]
+* [**EMNLP'25**] From Long to Lean: Performance-aware and Adaptive Chain-of-Thought Compression via Multi-round Refinement [[Paper](https://aclanthology.org/2025.emnlp-main.618.pdf)] [[Code](https://github.com/Leon221220/MACC)]
 * [**EMNLP'25**] MuTIS: Enhancing Reasoning Efficiency through Multi-Turn Intervention Sampling in Reinforcement Learning [[Paper](https://aclanthology.org/2025.emnlp-main.690.pdf)] [[Code](https://github.com/Edric-Zhao/MuTIS)]
 * [**EMNLP'25**] AdaptThink: LLM Can Learn When to Think [[Paper](https://arxiv.org/pdf/2505.13417)] [[Code](https://github.com/THU-KEG/AdaptThink)]
 * [**EMNLP'25**] Position IDs Matter: An Enhanced Position Layout for Efficient Context Compression in Large Language Models [[Paper](https://aclanthology.org/2025.findings-emnlp.962.pdf)] [[Code](https://github.com/1azybug/EPL)]
@@ -234,6 +239,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPSW'25**] The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/0d6da26625f780df1572cf7c8dc3faa6-Paper-Conference.pdf)] [[Code](https://github.com/1KE-JI/UPFT)]
 * [**NeurIPSW'25**] Chopping Trees: Semantic Similarity Based Dynamic Pruning for Tree-of-Thought Reasoning [[Paper](https://arxiv.org/pdf/2511.00640)] [[Code](https://github.com/kimjoonghokim/SSDP)]
 * [**NeurIPSW'25**] DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching [[Paper](https://arxiv.org/pdf/2511.08595)] [[Code](https://github.com/ZichengXu/Decoding-Tree-Sketching)]
+* [**NeurIPS'25**] When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/372bd0e47f2d5bceca7e300e1446849c-Paper-Conference.pdf)] [[Code](https://github.com/MuyuenLP/Language-Reasoning-Disentangle)]
 * [**NeurIPS'25**] Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning [[Paper](https://arxiv.org/pdf/2506.01939)] [[Code](https://github.com/Shenzhi-Wang/Beyond-the-80-20-Rule-RLVR)]
 * [**NeurIPS'25**] VeriThinker: Learning to Verify Makes Reasoning Model Efficient [[Paper](https://openreview.net/pdf?id=Y1bt0YIS6Y)] [[Code](https://github.com/czg1225/VeriThinker)]
 * [**NeurIPS'25**] Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning [[Paper](https://arxiv.org/pdf/2506.07851)] [[Code](https://github.com/RUCBM/LeaF)]
@@ -562,7 +568,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
 #### 2026
-* [arXiv] TokenPilot: Cache-Efficient Context Management for LLM Agents [[Paper](https://arxiv.org/pdf/2606.17016)] [[Code](https://github.com/zjunlp/LightMem2)]
+* [**EMNLP'26**] TokenPilot: Cache-Efficient Context Management for LLM Agents [[Paper](https://arxiv.org/pdf/2606.17016)] [[Code](https://github.com/zjunlp/LightMem2)]
 * [**Project'26**] PilotDeck: A WorkSpace-Centric Open-Source Agent Operating System [[Code](https://github.com/OpenBMB/PilotDeck)]
 * [**ICML'26**] Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents [[Paper](https://arxiv.org/pdf/2606.06036)] [[Code](https://github.com/Ji-shuo/MRAgent)]
 * [**ICML'26**] AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation [[Paper](https://arxiv.org/pdf/2602.17100)]
