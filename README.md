@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/08/28`** Added EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/09/01`** Added EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -41,6 +41,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2026
 * [**IJCAI'26**] Joint Neural Architecture Search and Token Pruning for Efficient Visual Tracking [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2992.pdf)] [[Code](https://github.com/Cyhoon84/NASTrack)]
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
+* [**CVPR'26**] Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model [[Paper](https://arxiv.org/pdf/2603.05438)] [[Code](https://github.com/kdwonn/CompACT)]
 * [**CVPR'26**] Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors [[Paper](https://arxiv.org/pdf/2604.14563)] [[Code](https://github.com/Mingqj/SEPatch3D)]
 * [**CVPR'26**] TokenHand: Discrete Token Representation for Efficient Hand Mesh Reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/He_TokenHand_Discrete_Token_Representation_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2026_paper.pdf)] 
 * [**CVPR'26**] SToRe3D: Sparse Token Relevance in ViTs for Efficient Multi-View 3D Object Detection [[Paper](https://arxiv.org/pdf/2605.14110)] 
@@ -442,6 +443,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'26**] TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing [[Paper](https://arxiv.org/pdf/2511.13283)] [[Code](https://github.com/mlvlab/TabFlash)]
 * [**WACV'26**] Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2512.18910)]
 * [**TMLR'26**] VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.22654)] [[Code](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)]
+* [**arXiv**] DIVE: Dynamic Iterative Visual Evidence Construction for Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2608.04496)] [[Code](https://github.com/Zhong-Chenchen/DIVE)]
 * [**arXiv**] Stage-adaptive Token Selection for Efficient Omni-modal LLMs [[Paper](https://arxiv.org/pdf/2605.20035)] [[Code](https://github.com/xxayt/SEATS)]
 * [**arXiv**] LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning [[Paper](https://arxiv.org/pdf/2506.09935)] [[Code](https://leo-vl.github.io/)]
 * [**arXiv**] On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression [[Paper](https://arxiv.org/pdf/2601.21531)]
@@ -571,6 +573,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
 #### 2026
+* [**EMNLP'26**] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory [[Paper](https://arxiv.org/pdf/2508.04903)]
 * [**EMNLP'26**] TokenPilot: Cache-Efficient Context Management for LLM Agents [[Paper](https://arxiv.org/pdf/2606.17016)] [[Code](https://github.com/zjunlp/LightMem2)]
 * [**Project'26**] PilotDeck: A WorkSpace-Centric Open-Source Agent Operating System [[Code](https://github.com/OpenBMB/PilotDeck)]
 * [**ICML'26**] Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents [[Paper](https://arxiv.org/pdf/2606.06036)] [[Code](https://github.com/Ji-shuo/MRAgent)]
