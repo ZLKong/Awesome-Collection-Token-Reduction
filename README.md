@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/09/13`** Added IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/09/20`** Added IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -39,6 +39,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**ECCV'26**] Less Tokens, Better Forecasts: Sparse Residual Routing for Efficient Weather Prediction [[Paper](https://arxiv.org/pdf/2607.02829)] [[Code](https://github.com/janet-sw/Sparse-Reslim)]
 * [**IJCAI'26**] Joint Neural Architecture Search and Token Pruning for Efficient Visual Tracking [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2992.pdf)] [[Code](https://github.com/Cyhoon84/NASTrack)]
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
 * [**ACL'26**] microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification [[Paper](https://aclanthology.org/2026.findings-acl.1664.pdf)] [[Code](https://github.com/sathiiii/microCLIP)]
@@ -433,6 +434,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**CVPR'26**] ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models [[Paper](https://arxiv.org/pdf/2509.24837v2)] [[Code](https://github.com/AIM-SKKU/ZOO-Prune)]
 * [**CVPR'26**] OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport [[Paper](https://arxiv.org/pdf/2602.20205)] [[Code](https://github.com/xiwenc1/OTPrune)]
 * [**CVPR'26**] Accelerating Streaming Video Large Language Models via Hierarchical Token Compression [[Paper](https://arxiv.org/pdf/2512.00891)] [[Code](https://github.com/lern-to-write/STC)]
+* [**ICLR'26**] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling [[Paper](https://openreview.net/pdf?id=MUjdNcfNPv)][[Code](https://github.com/OpenGVLab/VideoChat-Flash)]
 * [**ICLR'26**] Sparsity Forcing: Reinforcing Token Sparsity of MLLMs [[Paper](https://arxiv.org/pdf/2504.18579)]
 * [**ICLR'26**] Enhancing Visual Token Representations for Video Large Language Models via Training-free Spatial-Temporal Pooling and Gridding [[Paper](https://openreview.net/pdf?id=MZi9SYPVz5)][[Code](https://github.com/bingjunluo/ST-GridPool)]
 * [**ICLR'26**] ST-SimDiff: Balancing Spatiotemporal Similarity and Difference for Efficient Video Understanding with MLLMs [[Paper](https://arxiv.org/pdf/2605.22158)][[Code](https://github.com/bingjunluo/ST-SimDiff)]
@@ -473,6 +475,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**AAAI'26**] TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing [[Paper](https://arxiv.org/pdf/2511.13283)] [[Code](https://github.com/mlvlab/TabFlash)]
 * [**WACV'26**] Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2512.18910)]
 * [**TMLR'26**] VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2505.22654)] [[Code](https://github.com/Tencent/SelfEvolvingAgent/tree/main/VScan)]
+* [**arXiv**] CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs [[Paper](https://arxiv.org/abs/2609.08345)] [[Code](https://humansensinglab.github.io/CoVeR/)]
 * [**arXiv**] DIVE: Dynamic Iterative Visual Evidence Construction for Efficient Vision-Language Models [[Paper](https://arxiv.org/pdf/2608.04496)] [[Code](https://github.com/Zhong-Chenchen/DIVE)]
 * [**arXiv**] Stage-adaptive Token Selection for Efficient Omni-modal LLMs [[Paper](https://arxiv.org/pdf/2605.20035)] [[Code](https://github.com/xxayt/SEATS)]
 * [**arXiv**] LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning [[Paper](https://arxiv.org/pdf/2506.09935)] [[Code](https://leo-vl.github.io/)]
