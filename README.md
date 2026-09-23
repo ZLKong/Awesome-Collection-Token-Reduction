@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/09/23`** Added IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/09/24`** Added IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -182,6 +182,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**IJCAI'26**] Adaptive GoGI-Skip: Coupling Goal-Gradient Importance with Dynamic Uncertainty for Efficient Reasoning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3204.pdf)]
 * [**IJCAI'26**] Sprint or Delve: A Distribution-Aware Approach to Efficient Reasoning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2631.pdf)]
 * [**IJCAI'26**] TS-PEFT: Unveiling Token-Level Redundancy in Parameter-Efficient Fine-Tuning [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/1673.pdf)]
+* [**ICML'26**] Less Token, More Signal: MoE Expert Pruning via Critical Token Selection [[Paper](https://openreview.net/pdf?id=4iupzej9nT)] [[Code](https://github.com/hikvision-research/STEP)] 
 * [**ICML'26**] Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models [[Paper](https://arxiv.org/pdf/2601.18734)] [[Code](https://github.com/siyan-zhao/OPSD)] 
 * [**ICML'26**] When Simple Problems Wear Complex Costumes: Improving Efficiency in LRM's Adaptive Reasoning [[Paper](https://openreview.net/pdf?id=df9S9BaN8T)]
 * [**ICML'26**] MixReasoning: Switching Modes to Think [[Paper](https://arxiv.org/pdf/2510.06052)] [[Code](https://github.com/haiquanlu/MixReasoning)] 
