@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/09/20`** Added IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/09/23`** Added IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -39,6 +39,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**ECCV'26**] When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12685.pdf)] [[Code](https://github.com/phatnguyencs/vit-seg-compression)]
+* [**ECCV'26**] Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9045.pdf)]
+* [**ECCV'26**] Background Blurring Matters: Improving Visual Grounding by Merging Text-Irrelevant Tokens [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8758.pdf)] [[Code](https://github.com/Mr-Bigworth/ToB)]
+* [**ECCV'26**] TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1923.pdf)] [[Code](https://github.com/Ree1s/TRaM-VSR)]
 * [**ECCV'26**] Less Tokens, Better Forecasts: Sparse Residual Routing for Efficient Weather Prediction [[Paper](https://arxiv.org/pdf/2607.02829)] [[Code](https://github.com/janet-sw/Sparse-Reslim)]
 * [**IJCAI'26**] Joint Neural Architecture Search and Token Pruning for Efficient Visual Tracking [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2992.pdf)] [[Code](https://github.com/Cyhoon84/NASTrack)]
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
@@ -335,12 +339,19 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision-language(action)-model"></a>
 #### 2026
 * [**IROS'26**] History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation [[Paper](https://arxiv.org/pdf/2603.06480)] [[Code](https://wqtwjt1996.github.io/publications/2026-vln.html)]
+* [**ACM MM'26**] OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models [[Paper](https://arxiv.org/pdf/2607.23193)] [[Code](https://github.com/MAC-AutoML/OmniScope)]
 * [**ACM MM'26**] Decoupled Similarity for Task-Aware Token Pruning in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2604.11240)]
 * [**ACM MM'26**] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)] [[Code](https://github.com/JulietChoo/VisionSelector)]
 * [**ACM MM'26**] GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video Large Language Models [[Paper](https://arxiv.org/pdf/2608.03083)] [[Code](https://github.com/yeluoy/GSTEP)]
 * [**ACM MM'26**] Balancing Efficiency and Efficacy: Training-Free Attention-Guided Switching Between Explicit and Latent Thoughts for MLLMs [[Paper](https://arxiv.org/pdf/2608.03450)] [[Code](https://github.com/swordAndSnow/MM26-AGS)]
 * [**ACM MM'26**] One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting [[Paper](https://arxiv.org/pdf/2607.27902)] [[Code](https://github.com/eeNickTang/SPaTS)]
 * [**ACM MM'26**] VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression [[Paper](https://arxiv.org/pdf/2607.12756)] [[Code](https://github.com/Zyvpeng/VisCo)]
+* [**ECCV'26**] ToDRE: Effective Visual Token Pruning via Token Diversity and Task Relevance [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7564.pdf)]
+* [**ECCV'26**] DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7683.pdf)] [[Code](https://github.com/laychou666/DASH)]
+* [**ECCV'26**] FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7435.pdf)]
+* [**ECCV'26**] AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4783.pdf)] [[Code](https://github.com/MULTI-cau/AnchorPrune)]
+* [**ECCV'26**] Semantic-Geometric Dual Compression: Training-Free Visual Token Reduction for Ultra-High-Resolution Remote Sensing Understanding [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/468.pdf)]
+* [**ECCV'26**] Fourier Compressor: Frequency-Domain Visual Token Compression for Vision-Language Models [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/550.pdf)] [[Code](https://github.com/whyisverysmart/Fourier-Compressor)]
 * [**ECCV'26**] SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation [[Paper](https://arxiv.org/pdf/2605.29662)] [[Code](https://msssl.github.io/SAFE-Pruner/)]
 * [**ECCV'26**] Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction [[Paper](https://arxiv.org/pdf/2606.24156)] [[Code](https://github.com/CodeChildCZJ/PriorTR)]
 * [**ECCV'26**] CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport [[Paper](https://arxiv.org/pdf/2608.13226)] [[Code](https://github.com/Brucess/CoverPrune)]
