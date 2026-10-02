@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/09/30`** Added IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/10/02`** Added NeurIPS 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -200,6 +200,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ICML'26**] ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model [[Paper](https://openreview.net/pdf?id=UM6ifyC63p)]
 * [**ICML'26**] ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning [[Paper](https://arxiv.org/pdf/2606.03503)] [[Code](https://github.com/ziyanliux/ThoughtFold)]
 * [**ICML'26**] Efficient Reasoning with Hidden Thinking [[Paper](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
+* [**ACL'26**] RepoDistill: Distilling Repository Knowledge through Compression-Aware Budget Allocation and Policy Optimization [[Paper](https://aclanthology.org/2026.findings-acl.217.pdf)] 
+* [**ACL'26**] HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference [[Paper](https://aclanthology.org/2026.acl-long.1999.pdf)] [[Code](https://github.com/ponytaill/HeteroCache)]
 * [**ACL'26**] Concept rather than Document: Context Compression via AMR-based Conceptual Entropy [[Paper](https://aclanthology.org/2026.findings-acl.590.pdf)] 
 * [**ACL'26**] BRIEF-PRO: Universal Context Compression with Short-to-Long Synthesis for Fast and Accurate Multi-Hop Reasoning [[Paper](https://aclanthology.org/2026.findings-acl.696.pdf)] [[Code](https://github.com/JasonForJoy/BRIEF)]
 * [**ACL'26**] When Internalization Fails: Finding Better Targets for Reasoning Compression [[Paper](https://aclanthology.org/2026.findings-acl.734.pdf)]
@@ -358,6 +360,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Vision-Language (Action) Model
 <a id="vision-language(action)-model"></a>
 #### 2026
+* [**NeurIPS'26**] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.11856)] [[Code](https://github.com/Warrenustc1958/UniVLR)]
 * [**EMNLP'26**] Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization [[Paper](https://arxiv.org/pdf/2609.03158)]
 * [**IROS'26**] History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation [[Paper](https://arxiv.org/pdf/2603.06480)] [[Code](https://wqtwjt1996.github.io/publications/2026-vln.html)]
 * [**ACM MM'26**] OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models [[Paper](https://arxiv.org/pdf/2607.23193)] [[Code](https://github.com/MAC-AutoML/OmniScope)]
@@ -645,6 +648,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🤖 Agentic Systems 
 <a id="agent"></a>
 #### 2026
+* [**NeurIPS'26**] ARES: Adaptive Reasoning Effort Selection for Efficient LLM Agents [[Paper](https://arxiv.org/pdf/2603.07915)] [[Code](https://github.com/UCSB-NLP-Chang/Ares)]
 * [**EMNLP'26**] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory [[Paper](https://arxiv.org/pdf/2508.04903)]
 * [**EMNLP'26**] TokenPilot: Cache-Efficient Context Management for LLM Agents [[Paper](https://arxiv.org/pdf/2606.17016)] [[Code](https://github.com/zjunlp/LightMem2)]
 * [**Project'26**] PilotDeck: A WorkSpace-Centric Open-Source Agent Operating System [[Code](https://github.com/OpenBMB/PilotDeck)]
