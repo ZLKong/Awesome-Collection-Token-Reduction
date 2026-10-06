@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/10/02`** Added NeurIPS 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/10/06`** Added NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -649,6 +649,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="agent"></a>
 #### 2026
 * [**NeurIPS'26**] ARES: Adaptive Reasoning Effort Selection for Efficient LLM Agents [[Paper](https://arxiv.org/pdf/2603.07915)] [[Code](https://github.com/UCSB-NLP-Chang/Ares)]
+* [**COLM'26**] The Devil Is in the Interface: Evaluating How Tool Architecture Shapes Coding Agent Behavior [[Paper](https://arxiv.org/pdf/2608.11386)]
 * [**EMNLP'26**] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory [[Paper](https://arxiv.org/pdf/2508.04903)]
 * [**EMNLP'26**] TokenPilot: Cache-Efficient Context Management for LLM Agents [[Paper](https://arxiv.org/pdf/2606.17016)] [[Code](https://github.com/zjunlp/LightMem2)]
 * [**Project'26**] PilotDeck: A WorkSpace-Centric Open-Source Agent Operating System [[Code](https://github.com/OpenBMB/PilotDeck)]
