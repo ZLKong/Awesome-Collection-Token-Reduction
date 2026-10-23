@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/10/16`** Added NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/10/23`** Added WACV2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -39,6 +39,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**NeurIPS'26**] Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation [[Paper](https://arxiv.org/pdf/2610.22370)] [[Code](https://github.com/SeungJuCha/DaTMe)]
 * [**ECCV'26**] Rethinking Token Reduction for Diffusion Models via Output-Similarity-Awareness [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12374.pdf)]
 * [**ECCV'26**] FastSTAR: Spatiotemporal Token Pruning for Efficient Autoregressive Video Synthesis Compression [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12209.pdf)]
 * [**ECCV'26**] When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12685.pdf)] [[Code](https://github.com/phatnguyencs/vit-seg-compression)]
@@ -179,6 +180,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 📝 Language 
 <a id="language"></a>
 #### 2026
+* [arXiv] SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models [[Paper](https://arxiv.org/pdf/2610.26793)]
 * [**NeurIPS'26**] LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models [[Paper](https://arxiv.org/pdf/2605.09806)] [[Code](https://github.com/CrazyMint/LEAD)]
 * [**NeurIPS'26**] Quantized Reasoning Models Think They Need to Think Longer, but They Do Not [[Paper](https://arxiv.org/pdf/2606.00206)] [[Code](https://sanaelotfi.github.io/blog/quantized-reasoning-models/)]
 * [**EMNLP'26**] PATS: Process-Level Adaptive Thinking Mode Switching [[Paper](https://arxiv.org/pdf/2505.19250)] [[Code](https://github.com/NJUNLP/PATS)] 
@@ -357,9 +359,13 @@ A detailed list of papers organized by modality can be found in this [Google She
 #### 2020
 * [**ICML'20**] Power-bert: Accelerating bert inference via progressive word-vector elimination [[Paper](https://arxiv.org/pdf/2001.08950)] [[Code](https://github.com/IBM/PoWER-BERT)]    
 
-## 🎬 Vision-Language (Action) Model
+## 🎬 Multimodal: Vision-Language (Action) & Omni
 <a id="vision-language(action)-model"></a>
+#### 2027
+* [**WACV'27**] FastVLA: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models [[Paper](https://arxiv.org/pdf/2610.22146)] [[Code](https://github.com/jiuyixu25/FastVLA)]
+
 #### 2026
+* [arXiv] Complementary Future Token Pruning for World Action Models [[Paper](https://arxiv.org/pdf/2610.19957)]
 * [**NeurIPS'26**] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.11856)] [[Code](https://github.com/Warrenustc1958/UniVLR)]
 * [**EMNLP'26**] Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization [[Paper](https://arxiv.org/pdf/2609.03158)]
 * [**IROS'26**] History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation [[Paper](https://arxiv.org/pdf/2603.06480)] [[Code](https://wqtwjt1996.github.io/publications/2026-vln.html)]
@@ -419,6 +425,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2604.15188)]
 * [**ACL'26**] Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods [[Paper](https://arxiv.org/pdf/2510.07143)] [[Code](https://github.com/Chenfei-Liao/VTC-Bench)]
 * [**ACL'26**] HiPrune: Training-Free Visual Token Pruning via Hierarchical Attention in Vision-Language Models [[Paper](https://arxiv.org/pdf/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)]
+* [**CVPR'26**] A More Word-like Image Tokenization for MLLMs [[Paper](https://arxiv.org/pdf/2605.17954)] [[Code](https://github.com/snuviplab/DiVT)]
 * [**CVPR'26**] Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning [[Paper](https://arxiv.org/pdf/2601.09708)] [[Code](https://jasper0314-huang.github.io/fast-thinkact/)]
 * [**CVPR'26**] Latent Implicit Visual Reasoning [[Paper](https://arxiv.org/pdf/2512.21218)] [[Code](https://www.chuyishang.com/livr/)]
 * [**CVPR'26**] One Token, Two Fates: A Unified Framework via Vision Token Manipulation Against MLLMs Hallucination [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Fa_One_Token_Two_Fates_A_Unified_Framework_via_Vision_Token_CVPR_2026_paper.pdf)] [[Code](https://github.com/Fazhan-cs/OTT)]
