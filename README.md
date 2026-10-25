@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/10/23`** Added WACV2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/10/25`** Added WACV2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -50,6 +50,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**IJCAI'26**] Joint Neural Architecture Search and Token Pruning for Efficient Visual Tracking [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2992.pdf)] [[Code](https://github.com/Cyhoon84/NASTrack)]
 * [**ICML'26**] Statistically Calibrated Scaling for Token Merging in Transformers [[Paper](https://crabwq.github.io/pdf/2026%20sqrt_ICML.pdf)]
 * [**ACL'26**] microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification [[Paper](https://aclanthology.org/2026.findings-acl.1664.pdf)] [[Code](https://github.com/sathiiii/microCLIP)]
+* [**CVPR'26**] MacTok: Robust Continuous Tokenization for Image Generation [[Paper](https://arxiv.org/pdf/2603.29634)] 
 * [**CVPR'26**] Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model [[Paper](https://arxiv.org/pdf/2603.05438)] [[Code](https://github.com/kdwonn/CompACT)]
 * [**CVPR'26**] Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors [[Paper](https://arxiv.org/pdf/2604.14563)] [[Code](https://github.com/Mingqj/SEPatch3D)]
 * [**CVPR'26**] TokenHand: Discrete Token Representation for Efficient Hand Mesh Reconstruction [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/He_TokenHand_Discrete_Token_Representation_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2026_paper.pdf)] 
@@ -366,6 +367,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 #### 2026
 * [arXiv] Complementary Future Token Pruning for World Action Models [[Paper](https://arxiv.org/pdf/2610.19957)]
+* [**NeurIPS'26**] Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving [[Paper](https://arxiv.org/pdf/2610.25734)] [[Code](https://wj-cv.github.io/LECDrive/)]
 * [**NeurIPS'26**] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.11856)] [[Code](https://github.com/Warrenustc1958/UniVLR)]
 * [**EMNLP'26**] Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization [[Paper](https://arxiv.org/pdf/2609.03158)]
 * [**IROS'26**] History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation [[Paper](https://arxiv.org/pdf/2603.06480)] [[Code](https://wqtwjt1996.github.io/publications/2026-vln.html)]
