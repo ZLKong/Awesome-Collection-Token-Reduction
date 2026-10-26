@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/10/25`** Added WACV2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/10/27`** Added WACV2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -39,6 +39,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**NeurIPS'26**] Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention [[Paper](https://arxiv.org/pdf/2605.23451)] [[Code](https://github.com/Seiun-Sky-debug/SANASR)]
+* [**NeurIPS'26**] UDT: Reconciling U-Nets and Diffusion Transformers with Data-Adaptive Token Reduction [[Paper](https://arxiv.org/pdf/2608.01298)] [[Code](https://github.com/JN-Yun/UDT)]
+* [**NeurIPS'26**] Boosting Text-to-Image Diffusion Models via Core Token Attention-Based Seed Selection [[Paper](https://arxiv.org/pdf/2605.19532)]
+* [**NeurIPS'26**] Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers [[Paper](https://arxiv.org/pdf/2605.23892)] [[Code](https://zsh2000.github.io/good-token-hunting.github.io/)]
 * [**NeurIPS'26**] Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation [[Paper](https://arxiv.org/pdf/2610.22370)] [[Code](https://github.com/SeungJuCha/DaTMe)]
 * [**ECCV'26**] Rethinking Token Reduction for Diffusion Models via Output-Similarity-Awareness [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12374.pdf)]
 * [**ECCV'26**] FastSTAR: Spatiotemporal Token Pruning for Efficient Autoregressive Video Synthesis Compression [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12209.pdf)]
@@ -182,6 +186,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="language"></a>
 #### 2026
 * [arXiv] SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models [[Paper](https://arxiv.org/pdf/2610.26793)]
+* [**NeurIPS'26**] Rep2Text: Decoding Full Text from a Single LLM Token Representation [[Paper](https://arxiv.org/pdf/2511.06571)] [[Code](https://github.com/hy-zhao23/Rep2Text)]
+* [**NeurIPS'26**] DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards [[Paper](https://arxiv.org/pdf/2605.08441)] [[Code](https://github.com/Haoyu-Hu/DUET)]
 * [**NeurIPS'26**] LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models [[Paper](https://arxiv.org/pdf/2605.09806)] [[Code](https://github.com/CrazyMint/LEAD)]
 * [**NeurIPS'26**] Quantized Reasoning Models Think They Need to Think Longer, but They Do Not [[Paper](https://arxiv.org/pdf/2606.00206)] [[Code](https://sanaelotfi.github.io/blog/quantized-reasoning-models/)]
 * [**EMNLP'26**] PATS: Process-Level Adaptive Thinking Mode Switching [[Paper](https://arxiv.org/pdf/2505.19250)] [[Code](https://github.com/NJUNLP/PATS)] 
@@ -363,10 +369,14 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🎬 Multimodal: Vision-Language (Action) & Omni
 <a id="vision-language(action)-model"></a>
 #### 2027
+* [**WACV'27**] HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering [[Paper](https://arxiv.org/pdf/2603.18558)] [[Code](https://danbenami.github.io/HiMu.io/)]
 * [**WACV'27**] FastVLA: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models [[Paper](https://arxiv.org/pdf/2610.22146)] [[Code](https://github.com/jiuyixu25/FastVLA)]
 
 #### 2026
 * [arXiv] Complementary Future Token Pruning for World Action Models [[Paper](https://arxiv.org/pdf/2610.19957)]
+* [**NeurIPS'26**] OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models [[Paper](https://arxiv.org/pdf/2605.18041)] [[Code](https://github.com/Yangmrl-nlp/OmniSelect)]
+* [**NeurIPS'26**] ReToken: Improving Long-Context VLMs with Visual Retrieval Token [[Paper](https://arxiv.org/pdf/2607.28627)] [[Code](https://github.com/avaxiao/ReToken)]
+* [**NeurIPS'26**] EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning [[Paper](https://arxiv.org/pdf/2605.19506)]
 * [**NeurIPS'26**] Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving [[Paper](https://arxiv.org/pdf/2610.25734)] [[Code](https://wj-cv.github.io/LECDrive/)]
 * [**NeurIPS'26**] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.11856)] [[Code](https://github.com/Warrenustc1958/UniVLR)]
 * [**EMNLP'26**] Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization [[Paper](https://arxiv.org/pdf/2609.03158)]
