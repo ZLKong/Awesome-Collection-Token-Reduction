@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/10/29`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/11/02`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -191,6 +191,15 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPS'26**] DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards [[Paper](https://arxiv.org/pdf/2605.08441)] [[Code](https://github.com/Haoyu-Hu/DUET)]
 * [**NeurIPS'26**] LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models [[Paper](https://arxiv.org/pdf/2605.09806)] [[Code](https://github.com/CrazyMint/LEAD)]
 * [**NeurIPS'26**] Quantized Reasoning Models Think They Need to Think Longer, but They Do Not [[Paper](https://arxiv.org/pdf/2606.00206)] [[Code](https://sanaelotfi.github.io/blog/quantized-reasoning-models/)]
+* [**EMNLP'26**] LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM KV Cache Eviction [[Paper](https://aclanthology.org/2026.emnlp-main.1183.pdf)]
+* [**EMNLP'26**] Jasper-Flash: Elastic Token Compression and Progressive Distillation for Inference-Scalable Text Embedding Models [[Paper](https://aclanthology.org/2026.emnlp-main.1125.pdf)] [[Code](https://huggingface.co/infgrad/Jasper-Token-Compression-600M)] 
+* [**EMNLP'26**] SlimKV: Joint Token-Feature KV Cache Compression with Reconstruction-Free Beacon Attention [[Paper](https://aclanthology.org/2026.emnlp-main.983.pdf)]
+* [**EMNLP'26**] Entropy-Guided Token Dropout: Training Autoregressive Language Models with Limited Domain Data [[Paper](https://aclanthology.org/2026.emnlp-main.902.pdf)]
+* [**EMNLP'26**] Accelerating Constrained Decoding with Token Space Compression [[Paper](https://aclanthology.org/2026.emnlp-main.749.pdf)]
+* [**EMNLP'26**] One Size Does Not Fit All: Token-Wise Adaptive Compression for KV Cache [[Paper](https://aclanthology.org/2026.emnlp-main.524.pdf)] [[Code](https://github.com/LUMIA-Group/DynaKV)] 
+* [**EMNLP'26**] When Less is More: Understanding When Token Filtering Helps and Fails in AI-generated Text Detection [[Paper](https://aclanthology.org/2026.emnlp-main.500.pdf)] 
+* [**EMNLP'26**] BORA-BUDGET: Learning When to Think Under a Token Budget [[Paper](https://aclanthology.org/2026.emnlp-main.480.pdf)] 
+* [**EMNLP'26**] Compressing Sequences in the Latent Embedding Space: K-Token Merging for Large Language Models [[Paper](https://aclanthology.org/2026.emnlp-main.19.pdf)] [[Code](https://github.com/shsjxzh/K-Token-Merging)] 
 * [**EMNLP'26**] PATS: Process-Level Adaptive Thinking Mode Switching [[Paper](https://arxiv.org/pdf/2505.19250)] [[Code](https://github.com/NJUNLP/PATS)] 
 * [**EMNLP'26**] Dynamic Rollout Editing for Reducing Overthinking in RL-Trained Reasoning Models [[Paper](https://arxiv.org/pdf/2606.17890)]
 * [**EMNLP'26**] HybridThinker: Efficient Chain-of-Thought Reasoning via Compressed Memory and Transient Thought Steps [[Paper](https://arxiv.org/pdf/2606.03768)]
@@ -269,6 +278,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ACL'26**] Reinforced Efficient Reasoning via Semantically Diverse Exploration [[Paper](https://arxiv.org/pdf/2601.05053)] [[Code](https://github.com/ZiqiZhao1/ROSE-rl)]
 * [**ACL'26**] Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention [[Paper](https://arxiv.org/pdf/2510.13940)] [[Code](https://github.com/EnVision-Research/MTI)]
 * [**ACL'26**] Revisiting Model Interpolation for Efficient Reasoning [[Paper](https://arxiv.org/pdf/2510.10977)] [[Code](https://github.com/wutaiqiang/MI)]
+* [**ICLR'26**] TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching [[Paper](https://arxiv.org/pdf/2601.19739)] [[Code](https://runjia.tech/iclr_tokenseek/)]
 * [**ICLR'26**] DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains [[Paper](https://arxiv.org/pdf/2510.27419)] [[Code](https://github.com/Skytliang/DeepCompress)]
 * [**ICLR'26**] Adaptive Thinking: Large Language Models Know When to Think in Latent Space [[Paper](https://openreview.net/pdf?id=2i6Rp0gCq6)] 
 * [**ICLR'26**] SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs [[Paper](https://arxiv.org/pdf/2510.05069)] [[Code](https://github.com/sdc17/SwiReasoning)]
@@ -383,6 +393,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPS'26**] EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning [[Paper](https://arxiv.org/pdf/2605.19506)]
 * [**NeurIPS'26**] Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving [[Paper](https://arxiv.org/pdf/2610.25734)] [[Code](https://wj-cv.github.io/LECDrive/)]
 * [**NeurIPS'26**] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.11856)] [[Code](https://github.com/Warrenustc1958/UniVLR)]
+* [**EMNLP'26**] Shallow to Deep: Aligning Token Pruning with Stage-wise Roles in LVLMs [[Paper](https://aclanthology.org/2026.emnlp-main.1226.pdf)] [[Code](https://github.com/Twilight03/STD)]
+* [**EMNLP'26**] From Saliency Ranking to Evidence Preservation: Visual Token Condensation for Efficient Multimodal Reasoning [[Paper](https://aclanthology.org/2026.emnlp-main.771.pdf)]
+* [**EMNLP'26**] SieveServe: Adaptive Visual Token Pruning for Reliable and Efficient Multimodal LLM Inference [[Paper](https://aclanthology.org/2026.emnlp-main.648.pdf)]
+* [**EMNLP'26**] Multi-Image Visual Token Pruning in Large Visual Language Models [[Paper](https://arxiv.org/pdf/2608.26806)] [[Code](https://github.com/zry13/AVTP)]
 * [**EMNLP'26**] Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization [[Paper](https://arxiv.org/pdf/2609.03158)]
 * [**IROS'26**] History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation [[Paper](https://arxiv.org/pdf/2603.06480)] [[Code](https://wqtwjt1996.github.io/publications/2026-vln.html)]
 * [**ACM MM'26**] OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models [[Paper](https://arxiv.org/pdf/2607.23193)] [[Code](https://github.com/MAC-AutoML/OmniScope)]
@@ -676,9 +690,10 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPS'26**] Latent Action Reparameterization for Efficient Agent Inference [[Paper](https://arxiv.org/pdf/2605.18597)] [[Code](https://github.com/EZ-hwh/LAR)]
 * [**NeurIPS'26**] ARES: Adaptive Reasoning Effort Selection for Efficient LLM Agents [[Paper](https://arxiv.org/pdf/2603.07915)] [[Code](https://github.com/UCSB-NLP-Chang/Ares)]
 * [**COLM'26**] The Devil Is in the Interface: Evaluating How Tool Architecture Shapes Coding Agent Behavior [[Paper](https://arxiv.org/pdf/2608.11386)]
+* [**EMNLP'26**] ToolGate: Token-Efficient Pre-Call Control for Tool-Augmented Vision-Language Agents [[Paper](https://aclanthology.org/2026.emnlp-main.384.pdf)]
 * [**EMNLP'26**] Rethinking the Evaluation of Efficiency Methods for Multi-Agent Systems [[Paper](https://arxiv.org/pdf/2609.05933)] [[Code](https://github.com/chili-lab/rethinking-mas-efficiency-eval)]
 * [**EMNLP'26**] One Policy, Any Budget: Internalizing Budget-Aware Search via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2609.00813)] [[Code](https://github.com/xwsun01/AnySearch)]
-* [**EMNLP'26**] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory [[Paper](https://arxiv.org/pdf/2508.04903)]
+* [**EMNLP'26**] RCR-Router: Role-Conditioned Context Routing for Resource-Efficient Multi-Agent LLM Systems [[Paper](https://aclanthology.org/2026.findings-emnlp.425.pdf)]
 * [**EMNLP'26**] TokenPilot: Cache-Efficient Context Management for LLM Agents [[Paper](https://arxiv.org/pdf/2606.17016)] [[Code](https://github.com/zjunlp/LightMem2)]
 * [**Project'26**] PilotDeck: A WorkSpace-Centric Open-Source Agent Operating System [[Code](https://github.com/OpenBMB/PilotDeck)]
 * [**ICML'26**] Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents [[Paper](https://arxiv.org/pdf/2606.06036)] [[Code](https://github.com/Ji-shuo/MRAgent)]
