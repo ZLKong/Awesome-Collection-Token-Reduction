@@ -407,7 +407,6 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPS'26**] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.11856)] [[Code](https://github.com/Warrenustc1958/UniVLR)]
 * [**EMNLP'26**] V-CoLA: Vision Token Compression with Linear Attention [[Paper](https://aclanthology.org/2026.emnlp-main.2593.pdf)]
 * [**EMNLP'26**] MVP: Multi-View-Guided Token Pruning for Vision-Language Models [[Paper](https://aclanthology.org/2026.emnlp-main.2066.pdf)] [[Code](https://github.com/ChenxiCCW/MVP)]
-* [**EMNLP'26**] MVP: Multi-View-Guided Token Pruning for Vision-Language Models [[Paper](https://aclanthology.org/2026.emnlp-main.2066.pdf)] [[Code](https://github.com/ChenxiCCW/MVP)]
 * [**EMNLP'26**] From Saliency to Discriminability: Rank-Preserving Visual Token Pruning for VLM Rerankers [[Paper](https://aclanthology.org/2026.emnlp-main.1936.pdf)]
 * [**EMNLP'26**] Stride-k Subsampling: Train-Free Audio Token Reduction for Whisper [[Paper](https://aclanthology.org/2026.emnlp-main.1608.pdf)]
 * [**EMNLP'26**] Shallow to Deep: Aligning Token Pruning with Stage-wise Roles in LVLMs [[Paper](https://aclanthology.org/2026.emnlp-main.1226.pdf)] [[Code](https://github.com/Twilight03/STD)]
