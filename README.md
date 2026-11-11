@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/11/06`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/11/11`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -40,6 +40,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="vision"></a>
 #### 2026
 * [**NeurIPS'26**] Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention [[Paper](https://arxiv.org/pdf/2605.23451)] [[Code](https://github.com/Seiun-Sky-debug/SANASR)]
+* [**NeurIPS'26**] Disentangling Channel Semantics in Vision Transformers via Token Decorrelation and Composition-Aware Modulation [[Paper](https://arxiv.org/pdf/2611.10497)] [[Code](https://github.com/kimdanni/MuCa-ViT)]
+* [**NeurIPS'26**] Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation [[Paper](https://arxiv.org/pdf/2611.07613)] [[Code](https://keio-csg.github.io/FWL-ToPM/)]
 * [**NeurIPS'26**] UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models [[Paper](https://arxiv.org/pdf/2610.25001)] [[Code](https://ornl-utome.github.io)]
 * [**NeurIPS'26**] UDT: Reconciling U-Nets and Diffusion Transformers with Data-Adaptive Token Reduction [[Paper](https://arxiv.org/pdf/2608.01298)] [[Code](https://github.com/JN-Yun/UDT)]
 * [**NeurIPS'26**] Boosting Text-to-Image Diffusion Models via Core Token Attention-Based Seed Selection [[Paper](https://arxiv.org/pdf/2605.19532)]
@@ -187,11 +189,19 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="language"></a>
 #### 2026
 * [arXiv] SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models [[Paper](https://arxiv.org/pdf/2610.26793)]
+* [**NeurIPS'26**] STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs [[Paper](https://arxiv.org/pdf/2602.02180)] [[Code](https://github.com/ZacharyMeng/STILL)]
+* [**NeurIPS'26**] Efficient Reasoning via Constrained Optimization in Latent Space [[Paper](https://arxiv.org/pdf/2609.34181)] [[Code](https://github.com/hzn18/Opt4Reasoning)]
 * [**NeurIPS'26**] On the Token Value Inequality in Efficient Reasoning [[Paper](https://arxiv.org/pdf/2609.33970)] [[Code](https://runjia.tech/tokenprobe/)]
 * [**NeurIPS'26**] Rep2Text: Decoding Full Text from a Single LLM Token Representation [[Paper](https://arxiv.org/pdf/2511.06571)] [[Code](https://github.com/hy-zhao23/Rep2Text)]
 * [**NeurIPS'26**] DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards [[Paper](https://arxiv.org/pdf/2605.08441)] [[Code](https://github.com/Haoyu-Hu/DUET)]
 * [**NeurIPS'26**] LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models [[Paper](https://arxiv.org/pdf/2605.09806)] [[Code](https://github.com/CrazyMint/LEAD)]
 * [**NeurIPS'26**] Quantized Reasoning Models Think They Need to Think Longer, but They Do Not [[Paper](https://arxiv.org/pdf/2606.00206)] [[Code](https://sanaelotfi.github.io/blog/quantized-reasoning-models/)]
+* [**EMNLP'26**] Hybrid PIR: Balancing Token Compression and Structural Invariance via Paninian Role Assignment [[Paper](https://aclanthology.org/2026.findings-emnlp.1647.pdf)] 
+* [**EMNLP'26**] GMTS: Gradient Magnitude-based Token Selection Improves RLVR Training for LLM Reasoning [[Paper](https://aclanthology.org/2026.findings-emnlp.2429.pdf)] [[Code](https://github.com/outongyiLv/GMTS)]
+* [**EMNLP'26**] TokenRouter: Uncertainty-Guided Token-Level Routing for Efficient LLM Reasoning [[Paper](https://aclanthology.org/2026.findings-emnlp.1891.pdf)] [[Code](https://github.com/sznnzs/TokenRouter)]
+* [**EMNLP'26**] BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens [[Paper](https://aclanthology.org/2026.findings-emnlp.1465.pdf)] [[Code](https://github.com/MobileLLM/BudgetThinker)] 
+* [**EMNLP'26**] Beyond Ranking: Role-Specific Signals for Token-Budgeted SFT Data Selection [[Paper](https://aclanthology.org/2026.findings-emnlp.1956.pdf)]
+* [**EMNLP'26**] SmartThinker: Learning High-Density Reasoning via Step-Level Token Allocation [[Paper](https://aclanthology.org/2026.findings-emnlp.640.pdf)]
 * [**EMNLP'26**] EntropyPrune: Matrix Entropy Guided Visual Token Pruning for Multimodal Large Language Models [[Paper](https://aclanthology.org/2026.findings-emnlp.385.pdf)] [[Code](https://github.com/YahongWang1/EntropyPrune)] 
 * [**EMNLP'26**] CoIn: Counting the Invisible Reasoning Tokens in Commercial Opaque LLM APIs [[Paper](https://aclanthology.org/2026.findings-emnlp.363.pdf)] [[Code](https://github.com/CASE-Lab-UMD/LLM-Auditing-CoIn)] 
 * [**EMNLP'26**] Making Every Verified Token Count: Adaptive Verification for MoE Speculative Decoding [[Paper](https://aclanthology.org/2026.findings-emnlp.380.pdf)]
@@ -392,7 +402,11 @@ A detailed list of papers organized by modality can be found in this [Google She
 
 #### 2026
 * [arXiv] Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs [[Paper](https://arxiv.org/pdf/2610.36671)] [[Code](https://hyeon9698.github.io/LOWN/)]
+* [arXiv] OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [[Paper](https://arxiv.org/pdf/2610.01762)] [[Code](https://mcg-nju.github.io/OneStreamer)]
+* [arXiv] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[Paper](https://arxiv.org/pdf/2607.14935)] [[Code](https://mcg-nju.github.io/VideoChat3)]
 * [arXiv] Complementary Future Token Pruning for World Action Models [[Paper](https://arxiv.org/pdf/2610.19957)]
+* [**NeurIPS'26**] Vision Token Pruning via Query-Vision Interaction Decomposition [[Paper](https://arxiv.org/pdf/2610.33215)] [[Code](https://github.com/harshithanjaniathi/QViD)]
+* [**NeurIPS'26**] SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass [[Paper](https://arxiv.org/pdf/2602.03134)] [[Code](https://github.com/qianchen214/SwiftVLM)]
 * [**NeurIPS'26**] TwinPrune: Density-Aware Two-Phase Token Pruning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2610.17530)] [[Code](https://github.com/Kai-Liu001/TwinPrune)]
 * [**NeurIPS'26**] Not All Tokens Should Be Treated Equally: Context Credits Reassignment [[Paper](https://daryl-gsj.github.io/HiCCR/paper.pdf)] [[Code](https://daryl-gsj.github.io/HiCCR/)]
 * [**NeurIPS'26**] Beyond Selection: Token Parameterization for Extreme Visual Token Compression [[Paper](https://arxiv.org/pdf/2609.35232)] [[Code](https://zrrraa.github.io/Braco/)]
@@ -405,6 +419,14 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**NeurIPS'26**] EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning [[Paper](https://arxiv.org/pdf/2605.19506)]
 * [**NeurIPS'26**] Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving [[Paper](https://arxiv.org/pdf/2610.25734)] [[Code](https://wj-cv.github.io/LECDrive/)]
 * [**NeurIPS'26**] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.11856)] [[Code](https://github.com/Warrenustc1958/UniVLR)]
+* [**EMNLP'26**] SaToMe: Salience-Driven Token Merging for Omni-Capable Diffusion MLLMs [[Paper](https://aclanthology.org/2026.findings-emnlp.1954.pdf)] [[Code](https://github.com/sixun-liu/SaToMe)]
+* [**EMNLP'26**] Entropy Is Not Enough: Unlocking Effective Reinforcement Learning for Visual Reasoning via Vision-Anchored Token Selection [[Paper](https://aclanthology.org/2026.findings-emnlp.2086.pdf)] [[Code](https://github.com/Leonnnnnn929/VEPO)]
+* [**EMNLP'26**] IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models [[Paper](https://aclanthology.org/2026.findings-emnlp.1778.pdf)] [[Code](https://github.com/jhtwosun/IWP)]
+* [**EMNLP'26**] RAMP: Regime-Aware Merge–Prune Token Compression for ASR-Oriented Audio-Language Models [[Paper](https://aclanthology.org/2026.findings-emnlp.1609.pdf)]
+* [**EMNLP'26**] HAP: Head-Adaptive Visual Token Pruning via Cross-Modal Alignment [[Paper](https://aclanthology.org/2026.findings-emnlp.1450.pdf)] [[Code](https://github.com/baokou-fw2/HAP)]
+* [**EMNLP'26**] AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference via Dynamical Text Guidance [[Paper](https://aclanthology.org/2026.findings-emnlp.945.pdf)] [[Code](https://github.com/weiczh02/AdaptInfer-base)]
+* [**EMNLP'26**] MERTA: Multi-Expert Retrieval for Token Allocation in Video Large Language Models [[Paper](https://aclanthology.org/2026.findings-emnlp.862.pdf)]
+* [**EMNLP'26**] SinkPruner: Sink-Free Visual Token Pruning for Multimodal Large Language Models [[Paper](https://aclanthology.org/2026.findings-emnlp.657.pdf)] [[Code](https://github.com/LaVi-Lab/SinkPruner)]
 * [**EMNLP'26**] V-CoLA: Vision Token Compression with Linear Attention [[Paper](https://aclanthology.org/2026.emnlp-main.2593.pdf)]
 * [**EMNLP'26**] MVP: Multi-View-Guided Token Pruning for Vision-Language Models [[Paper](https://aclanthology.org/2026.emnlp-main.2066.pdf)] [[Code](https://github.com/ChenxiCCW/MVP)]
 * [**EMNLP'26**] From Saliency to Discriminability: Rank-Preserving Visual Token Pruning for VLM Rerankers [[Paper](https://aclanthology.org/2026.emnlp-main.1936.pdf)]
