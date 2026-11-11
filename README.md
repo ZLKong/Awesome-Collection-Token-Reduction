@@ -401,6 +401,9 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**WACV'27**] FastVLA: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models [[Paper](https://arxiv.org/pdf/2610.22146)] [[Code](https://github.com/jiuyixu25/FastVLA)]
 
 #### 2026
+* [arXiv] OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [[Paper](https://arxiv.org/abs/2610.01762)] [[Code](https://github.com/MCG-NJU/OneStreamer)]
+* [arXiv] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[Paper](https://arxiv.org/abs/2607.14935)] [[Code](https://github.com/MCG-NJU/VideoChat3)]
+
 * [arXiv] Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs [[Paper](https://arxiv.org/pdf/2610.36671)] [[Code](https://hyeon9698.github.io/LOWN/)]
 * [arXiv] OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [[Paper](https://arxiv.org/pdf/2610.01762)] [[Code](https://mcg-nju.github.io/OneStreamer)]
 * [arXiv] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[Paper](https://arxiv.org/pdf/2607.14935)] [[Code](https://mcg-nju.github.io/VideoChat3)]
