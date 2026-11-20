@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/11/18`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/11/21`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -39,6 +39,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 ## 🌁 Vision 
 <a id="vision"></a>
 #### 2026
+* [**NeurIPS'26**] Less is More: Fewer Tokens and Blocks Make AIGI Detection Faster and More Generalizable [[Paper](https://openreview.net/pdf?id=l7AUTUgcKZ)]
 * [**NeurIPS'26**] Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention [[Paper](https://arxiv.org/pdf/2605.23451)] [[Code](https://github.com/Seiun-Sky-debug/SANASR)]
 * [**NeurIPS'26**] Disentangling Channel Semantics in Vision Transformers via Token Decorrelation and Composition-Aware Modulation [[Paper](https://arxiv.org/pdf/2611.10497)] [[Code](https://github.com/kimdanni/MuCa-ViT)]
 * [**NeurIPS'26**] Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation [[Paper](https://arxiv.org/pdf/2611.07613)] [[Code](https://keio-csg.github.io/FWL-ToPM/)]
@@ -192,6 +193,8 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="language"></a>
 #### 2026
 * [arXiv] SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models [[Paper](https://arxiv.org/pdf/2610.26793)]
+* [**NeurIPS'26**] CalConf: Calibrated Confidence for Efficient Test-Time Reasoning [[Paper](https://openreview.net/pdf?id=pud2pPkedd)] [[Code](https://github.com/tmlr-group/calconf)]
+* [**NeurIPS'26**] TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG [[Paper](https://openreview.net/pdf?id=2UTqijjMAy)] [[Code](https://github.com/tomzhang97/Trident)]
 * [**NeurIPS'26**] STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs [[Paper](https://arxiv.org/pdf/2602.02180)] [[Code](https://github.com/ZacharyMeng/STILL)]
 * [**NeurIPS'26**] Efficient Reasoning via Constrained Optimization in Latent Space [[Paper](https://arxiv.org/pdf/2609.34181)] [[Code](https://github.com/hzn18/Opt4Reasoning)]
 * [**NeurIPS'26**] On the Token Value Inequality in Efficient Reasoning [[Paper](https://arxiv.org/pdf/2609.33970)] [[Code](https://runjia.tech/tokenprobe/)]
@@ -412,6 +415,11 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [arXiv] OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [[Paper](https://arxiv.org/pdf/2610.01762)] [[Code](https://mcg-nju.github.io/OneStreamer)]
 * [arXiv] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[Paper](https://arxiv.org/pdf/2607.14935)] [[Code](https://mcg-nju.github.io/VideoChat3)]
 * [arXiv] Complementary Future Token Pruning for World Action Models [[Paper](https://arxiv.org/pdf/2610.19957)]
+* [**NeurIPS'26**] TeMPO: Frame-Causal Token Compression for Efficient Video Large Language Models [[Paper](https://openreview.net/pdf?id=6zXzWufbUb)] [[Code](https://laiyingxin2.github.io/TeMPO/)]
+* [**NeurIPS'26**] LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding [[Paper](https://openreview.net/pdf?id=fIhhoX1Hdd)]
+* [**NeurIPS'26**] FocusVLA: Hijacking Attention to Break Visual Token Pruning in Vision-Language-Action Models [[Paper](https://openreview.net/pdf?id=nVC1CnoI2V)] [[Code](https://github.com/1371149/FocusVLA)]
+* [**NeurIPS'26**] Fewer Tokens, Fewer Layers: Efficient Vision Token Pruning and On-Policy Distillation to Accelerate VLMs [[Paper](https://openreview.net/pdf?id=T7WbWqjpqm)]
+* [**NeurIPS'26**] SearchV: Evolutionary Fine-Grained Visual-Token Skipping for Efficient Vision-Language Models [[Paper](https://openreview.net/pdf?id=hiy8FQrDmX)] [[Code](https://github.com/chenxinrui-tsinghua/SearchV)]
 * [**NeurIPS'26**] V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models [[Paper](https://arxiv.org/pdf/2603.27650)] [[Code](https://xinyouu.github.io/V-CAST/)]
 * [**NeurIPS'26**] AdaAlloc: Adaptive Visual Token Allocation for Long-Video Question Answering [[Paper](https://arxiv.org/pdf/2611.09092)] [[Code](https://vision.cs.utexas.edu/projects/adaalloc/)]
 * [**NeurIPS'26**] LensVLM: Selective Context Expansion for Compressed Visual Representation of Text [[Paper](https://arxiv.org/pdf/2605.07019)] [[Code](https://github.com/apple-aiml-research/ml-lensvlm)]
