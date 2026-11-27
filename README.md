@@ -20,7 +20,7 @@ If you find our work useful for your project, please consider citing our paper a
 ```
 
 ## 📢 News
-- **`2026/11/21`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
+- **`2026/11/27`** Added WACV 2027, NeurIPS 2026, COLM 2026, IROS 2026, EMNLP 2026, IJCAI 2026, ACM MM 2026, ECCV 2026, ICML 2026, ACL 2026, CVPR 2026, ICLR 2026, ICRA 2026, AAAI 2026, WACV 2026, ICASSP 2026, 3DV 2026, TMLR 2026.
 - **`2026/01/12`** 🔥🔥 Added new section 🤖***Agentic Systems***.
 - **`2026/01/12`** 🔥🔥 Update paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/pdf/2505.18227v4)": ***Add Agent, Efficient Reasoning, VLA and more reference works***.
 - **`2025/05/25`** Checkout our newly released **position** paper "[Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227)", which demonstrates how token reduction is leveraged for **more than just efficiency gains**, and outlines key future directions.
@@ -55,6 +55,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ECCV'26**] Background Blurring Matters: Improving Visual Grounding by Merging Text-Irrelevant Tokens [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8758.pdf)] [[Code](https://github.com/Mr-Bigworth/ToB)]
 * [**ECCV'26**] TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution [[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1923.pdf)] [[Code](https://github.com/Ree1s/TRaM-VSR)]
 * [**ECCV'26**] Less Tokens, Better Forecasts: Sparse Residual Routing for Efficient Weather Prediction [[Paper](https://arxiv.org/pdf/2607.02829)] [[Code](https://github.com/janet-sw/Sparse-Reslim)]
+* [**ACM MM'26**] RCTR: Risk-Calibrated Token Routing for Long-Horizon OnlineVideo Inpainting [[Paper](https://dl.acm.org/doi/10.1145/3767308.3835830)]
 * [**IJCAI'26**] Joint Neural Architecture Search and Token Pruning for Efficient Visual Tracking [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2992.pdf)] [[Code](https://github.com/Cyhoon84/NASTrack)]
 * [**ICML'26**] Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers [[Paper](https://openreview.net/pdf?id=6ER1mP51np)]
 * [**ICML'26**] Foreground-Aware Token Routing Vision Transformer for Real-Time Satellite Video Tracking [[Paper](https://openreview.net/pdf?id=yB0YMDuqqx)]
@@ -193,6 +194,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 <a id="language"></a>
 #### 2026
 * [arXiv] SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models [[Paper](https://arxiv.org/pdf/2610.26793)]
+* [**NeurIPS'26**] Interleaved Latent Thinking and Adaptive Termination for Efficient Reasoning LLMs [[Paper](https://openreview.net/pdf?id=pud2pPkedd)]
 * [**NeurIPS'26**] CalConf: Calibrated Confidence for Efficient Test-Time Reasoning [[Paper](https://openreview.net/pdf?id=pud2pPkedd)] [[Code](https://github.com/tmlr-group/calconf)]
 * [**NeurIPS'26**] TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG [[Paper](https://openreview.net/pdf?id=2UTqijjMAy)] [[Code](https://github.com/tomzhang97/Trident)]
 * [**NeurIPS'26**] STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs [[Paper](https://arxiv.org/pdf/2602.02180)] [[Code](https://github.com/ZacharyMeng/STILL)]
@@ -455,6 +457,14 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**EMNLP'26**] Multi-Image Visual Token Pruning in Large Visual Language Models [[Paper](https://arxiv.org/pdf/2608.26806)] [[Code](https://github.com/zry13/AVTP)]
 * [**EMNLP'26**] Who Speaks for the Pruned? Visual Token Pruning as Coverage Optimization [[Paper](https://arxiv.org/pdf/2609.03158)]
 * [**IROS'26**] History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation [[Paper](https://arxiv.org/pdf/2603.06480)] [[Code](https://wqtwjt1996.github.io/publications/2026-vln.html)]
+* [**ACM MM'26**] HeadRouter: Dynamic Head-Weight Routing for Task-Adaptive Audio Token Pruning in Large Audio Language Models [[Paper](https://dl.acm.org/doi/10.1145/3767308.3835452)] [[Code](https://dabdans.github.io/HeadRouter/)]
+* [**ACM MM'26**] Are We Pruning the Right Tokens? Refining Text-Guided Relevance for Visual Token Pruning [[Paper](https://dl.acm.org/doi/abs/10.1145/3767308.3835414)]
+* [**ACM MM'26**] Can Visual Input Be Compressed? A Visual Input Token Compression Benchmark for Large Multimodal Models [[Paper](https://dl.acm.org/doi/10.1145/3767308.3835379)]
+* [**ACM MM'26**] Visual Token Compression Enhances Robustness of MLLMs [[Paper](https://arxiv.org/pdf/2607.22716)] [[Code](https://github.com/Eurek001/OOD-VTP)]
+* [**ACM MM'26**] GAZE: Grounding-Aware Zone-Adaptive Visual Token Selectionwith Focal-Spatial Synergy for Efficient MLLMs [[Paper](https://dl.acm.org/doi/10.1145/3767308.3835268)]
+* [**ACM MM'26**] Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models [[Paper](https://arxiv.org/pdf/2608.28138)]
+* [**ACM MM'26**] HiSC: Hierarchical Spatial Clustering Token Compression for Efficient 3D Scene Understanding [[Paper](https://arxiv.org/pdf/2608.04610)] [[Code](https://github.com/elecreak/HiSC)]
+* [**ACM MM'26**] OmniDTBC: Dynamic Token Budget Compression forVideo-Audio Large Language Model [[Paper](https://dl.acm.org/doi/10.1145/3767308.3836332)]
 * [**ACM MM'26**] OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models [[Paper](https://arxiv.org/pdf/2607.23193)] [[Code](https://github.com/MAC-AutoML/OmniScope)]
 * [**ACM MM'26**] Decoupled Similarity for Task-Aware Token Pruning in Large Vision-Language Models [[Paper](https://arxiv.org/pdf/2604.11240)]
 * [**ACM MM'26**] VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2510.16598)] [[Code](https://github.com/JulietChoo/VisionSelector)]
@@ -483,6 +493,7 @@ A detailed list of papers organized by modality can be found in this [Google She
 * [**ECCV'26**] 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering [[Paper](https://arxiv.org/pdf/2608.01185)] [[Code](https://github.com/cvsp-lab/3DZip)]
 * [**ECCV'26**] Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs [[Paper](https://arxiv.org/pdf/2602.05275)]
 * [**ECCV'26**] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts [[Paper](https://arxiv.org/pdf/2606.31986)] [[Code](https://github.com/hulianyuyy/CoLT)]
+* [**COLM'26**] Gaze Attention: Query-Adaptive Visual Routing for Efficient Multimodal LLMs [[Paper](https://arxiv.org/pdf/2605.13080)] [[Code](https://github.com/junha1125/Gaze-Attention)]
 * [**ICML'26**] Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs [[Paper](https://openreview.net/pdf?id=D3OHVbePvz)] 
 * [**ICML'26**] Ask Less, See More: Communication-Conditioned Token Pruning for Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models [[Paper](https://openreview.net/pdf?id=HWMMBBujpo)] 
 * [**ICML'26**] SPLIT-VLM: Salience-Guided Partitioning towards Local Coverage for Importance-Aware Token Dropping in Vision-Language Models [[Paper](https://openreview.net/pdf?id=Elm4TdaXi0)]
